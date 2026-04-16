@@ -66,3 +66,11 @@
   subject: Baie de Goji
   attribute: definition
   value: baie du lyciet commun, produit principalement dans la région du Ningxia, Chine
+- theme: usages_traditions
+  type: concept
+  tags:
+    - europe
+    - esthetique
+  subject: Couverture jaune
+  attribute: definition
+  value: "dans l'Angleterre victorienne, la couverture jaune était réservée aux livres à caractère érotique"

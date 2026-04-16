@@ -454,3 +454,38 @@
   subject: Œcuménisme
   attribute: definition
   value: mouvement pour actions communes entre courants du christianisme
+- theme: histoire_societes
+  type: personne
+  tags:
+    - europe
+    - moyen_age
+    - guerre
+  subject: Vlad III
+  attribute: surnom
+  value: "Dracul (« diable » ou « dragon » en valaque) et Tepes (« l'empaleur »)"
+- theme: histoire_societes
+  type: personne
+  tags:
+    - europe
+    - moyen_age
+    - guerre
+  subject: Vlad III
+  attribute: role
+  value: voïvode de Valachie au XVe siècle, a combattu les Ottomans
+- theme: histoire_societes
+  type: personne
+  tags:
+    - europe
+    - moyen_age
+    - guerre
+  subject: Vlad III
+  attribute: note
+  value: "a inspiré le personnage du comte Dracula de Bram Stoker ; pratiquait le supplice du pal sur ses ennemis"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - europe
+    - contemporain
+  subject: Naufrage du Titanic
+  attribute: date
+  value: nuit du 14 au 15 avril 1912

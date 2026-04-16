@@ -78,9 +78,15 @@ If no existing tag fits well, **ask the user** whether to:
 - Use the closest existing tag
 - Create a new tag — in that case, also add it to the appropriate category in `TAGS` in [dictionary.js](../../../scripts/dictionary.js)
 
-### 6. Check for existing subject
+### 6. Check for duplicates
 
-Search the target YAML file for the subject name. If the subject already exists, append new attributes after the last entry for that subject to keep entries grouped.
+Search the target YAML file for the subject name.
+
+- If the subject exists **and** an entry with the same `attribute` key already exists for that subject, **compare values**:
+  - If the existing value conveys the same information → **skip** that entry and inform the user it already exists.
+  - If the new value adds meaningful detail or corrects the existing one → **ask the user** whether to update (replace) the existing entry or skip it.
+- If the subject exists but the attribute is new → append the new entry after the last entry for that subject to keep entries grouped.
+- If the subject does not exist → append at the end of the file.
 
 ### 7. Write the entries
 

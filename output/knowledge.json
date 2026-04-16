@@ -627,6 +627,53 @@
     "value": "mouvement pour actions communes entre courants du christianisme"
   },
   {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "europe",
+      "moyen_age",
+      "guerre"
+    ],
+    "subject": "Vlad III",
+    "attribute": "surnom",
+    "value": "Dracul (« diable » ou « dragon » en valaque) et Tepes (« l'empaleur »)"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "europe",
+      "moyen_age",
+      "guerre"
+    ],
+    "subject": "Vlad III",
+    "attribute": "role",
+    "value": "voïvode de Valachie au XVe siècle, a combattu les Ottomans"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "europe",
+      "moyen_age",
+      "guerre"
+    ],
+    "subject": "Vlad III",
+    "attribute": "note",
+    "value": "a inspiré le personnage du comte Dracula de Bram Stoker ; pratiquait le supplice du pal sur ses ennemis"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "europe",
+      "contemporain"
+    ],
+    "subject": "Naufrage du Titanic",
+    "attribute": "date",
+    "value": "nuit du 14 au 15 avril 1912"
+  },
+  {
     "theme": "geographie_territoires",
     "type": "lieu",
     "tags": [
@@ -1261,6 +1308,7 @@
     "theme": "langue_litterature",
     "type": "oeuvre",
     "tags": [
+      "litterature",
       "europe"
     ],
     "subject": "Dracula",
@@ -1271,6 +1319,7 @@
     "theme": "langue_litterature",
     "type": "oeuvre",
     "tags": [
+      "litterature",
       "europe"
     ],
     "subject": "Dracula",
@@ -1281,11 +1330,45 @@
     "theme": "langue_litterature",
     "type": "personne",
     "tags": [
+      "litterature",
       "europe"
     ],
     "subject": "Bram Stoker",
     "attribute": "nationalite",
     "value": "irlandais"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Bram Stoker",
+    "attribute": "vrai_nom",
+    "value": "Abraham Stoker"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Bram Stoker",
+    "attribute": "dates",
+    "value": "1847-1912"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Bram Stoker",
+    "attribute": "role",
+    "value": "écrivain irlandais, auteur du roman gothique Dracula"
   },
   {
     "theme": "langue_litterature",
@@ -1396,6 +1479,61 @@
     "subject": "Phonème",
     "attribute": "definition",
     "value": "plus petite unité sonore, combinés pour former morphèmes, mots, phrases"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Carmilla",
+    "attribute": "auteur",
+    "value": "Sheridan Le Fanu"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Carmilla",
+    "attribute": "date",
+    "value": "1872"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Carmilla",
+    "attribute": "note",
+    "value": "roman vampirique précurseur de Dracula"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Le Château des Carpates",
+    "attribute": "auteur",
+    "value": "Jules Verne"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "europe"
+    ],
+    "subject": "Le Château des Carpates",
+    "attribute": "date",
+    "value": "1892"
   },
   {
     "theme": "arts_culture",
@@ -1777,6 +1915,17 @@
     "subject": "Baie de Goji",
     "attribute": "definition",
     "value": "baie du lyciet commun, produit principalement dans la région du Ningxia, Chine"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "concept",
+    "tags": [
+      "europe",
+      "esthetique"
+    ],
+    "subject": "Couverture jaune",
+    "attribute": "definition",
+    "value": "dans l'Angleterre victorienne, la couverture jaune était réservée aux livres à caractère érotique"
   },
   {
     "theme": "sciences_vivant",

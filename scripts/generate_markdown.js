@@ -54,17 +54,9 @@ try {
           lines.push(`- ${attribute} : ${value}`);
         }
         lines.push("");
-      } else if (attrs.length === 1) {
-        lines.push(`**${subject}** — ${attrs[0].value}`);
-      } else if (attrs.length <= INLINE_THRESHOLD) {
-        const values = attrs.map((a) => a.value).join(" · ");
-        lines.push(`**${subject}** — ${values}`);
       } else {
-        lines.push(`**${subject}**`);
-        for (const { value } of attrs) {
-          lines.push(`- ${value}`);
-        }
-        lines.push("");
+        const values = attrs.map((a) => a.value).join(" · ");
+        lines.push(`**${subject}** — ${values}\n`);
       }
     }
 

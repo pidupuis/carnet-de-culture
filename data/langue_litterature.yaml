@@ -225,6 +225,7 @@
 - theme: langue_litterature
   type: oeuvre
   tags:
+    - litterature
     - europe
   subject: Dracula
   attribute: auteur
@@ -232,6 +233,7 @@
 - theme: langue_litterature
   type: oeuvre
   tags:
+    - litterature
     - europe
   subject: Dracula
   attribute: date
@@ -239,10 +241,35 @@
 - theme: langue_litterature
   type: personne
   tags:
+    - litterature
     - europe
   subject: Bram Stoker
   attribute: nationalite
   value: irlandais
+- theme: langue_litterature
+  type: personne
+  tags:
+    - litterature
+    - europe
+  subject: Bram Stoker
+  attribute: vrai_nom
+  value: Abraham Stoker
+- theme: langue_litterature
+  type: personne
+  tags:
+    - litterature
+    - europe
+  subject: Bram Stoker
+  attribute: dates
+  value: 1847-1912
+- theme: langue_litterature
+  type: personne
+  tags:
+    - litterature
+    - europe
+  subject: Bram Stoker
+  attribute: role
+  value: écrivain irlandais, auteur du roman gothique Dracula
 - theme: langue_litterature
   type: concept
   tags: []
@@ -322,3 +349,43 @@
   subject: Phonème
   attribute: definition
   value: plus petite unité sonore, combinés pour former morphèmes, mots, phrases
+- theme: langue_litterature
+  type: oeuvre
+  tags:
+    - litterature
+    - europe
+  subject: Carmilla
+  attribute: auteur
+  value: Sheridan Le Fanu
+- theme: langue_litterature
+  type: oeuvre
+  tags:
+    - litterature
+    - europe
+  subject: Carmilla
+  attribute: date
+  value: "1872"
+- theme: langue_litterature
+  type: oeuvre
+  tags:
+    - litterature
+    - europe
+  subject: Carmilla
+  attribute: note
+  value: roman vampirique précurseur de Dracula
+- theme: langue_litterature
+  type: oeuvre
+  tags:
+    - litterature
+    - europe
+  subject: Le Château des Carpates
+  attribute: auteur
+  value: Jules Verne
+- theme: langue_litterature
+  type: oeuvre
+  tags:
+    - litterature
+    - europe
+  subject: Le Château des Carpates
+  attribute: date
+  value: "1892"
