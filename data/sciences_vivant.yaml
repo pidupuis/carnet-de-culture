@@ -1,0 +1,165 @@
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - microbiologie
+  subject: Tularémie
+  attribute: agent
+  value: Francisella tularensis (bacille de Francis)
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - microbiologie
+  subject: Tularémie
+  attribute: particularite
+  value: la bactérie peut traverser la peau saine
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - microbiologie
+  subject: Zoonose
+  attribute: definition
+  value: maladie transmise de l'animal aux humains et inversement
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - medecine
+  subject: Hypercapnie
+  attribute: synonyme
+  value: hypercarbie
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - medecine
+  subject: Hypercapnie
+  attribute: definition
+  value: excès de CO2 dans le sang
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - elevage
+  subject: Génisse
+  attribute: definition
+  value: vache n'ayant pas vêlé
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - medecine
+  subject: Lochies
+  attribute: definition
+  value: pertes vaginales sécrétées après l'accouchement
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - zoologie
+  subject: Aptère
+  attribute: definition
+  value: animal sans ailes
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - medecine
+  subject: Chondrite
+  attribute: definition
+  value: inflammation d'un cartilage
+- theme: sciences_vivant
+  type: entite
+  tags:
+    - zoologie
+    - marsupiaux
+  subject: Macropodidae
+  attribute: definition
+  value: famille de marsupiaux (kangourous, wallabies, thylogales…)
+- theme: sciences_vivant
+  type: entite
+  tags:
+    - zoologie
+    - marsupiaux
+  subject: Thylogales
+  attribute: synonyme
+  value: pademelons
+- theme: sciences_vivant
+  type: entite
+  tags:
+    - zoologie
+    - marsupiaux
+  subject: Thylogales
+  attribute: surnom
+  value: petit kangourou de la forêt
+- theme: sciences_vivant
+  type: substance
+  tags:
+    - medecine
+  subject: Viagra
+  attribute: molecule
+  value: citrate de sildénafil
+- theme: sciences_vivant
+  type: substance
+  tags:
+    - medecine
+  subject: Viagra
+  attribute: fabricant
+  value: Pfizer
+- theme: sciences_vivant
+  type: substance
+  tags:
+    - medecine
+  subject: Viagra
+  attribute: etymologie
+  value: contraction de "vigueur" et "chute du Niagara"
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - anatomie
+  subject: Smegma
+  attribute: definition
+  value: substance blanchâtre et caséeuse sous le prépuce et la région vulvaire
+- theme: sciences_vivant
+  type: personne
+  tags:
+    - medecine
+    - invention
+  subject: Ernst Gräfenberg
+  attribute: invention
+  value: le stérilet
+- theme: sciences_vivant
+  type: personne
+  tags:
+    - medecine
+  subject: Ernst Gräfenberg
+  attribute: note
+  value: a donné son nom au point G
+- theme: sciences_vivant
+  type: entite
+  tags:
+    - zoologie
+  subject: Proboscidiens
+  attribute: etymologie
+  value: du grec proboskis signifiant "trompe"
+- theme: sciences_vivant
+  type: entite
+  tags:
+    - zoologie
+  subject: Proboscidiens
+  attribute: definition
+  value: ordre de mammifères ne comprenant que les éléphants
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - anatomie
+  subject: Carotides
+  attribute: definition
+  value: artères dans le thorax et le cou
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - anatomie
+  subject: Carotides
+  attribute: etymologie
+  value: dérivé du grec signifiant "soporifique"
+- theme: sciences_vivant
+  type: entite
+  tags:
+    - botanique
+  subject: Orge
+  attribute: nom_latin
+  value: Hordeum vulgare

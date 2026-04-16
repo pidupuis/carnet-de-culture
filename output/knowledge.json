@@ -1,0 +1,2346 @@
+[
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "italie",
+      "trecento"
+    ],
+    "subject": "Giotto",
+    "attribute": "vrai_nom",
+    "value": "Ambrogiotto di Bondone"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "italie",
+      "trecento"
+    ],
+    "subject": "Giotto",
+    "attribute": "dates",
+    "value": "1266/67-1337"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "italie",
+      "trecento"
+    ],
+    "subject": "Giotto",
+    "attribute": "role",
+    "value": "artiste majeur du Trecento, florentin"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "allemagne",
+      "realisme"
+    ],
+    "subject": "Lièvre",
+    "attribute": "artiste",
+    "value": "Albrecht Dürer"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "allemagne",
+      "realisme"
+    ],
+    "subject": "Lièvre",
+    "attribute": "date",
+    "value": "1502"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "allemagne",
+      "realisme"
+    ],
+    "subject": "Lièvre",
+    "attribute": "note",
+    "value": "exemple de réalisme"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "pays-bas"
+    ],
+    "subject": "Éléphant",
+    "attribute": "artiste",
+    "value": "Rembrandt"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "pays-bas"
+    ],
+    "subject": "Éléphant",
+    "attribute": "date",
+    "value": "1637"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "pays-bas"
+    ],
+    "subject": "Éléphant",
+    "attribute": "note",
+    "value": "peau ridée via quelques coups de crayon"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "italie",
+      "baroque"
+    ],
+    "subject": "Saint Mathieu",
+    "attribute": "artiste",
+    "value": "Caravage"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "italie",
+      "baroque"
+    ],
+    "subject": "Saint Mathieu",
+    "attribute": "date",
+    "value": "1602"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "italie",
+      "baroque"
+    ],
+    "subject": "Saint Mathieu",
+    "attribute": "note",
+    "value": "a dû refaire le tableau car non conventionnel"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "concept",
+    "tags": [
+      "theatre",
+      "commedia_dell_arte"
+    ],
+    "subject": "Arlequin",
+    "attribute": "definition",
+    "value": "nom des rideaux de théâtre, personnage aux costumes colorés de la commedia dell'arte"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "france",
+      "impressionnisme"
+    ],
+    "subject": "Pierre-Auguste Renoir",
+    "attribute": "role",
+    "value": "peintre impressionniste"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "france",
+      "impressionnisme"
+    ],
+    "subject": "Pierre-Auguste Renoir",
+    "attribute": "lieu_naissance",
+    "value": "Limoges"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "france",
+      "impressionnisme"
+    ],
+    "subject": "Le déjeuner des canotiers",
+    "attribute": "artiste",
+    "value": "Pierre-Auguste Renoir"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "france",
+      "impressionnisme"
+    ],
+    "subject": "Le bal du moulin de la Galette",
+    "attribute": "artiste",
+    "value": "Pierre-Auguste Renoir"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "france"
+    ],
+    "subject": "Le joueur de fifre",
+    "attribute": "artiste",
+    "value": "Édouard Manet"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "france"
+    ],
+    "subject": "Le joueur de fifre",
+    "attribute": "date",
+    "value": "1866"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "objet",
+    "tags": [
+      "france",
+      "paris"
+    ],
+    "subject": "Tour Eiffel",
+    "attribute": "hauteur",
+    "value": "330 m depuis ajout d'une antenne de 6 m en mars 2022"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "royaume-uni",
+      "beatles"
+    ],
+    "subject": "Paul McCartney",
+    "attribute": "groupes",
+    "value": "Beatles, Wings"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "royaume-uni",
+      "beatles"
+    ],
+    "subject": "Paul McCartney",
+    "attribute": "oeuvre_notable",
+    "value": "BO \"Vivre et laisser mourir\""
+  },
+  {
+    "theme": "arts_culture",
+    "type": "objet",
+    "tags": [
+      "musique"
+    ],
+    "subject": "Fifre",
+    "attribute": "definition",
+    "value": "flûte proche du piccolo, parfois sans clé"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "etats-unis"
+    ],
+    "subject": "Monsieur Verdoux",
+    "attribute": "realisateur",
+    "value": "Charlie Chaplin"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "oeuvre",
+    "tags": [
+      "etats-unis"
+    ],
+    "subject": "Monsieur Verdoux",
+    "attribute": "inspiration",
+    "value": "inspiré du Barbe-Bleue de Gambais"
+  },
+  {
+    "theme": "arts_culture",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Rowan Atkinson",
+    "attribute": "roles_celebres",
+    "value": "Mr Bean, Johnny English"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "australie"
+    ],
+    "subject": "Port de Sydney",
+    "attribute": "autre_nom",
+    "value": "Port Jackson"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "russie"
+    ],
+    "subject": "Lac Baïkal",
+    "attribute": "localisation",
+    "value": "Sibérie russe"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "russie"
+    ],
+    "subject": "Lac Baïkal",
+    "attribute": "particularite",
+    "value": "le plus profond de la planète, 1642 m de profondeur"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "pays-bas",
+      "europe"
+    ],
+    "subject": "Rotterdam",
+    "attribute": "titre",
+    "value": "plus grand port d'Europe"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "nepal",
+      "himalaya"
+    ],
+    "subject": "Éverest",
+    "attribute": "altitude",
+    "value": "8 848,86 m"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "nepal",
+      "himalaya"
+    ],
+    "subject": "Éverest",
+    "attribute": "titre",
+    "value": "plus grande montagne en terme d'altitude"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "etats-unis",
+      "hawaii"
+    ],
+    "subject": "Mauna Kea",
+    "attribute": "altitude",
+    "value": "4 207 m"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "etats-unis",
+      "hawaii"
+    ],
+    "subject": "Mauna Kea",
+    "attribute": "titre",
+    "value": "plus grande montagne depuis sa base (10 210 m)"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "equateur"
+    ],
+    "subject": "Chimborazo",
+    "attribute": "altitude",
+    "value": "6 263 m"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "equateur"
+    ],
+    "subject": "Chimborazo",
+    "attribute": "titre",
+    "value": "plus proche du soleil car situé à l'équateur"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "ethiopie"
+    ],
+    "subject": "Lac Tana",
+    "attribute": "particularite",
+    "value": "source du Nil Bleu"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "senegal",
+      "esclavage"
+    ],
+    "subject": "Gorée",
+    "attribute": "definition",
+    "value": "île dans la baie de Dakar, transit pour esclaves entre Afrique et Amérique"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "montserrat",
+      "caraibes"
+    ],
+    "subject": "Plymouth (Montserrat)",
+    "attribute": "particularite",
+    "value": "ville rasée par éruptions volcaniques dans les années 90"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "concept",
+    "tags": [
+      "sri_lanka"
+    ],
+    "subject": "Sri Lanka",
+    "attribute": "langues_officielles",
+    "value": "tamoul et singhalais"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "afrique"
+    ],
+    "subject": "Eswatini",
+    "attribute": "ancien_nom",
+    "value": "Swaziland (renommé en 2018)"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "afrique"
+    ],
+    "subject": "Eswatini",
+    "attribute": "localisation",
+    "value": "enclavé entre Afrique du Sud et Mozambique"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "concept",
+    "tags": [
+      "ecosse"
+    ],
+    "subject": "Licorne",
+    "attribute": "role",
+    "value": "symbole de l'Écosse"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Transylvanie",
+    "attribute": "etymologie",
+    "value": "\"au-delà des forêts\""
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Transylvanie",
+    "attribute": "autre_nom",
+    "value": "Ardeal"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Transylvanie",
+    "attribute": "localisation",
+    "value": "région historique du centre-ouest de la Roumanie"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Valachie",
+    "attribute": "definition",
+    "value": "principauté historique du sud de la Roumanie, au nord du Danube"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie",
+      "moldavie"
+    ],
+    "subject": "Moldavie (région)",
+    "attribute": "definition",
+    "value": "ancienne principauté entre Carpates et Dniestr, divisée entre Roumanie et Moldavie (1859)"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "concept",
+    "tags": [],
+    "subject": "Région historique",
+    "attribute": "definition",
+    "value": "territoire défini par l'histoire et la culture, sans souveraineté politique nécessaire"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "europe_centrale"
+    ],
+    "subject": "Carpates occidentales",
+    "attribute": "localisation",
+    "value": "République tchèque, Slovaquie, Pologne"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "europe_centrale"
+    ],
+    "subject": "Carpates orientales",
+    "attribute": "localisation",
+    "value": "Slovaquie, Pologne, Ukraine, Roumanie"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Carpates méridionales",
+    "attribute": "localisation",
+    "value": "Roumanie"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Carpates méridionales",
+    "attribute": "autre_nom",
+    "value": "Alpes de Transylvanie"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "slovaquie"
+    ],
+    "subject": "Mont Gerlach",
+    "attribute": "altitude",
+    "value": "2 655 m"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "slovaquie"
+    ],
+    "subject": "Mont Gerlach",
+    "attribute": "titre",
+    "value": "point culminant des Carpates"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Moldoveanu",
+    "attribute": "altitude",
+    "value": "2 544 m"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Moldoveanu",
+    "attribute": "titre",
+    "value": "plus haut sommet de Roumanie"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "france",
+      "calendrier"
+    ],
+    "subject": "Édit de Roussillon",
+    "attribute": "date",
+    "value": "9 août 1564"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "france",
+      "calendrier"
+    ],
+    "subject": "Édit de Roussillon",
+    "attribute": "effet",
+    "value": "fait passer le début d'année du 1er avril au 1er janvier"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "italie",
+      "fascisme"
+    ],
+    "subject": "Clara Petacci",
+    "attribute": "role",
+    "value": "maîtresse de Mussolini"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "crime"
+    ],
+    "subject": "Henri-Désiré Landru",
+    "attribute": "role",
+    "value": "criminel français"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "crime"
+    ],
+    "subject": "Henri-Désiré Landru",
+    "attribute": "surnom",
+    "value": "le Barbe-Bleue de Gambais"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "litterature"
+    ],
+    "subject": "Guillaume Apollinaire",
+    "attribute": "vrai_nom",
+    "value": "Wilhelm de Kostrowitzky"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "litterature"
+    ],
+    "subject": "Yves Blanc",
+    "attribute": "role",
+    "value": "marraine de guerre d'Apollinaire"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "periode",
+    "tags": [
+      "italie",
+      "renaissance"
+    ],
+    "subject": "Quattrocento",
+    "attribute": "definition",
+    "value": "XVe siècle italien, Première Renaissance"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "periode",
+    "tags": [
+      "italie",
+      "renaissance"
+    ],
+    "subject": "Quattrocento",
+    "attribute": "dates",
+    "value": "1420-1500"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "periode",
+    "tags": [
+      "italie",
+      "renaissance"
+    ],
+    "subject": "Cinquecento",
+    "attribute": "definition",
+    "value": "XVIe siècle italien, Haute Renaissance"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "objet",
+    "tags": [
+      "france",
+      "epidemie"
+    ],
+    "subject": "Grand Saint Antoine",
+    "attribute": "role",
+    "value": "navire ayant apporté la peste à Marseille en 1720"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "invention"
+    ],
+    "subject": "Louis Braille",
+    "attribute": "invention",
+    "value": "le braille, en 1829"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "invention"
+    ],
+    "subject": "Charles Barbier",
+    "attribute": "invention",
+    "value": "écriture nocturne (sonographie, écriture tactile), en 1815"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "invention"
+    ],
+    "subject": "Charles Barbier",
+    "attribute": "role",
+    "value": "précurseur du braille"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "etats-unis",
+      "invention"
+    ],
+    "subject": "Samuel Morse",
+    "attribute": "invention",
+    "value": "code Morse et télégraphe de Morse (à armature avec un courant qui émet un clic), en 1838"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "objet",
+    "tags": [
+      "royaume-uni",
+      "invention"
+    ],
+    "subject": "Télégraphe de Cooke et Wheatstone",
+    "attribute": "definition",
+    "value": "télégraphe à aiguille, 1837"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "france",
+      "aviation"
+    ],
+    "subject": "Premier vol 1890",
+    "attribute": "description",
+    "value": "Clément Ader avec l'Éole (Avion I)"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "etats-unis",
+      "aviation"
+    ],
+    "subject": "Premier vol maîtrisé 1903",
+    "attribute": "description",
+    "value": "frères Wright avec le Wright Flyer"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "royaute"
+    ],
+    "subject": "Hugues Capet",
+    "attribute": "role",
+    "value": "roi de France"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "royaute"
+    ],
+    "subject": "Hugues Capet",
+    "attribute": "couronnement",
+    "value": "987"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "france",
+      "royaute"
+    ],
+    "subject": "Hugues Capet",
+    "attribute": "dynastie",
+    "value": "Capétiens"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "belgique",
+      "religion"
+    ],
+    "subject": "Sœur Emmanuelle",
+    "attribute": "vrai_nom",
+    "value": "Madeleine Cinquin"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "belgique",
+      "religion"
+    ],
+    "subject": "Sœur Emmanuelle",
+    "attribute": "lieu_naissance",
+    "value": "Bruxelles"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "personne",
+    "tags": [
+      "belgique",
+      "religion"
+    ],
+    "subject": "Sœur Emmanuelle",
+    "attribute": "surnom",
+    "value": "petite sœur des chiffonniers"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "concept",
+    "tags": [
+      "europe_est",
+      "noblesse"
+    ],
+    "subject": "Voïvode",
+    "attribute": "definition",
+    "value": "commandant de région militaire, puis titre de noblesse dans les pays slaves et roumains"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie",
+      "empire_ottoman"
+    ],
+    "subject": "Bataille de Mohács",
+    "attribute": "date",
+    "value": "1526"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie",
+      "empire_ottoman"
+    ],
+    "subject": "Bataille de Mohács",
+    "attribute": "description",
+    "value": "défaite hongroise face aux Ottomans"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie",
+      "empire_ottoman",
+      "habsbourg"
+    ],
+    "subject": "Partage de la Hongrie",
+    "attribute": "date",
+    "value": "1541"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie",
+      "empire_ottoman",
+      "habsbourg"
+    ],
+    "subject": "Partage de la Hongrie",
+    "attribute": "description",
+    "value": "la Hongrie est partagée entre Ottomans et Habsbourg"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "transylvanie"
+    ],
+    "subject": "Principauté de Transylvanie",
+    "attribute": "naissance_officielle",
+    "value": "1570"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "transylvanie",
+      "hongrie",
+      "autriche-hongrie"
+    ],
+    "subject": "Transylvanie",
+    "attribute": "integration_hongrie",
+    "value": "1867"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "transylvanie",
+      "roumanie"
+    ],
+    "subject": "Transylvanie",
+    "attribute": "rattachement_roumanie",
+    "value": "1918"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie",
+      "transylvanie"
+    ],
+    "subject": "Traité de Trianon",
+    "attribute": "date",
+    "value": "1920"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie",
+      "transylvanie"
+    ],
+    "subject": "Traité de Trianon",
+    "attribute": "effet",
+    "value": "la Hongrie reconnaît la perte de la Transylvanie"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "hongrie"
+    ],
+    "subject": "Traité de Trianon",
+    "attribute": "consequence",
+    "value": "ampute la Hongrie des 2/3 de son territoire"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "empire_ottoman"
+    ],
+    "subject": "Empire ottoman",
+    "attribute": "definition",
+    "value": "empire turc musulman fondé vers 1299 par Osman Ier"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "empire_ottoman",
+      "empire_byzantin"
+    ],
+    "subject": "Prise de Constantinople",
+    "attribute": "date",
+    "value": "1453"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "empire_ottoman",
+      "empire_byzantin"
+    ],
+    "subject": "Prise de Constantinople",
+    "attribute": "consequence",
+    "value": "fin de l'Empire byzantin"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "empire_byzantin"
+    ],
+    "subject": "Empire byzantin",
+    "attribute": "definition",
+    "value": "empire romain d'Orient remplacé par l'Empire ottoman en 1453"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "empire_ottoman"
+    ],
+    "subject": "Abolition du sultanat ottoman",
+    "attribute": "date",
+    "value": "1922"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "turquie"
+    ],
+    "subject": "Fondation de la Turquie",
+    "attribute": "date",
+    "value": "1923"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "turquie"
+    ],
+    "subject": "Fondation de la Turquie",
+    "attribute": "fondateur",
+    "value": "Mustafa Kemal Atatürk"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "russie",
+      "empire_ottoman"
+    ],
+    "subject": "Traité de Küçük Kaynarca",
+    "attribute": "date",
+    "value": "1774"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "russie",
+      "empire_ottoman"
+    ],
+    "subject": "Traité de Küçük Kaynarca",
+    "attribute": "effet",
+    "value": "victoire russe sur les Ottomans, recul ottoman en mer Noire"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "habsbourg",
+      "autriche",
+      "espagne"
+    ],
+    "subject": "Maison de Habsbourg",
+    "attribute": "definition",
+    "value": "dynastie régnant sur l'Autriche, l'Espagne et le Saint-Empire"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "habsbourg",
+      "autriche"
+    ],
+    "subject": "Habsbourg-Lorraine",
+    "attribute": "definition",
+    "value": "branche régnante de l'empire d'Autriche à partir de 1745"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "habsbourg",
+      "autriche",
+      "hongrie"
+    ],
+    "subject": "Autriche-Hongrie",
+    "attribute": "definition",
+    "value": "empire des Habsbourg de 1867 à 1918"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "habsbourg",
+      "europe_centrale"
+    ],
+    "subject": "Saint-Empire romain germanique",
+    "attribute": "definition",
+    "value": "empire d'Europe centrale dominé par les Habsbourg jusqu'en 1806"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "transylvanie",
+      "empire_ottoman"
+    ],
+    "subject": "Principauté de Transylvanie",
+    "attribute": "definition",
+    "value": "État semi-indépendant (1570-1711) sous suzeraineté ottomane"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "roumanie"
+    ],
+    "subject": "Roumanie",
+    "attribute": "naissance",
+    "value": "1859, par union de la Valachie et de la Moldavie"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "evenement",
+    "tags": [
+      "moldavie"
+    ],
+    "subject": "Moldavie",
+    "attribute": "independance",
+    "value": "1991, de l'URSS"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "concept",
+    "tags": [
+      "hongrie",
+      "transylvanie"
+    ],
+    "subject": "Partium",
+    "attribute": "definition",
+    "value": "territoires hongrois rattachés à la principauté de Transylvanie après 1526"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "rome",
+      "agriculture"
+    ],
+    "subject": "Cérès",
+    "attribute": "role",
+    "value": "déesse romaine de l'agriculture, des moissons et de la fertilité"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "celtes",
+      "fertilite"
+    ],
+    "subject": "Épona",
+    "attribute": "role",
+    "value": "déesse celte de la fertilité"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "grece"
+    ],
+    "subject": "Jason",
+    "attribute": "role",
+    "value": "héros de la toison d'or, à la tête des Argonautes"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "entite",
+    "tags": [
+      "grece"
+    ],
+    "subject": "Jason",
+    "attribute": "parents",
+    "value": "fils d'Éson et Polymédé"
+  },
+  {
+    "theme": "histoire_societes",
+    "type": "concept",
+    "tags": [
+      "christianisme"
+    ],
+    "subject": "Œcuménisme",
+    "attribute": "definition",
+    "value": "mouvement pour actions communes entre courants du christianisme"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Lewis Carroll",
+    "attribute": "vrai_nom",
+    "value": "Charles Lutwidge Dodgson"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Lewis Carroll",
+    "attribute": "dates",
+    "value": "1832-1898"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Lewis Carroll",
+    "attribute": "nationalite",
+    "value": "britannique"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Les Aventures d'Alice au pays des merveilles",
+    "attribute": "auteur",
+    "value": "Lewis Carroll"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Les Aventures d'Alice au pays des merveilles",
+    "attribute": "date",
+    "value": "1865"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "De l'autre côté du miroir",
+    "attribute": "auteur",
+    "value": "Lewis Carroll"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "De l'autre côté du miroir",
+    "attribute": "date",
+    "value": "1871"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "De l'autre côté du miroir",
+    "attribute": "note",
+    "value": "suite d'Alice au pays des merveilles"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Charles Dickens",
+    "attribute": "dates",
+    "value": "1812-1870"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Charles Dickens",
+    "attribute": "nationalite",
+    "value": "anglais"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Charles Dickens",
+    "attribute": "titre",
+    "value": "plus grand romancier victorien"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Oliver Twist",
+    "attribute": "auteur",
+    "value": "Charles Dickens"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Oliver Twist",
+    "attribute": "date",
+    "value": "1837-1839"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Un chant de Noël",
+    "attribute": "auteur",
+    "value": "Charles Dickens"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Un chant de Noël",
+    "attribute": "date",
+    "value": "1843"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "David Copperfield",
+    "attribute": "auteur",
+    "value": "Charles Dickens"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "David Copperfield",
+    "attribute": "date",
+    "value": "1849-1850"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Le Conte de deux cités",
+    "attribute": "auteur",
+    "value": "Charles Dickens"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Le Conte de deux cités",
+    "attribute": "date",
+    "value": "1859"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Les Grandes Espérances",
+    "attribute": "auteur",
+    "value": "Charles Dickens"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Les Grandes Espérances",
+    "attribute": "date",
+    "value": "1860-1861"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Arthur Conan Doyle",
+    "attribute": "vrai_nom",
+    "value": "Arthur Ignatius Conan Doyle"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Arthur Conan Doyle",
+    "attribute": "dates",
+    "value": "1859-1930"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Arthur Conan Doyle",
+    "attribute": "nationalite",
+    "value": "écossais"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Arthur Conan Doyle",
+    "attribute": "titre",
+    "value": "Sir depuis 1902"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Sherlock Holmes",
+    "attribute": "auteur",
+    "value": "Arthur Conan Doyle"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "royaume-uni"
+    ],
+    "subject": "Sherlock Holmes",
+    "attribute": "corpus",
+    "value": "4 romans et 56 nouvelles entre 1887 et 1930"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "russie"
+    ],
+    "subject": "L'Idiot",
+    "attribute": "auteur",
+    "value": "Fiodor Dostoïevski"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "russie"
+    ],
+    "subject": "L'Idiot",
+    "attribute": "date",
+    "value": "1868-1869"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "russie"
+    ],
+    "subject": "L'Idiot",
+    "attribute": "citation",
+    "value": "La beauté sauvera le Monde"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "inde"
+    ],
+    "subject": "Vâtsyâyana",
+    "attribute": "role",
+    "value": "auteur indien à qui on attribue le Kamasutra"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "inde"
+    ],
+    "subject": "Vâtsyâyana",
+    "attribute": "epoque",
+    "value": "entre VIe et VIIe siècle"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "irlande"
+    ],
+    "subject": "Dracula",
+    "attribute": "auteur",
+    "value": "Bram Stoker"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "oeuvre",
+    "tags": [
+      "irlande"
+    ],
+    "subject": "Dracula",
+    "attribute": "date",
+    "value": "1897"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "personne",
+    "tags": [
+      "irlande"
+    ],
+    "subject": "Bram Stoker",
+    "attribute": "nationalite",
+    "value": "irlandais"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [],
+    "subject": "Apocryphe",
+    "attribute": "definition",
+    "value": "authenticité douteuse ou niée"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [],
+    "subject": "Sourdre",
+    "attribute": "definition",
+    "value": "sortir de terre / naître, surgir"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [],
+    "subject": "In-folio",
+    "attribute": "definition",
+    "value": "gros bouquin, ou feuille pliée pour faire 4 pages"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [],
+    "subject": "Profane",
+    "attribute": "definition",
+    "value": "étranger à la religion"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [],
+    "subject": "Païen",
+    "attribute": "definition",
+    "value": "polythéiste ou sans religion"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "japon"
+    ],
+    "subject": "Kakémono",
+    "attribute": "definition",
+    "value": "peinture sur soie ou sur papier japonaise, plus haute que large"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "japon"
+    ],
+    "subject": "Makémono",
+    "attribute": "definition",
+    "value": "peinture sur soie ou sur papier japonaise, plus large que haute"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "japon"
+    ],
+    "subject": "Obi",
+    "attribute": "definition",
+    "value": "ceinture du kimono"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "grammaire"
+    ],
+    "subject": "Verbe défectif",
+    "attribute": "definition",
+    "value": "conjugaison incomplète (comme pleuvoir, neiger)"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "linguistique"
+    ],
+    "subject": "Syntagme",
+    "attribute": "definition",
+    "value": "\"Maltraiter\" est un syntagme composé des morphèmes \"mal\" et \"traiter\""
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "linguistique"
+    ],
+    "subject": "Morphème",
+    "attribute": "definition",
+    "value": "plus petite unité signifiante — \"Dégel\" = \"dé\" et \"gel\""
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "linguistique"
+    ],
+    "subject": "Phonème",
+    "attribute": "definition",
+    "value": "plus petite unité sonore, combinés pour former morphèmes, mots, phrases"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "爱",
+    "attribute": "pinyin",
+    "value": "ài"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "爱",
+    "attribute": "sens",
+    "value": "aimer"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "爱",
+    "attribute": "composants",
+    "value": "爫 (griffe/main), 冖 (couvrir), 𠂇 (main gauche), 又 (main droite)"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "爱",
+    "attribute": "mnemonique",
+    "value": "tenir quelqu'un par la main"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "爱",
+    "attribute": "traditionnel",
+    "value": "愛 (avec 心, cœur)"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "八",
+    "attribute": "pinyin",
+    "value": "bā"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "八",
+    "attribute": "sens",
+    "value": "huit"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "八",
+    "attribute": "note",
+    "value": "sens originel : \"diviser\", représente la séparation, 8/6 est le plus divisible"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "做",
+    "attribute": "pinyin",
+    "value": "zuò"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "做",
+    "attribute": "sens",
+    "value": "faire, agir, travailler"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "做",
+    "attribute": "composants",
+    "value": "人 (homme), 口 (bouche), 攵 (main qui tient un bâton)"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "坐",
+    "attribute": "pinyin",
+    "value": "zuò"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "坐",
+    "attribute": "sens",
+    "value": "s'asseoir"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "mandarin"
+    ],
+    "subject": "坐",
+    "attribute": "composants",
+    "value": "从 (deux hommes), 土 (assis par terre)"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "concept",
+    "tags": [
+      "sport",
+      "athletisme"
+    ],
+    "subject": "Fosbury-flop",
+    "attribute": "definition",
+    "value": "technique du saut en hauteur, rouleau dorsal"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "personne",
+    "tags": [
+      "sport",
+      "athletisme"
+    ],
+    "subject": "Richard Fosbury",
+    "attribute": "surnom",
+    "value": "Dick Fosbury"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "personne",
+    "tags": [
+      "sport",
+      "athletisme"
+    ],
+    "subject": "Richard Fosbury",
+    "attribute": "palmares",
+    "value": "titre olympique Mexico 1968, initiateur du Fosbury-flop"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "personne",
+    "tags": [
+      "jeux_video",
+      "zelda"
+    ],
+    "subject": "Épona",
+    "attribute": "role",
+    "value": "jument de Link dans The Legend of Zelda"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "fiction",
+    "tags": [
+      "bande_dessinee",
+      "tintin"
+    ],
+    "subject": "Syldavie",
+    "attribute": "definition",
+    "value": "pays imaginaire dans Tintin, inventé par Hergé"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "oeuvre",
+    "tags": [
+      "television",
+      "animation"
+    ],
+    "subject": "Bob l'éponge",
+    "attribute": "date",
+    "value": "1999"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "oeuvre",
+    "tags": [
+      "television",
+      "animation"
+    ],
+    "subject": "Bob l'éponge",
+    "attribute": "chaine",
+    "value": "Nickelodeon"
+  },
+  {
+    "theme": "loisirs_fiction",
+    "type": "oeuvre",
+    "tags": [
+      "television",
+      "animation"
+    ],
+    "subject": "Bob l'éponge",
+    "attribute": "createur",
+    "value": "Stephen Hillenburg"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "concept",
+    "tags": [
+      "audio"
+    ],
+    "subject": "Atténuation des bruits de déplacement d'air",
+    "attribute": "outils",
+    "value": "bonnettes anti-vent, filtres anti-pop"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "concept",
+    "tags": [
+      "astronomie",
+      "meteorites"
+    ],
+    "subject": "Chondrites",
+    "attribute": "definition",
+    "value": "premières météorites, les plus courantes, non différenciées (pierreuses, <35% de métal)"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "concept",
+    "tags": [
+      "astronomie",
+      "meteorites"
+    ],
+    "subject": "Météorites différenciées",
+    "attribute": "definition",
+    "value": "ont subi une séparation interne (noyau, manteau…)"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "objet",
+    "tags": [
+      "astronomie"
+    ],
+    "subject": "Ceinture principale d'astéroïdes",
+    "attribute": "localisation",
+    "value": "entre les orbites de Mars et Jupiter"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "objet",
+    "tags": [
+      "astronomie"
+    ],
+    "subject": "Cérès (astéroïde)",
+    "attribute": "definition",
+    "value": "plus gros astéroïde de la ceinture principale"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "objet",
+    "tags": [
+      "astronomie"
+    ],
+    "subject": "Cérès (astéroïde)",
+    "attribute": "decouverte",
+    "value": "1801"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "objet",
+    "tags": [
+      "astronomie"
+    ],
+    "subject": "Cérès (astéroïde)",
+    "attribute": "reclassification",
+    "value": "catégorisé planète naine en 2006"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "evenement",
+    "tags": [
+      "astronomie",
+      "espace"
+    ],
+    "subject": "Artemis 2",
+    "attribute": "date",
+    "value": "1er avril 2026"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "evenement",
+    "tags": [
+      "astronomie",
+      "espace"
+    ],
+    "subject": "Artemis 2",
+    "attribute": "note",
+    "value": "premier vol habité depuis Apollo 17 en 1972"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "concept",
+    "tags": [
+      "astronomie"
+    ],
+    "subject": "Mercure et Vénus",
+    "attribute": "satellites",
+    "value": "aucun satellite naturel"
+  },
+  {
+    "theme": "sciences_techniques",
+    "type": "concept",
+    "tags": [
+      "astronomie"
+    ],
+    "subject": "Mars",
+    "attribute": "satellites",
+    "value": "Phobos et Déimos"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "microbiologie"
+    ],
+    "subject": "Tularémie",
+    "attribute": "agent",
+    "value": "Francisella tularensis (bacille de Francis)"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "microbiologie"
+    ],
+    "subject": "Tularémie",
+    "attribute": "particularite",
+    "value": "la bactérie peut traverser la peau saine"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "microbiologie"
+    ],
+    "subject": "Zoonose",
+    "attribute": "definition",
+    "value": "maladie transmise de l'animal aux humains et inversement"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Hypercapnie",
+    "attribute": "synonyme",
+    "value": "hypercarbie"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Hypercapnie",
+    "attribute": "definition",
+    "value": "excès de CO2 dans le sang"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "elevage"
+    ],
+    "subject": "Génisse",
+    "attribute": "definition",
+    "value": "vache n'ayant pas vêlé"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Lochies",
+    "attribute": "definition",
+    "value": "pertes vaginales sécrétées après l'accouchement"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "zoologie"
+    ],
+    "subject": "Aptère",
+    "attribute": "definition",
+    "value": "animal sans ailes"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Chondrite",
+    "attribute": "definition",
+    "value": "inflammation d'un cartilage"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "entite",
+    "tags": [
+      "zoologie",
+      "marsupiaux"
+    ],
+    "subject": "Macropodidae",
+    "attribute": "definition",
+    "value": "famille de marsupiaux (kangourous, wallabies, thylogales…)"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "entite",
+    "tags": [
+      "zoologie",
+      "marsupiaux"
+    ],
+    "subject": "Thylogales",
+    "attribute": "synonyme",
+    "value": "pademelons"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "entite",
+    "tags": [
+      "zoologie",
+      "marsupiaux"
+    ],
+    "subject": "Thylogales",
+    "attribute": "surnom",
+    "value": "petit kangourou de la forêt"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "substance",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Viagra",
+    "attribute": "molecule",
+    "value": "citrate de sildénafil"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "substance",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Viagra",
+    "attribute": "fabricant",
+    "value": "Pfizer"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "substance",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Viagra",
+    "attribute": "etymologie",
+    "value": "contraction de \"vigueur\" et \"chute du Niagara\""
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "anatomie"
+    ],
+    "subject": "Smegma",
+    "attribute": "definition",
+    "value": "substance blanchâtre et caséeuse sous le prépuce et la région vulvaire"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "personne",
+    "tags": [
+      "medecine",
+      "invention"
+    ],
+    "subject": "Ernst Gräfenberg",
+    "attribute": "invention",
+    "value": "le stérilet"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "personne",
+    "tags": [
+      "medecine"
+    ],
+    "subject": "Ernst Gräfenberg",
+    "attribute": "note",
+    "value": "a donné son nom au point G"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "entite",
+    "tags": [
+      "zoologie"
+    ],
+    "subject": "Proboscidiens",
+    "attribute": "etymologie",
+    "value": "du grec proboskis signifiant \"trompe\""
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "entite",
+    "tags": [
+      "zoologie"
+    ],
+    "subject": "Proboscidiens",
+    "attribute": "definition",
+    "value": "ordre de mammifères ne comprenant que les éléphants"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "anatomie"
+    ],
+    "subject": "Carotides",
+    "attribute": "definition",
+    "value": "artères dans le thorax et le cou"
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "concept",
+    "tags": [
+      "anatomie"
+    ],
+    "subject": "Carotides",
+    "attribute": "etymologie",
+    "value": "dérivé du grec signifiant \"soporifique\""
+  },
+  {
+    "theme": "sciences_vivant",
+    "type": "entite",
+    "tags": [
+      "botanique"
+    ],
+    "subject": "Orge",
+    "attribute": "nom_latin",
+    "value": "Hordeum vulgare"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "concept",
+    "tags": [
+      "chine",
+      "the"
+    ],
+    "subject": "Gong fu cha",
+    "attribute": "definition",
+    "value": "art du thé chinois"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "objet",
+    "tags": [
+      "chine",
+      "the"
+    ],
+    "subject": "Gaiwan",
+    "attribute": "definition",
+    "value": "tasse à couvercle chinoise pour thé"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "substance",
+    "tags": [
+      "chine",
+      "the"
+    ],
+    "subject": "Argile de Yixing",
+    "attribute": "definition",
+    "value": "argile de grès pour théières, ville de Yixing, province du Jiangsu, Chine"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "substance",
+    "tags": [
+      "chine",
+      "the"
+    ],
+    "subject": "Pu-erh",
+    "attribute": "definition",
+    "value": "thé sombre post-fermenté, ville de Pu'er, province du Yunnan, Chine"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "substance",
+    "tags": [
+      "chine",
+      "the"
+    ],
+    "subject": "Oolong",
+    "attribute": "definition",
+    "value": "thé à oxydation incomplète, aussi appelé thé bleu"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "concept",
+    "tags": [
+      "the"
+    ],
+    "subject": "Oxydation du thé",
+    "attribute": "echelle",
+    "value": "vert (pas) > blanc (peu) > bleu (incomplet) > noir=rouge (complet)"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "substance",
+    "tags": [
+      "the"
+    ],
+    "subject": "Thé rouge",
+    "attribute": "definition",
+    "value": "thé noir en Chine / rooibos en Occident — pas un vrai thé, pas issu de Camellia sinensis"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "substance",
+    "tags": [
+      "espagne"
+    ],
+    "subject": "Touron",
+    "attribute": "definition",
+    "value": "variante espagnole du nougat"
+  },
+  {
+    "theme": "usages_traditions",
+    "type": "substance",
+    "tags": [
+      "chine"
+    ],
+    "subject": "Baie de Goji",
+    "attribute": "definition",
+    "value": "baie du lyciet commun, produit principalement dans la région du Ningxia, Chine"
+  }
+]

@@ -1,0 +1,224 @@
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - australie
+  subject: Port de Sydney
+  attribute: autre_nom
+  value: Port Jackson
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - russie
+  subject: Lac Baïkal
+  attribute: localisation
+  value: Sibérie russe
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - russie
+  subject: Lac Baïkal
+  attribute: particularite
+  value: le plus profond de la planète, 1642 m de profondeur
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - pays-bas
+    - europe
+  subject: Rotterdam
+  attribute: titre
+  value: plus grand port d'Europe
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - nepal
+    - himalaya
+  subject: Éverest
+  attribute: altitude
+  value: 8 848,86 m
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - nepal
+    - himalaya
+  subject: Éverest
+  attribute: titre
+  value: plus grande montagne en terme d'altitude
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - etats-unis
+    - hawaii
+  subject: Mauna Kea
+  attribute: altitude
+  value: 4 207 m
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - etats-unis
+    - hawaii
+  subject: Mauna Kea
+  attribute: titre
+  value: plus grande montagne depuis sa base (10 210 m)
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - equateur
+  subject: Chimborazo
+  attribute: altitude
+  value: 6 263 m
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - equateur
+  subject: Chimborazo
+  attribute: titre
+  value: plus proche du soleil car situé à l'équateur
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - ethiopie
+  subject: Lac Tana
+  attribute: particularite
+  value: source du Nil Bleu
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - senegal
+    - esclavage
+  subject: Gorée
+  attribute: definition
+  value: île dans la baie de Dakar, transit pour esclaves entre Afrique et Amérique
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - montserrat
+    - caraibes
+  subject: Plymouth (Montserrat)
+  attribute: particularite
+  value: ville rasée par éruptions volcaniques dans les années 90
+- theme: geographie_territoires
+  type: concept
+  tags:
+    - sri_lanka
+  subject: Sri Lanka
+  attribute: langues_officielles
+  value: tamoul et singhalais
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - afrique
+  subject: Eswatini
+  attribute: ancien_nom
+  value: Swaziland (renommé en 2018)
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - afrique
+  subject: Eswatini
+  attribute: localisation
+  value: enclavé entre Afrique du Sud et Mozambique
+- theme: geographie_territoires
+  type: concept
+  tags:
+    - ecosse
+  subject: Licorne
+  attribute: role
+  value: symbole de l'Écosse
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Transylvanie
+  attribute: etymologie
+  value: "\"au-delà des forêts\""
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Transylvanie
+  attribute: autre_nom
+  value: Ardeal
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Transylvanie
+  attribute: localisation
+  value: région historique du centre-ouest de la Roumanie
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Valachie
+  attribute: definition
+  value: principauté historique du sud de la Roumanie, au nord du Danube
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+    - moldavie
+  subject: Moldavie (région)
+  attribute: definition
+  value: ancienne principauté entre Carpates et Dniestr, divisée entre Roumanie et Moldavie (1859)
+- theme: geographie_territoires
+  type: concept
+  tags: []
+  subject: Région historique
+  attribute: definition
+  value: territoire défini par l'histoire et la culture, sans souveraineté politique nécessaire
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - europe_centrale
+  subject: Carpates occidentales
+  attribute: localisation
+  value: République tchèque, Slovaquie, Pologne
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - europe_centrale
+  subject: Carpates orientales
+  attribute: localisation
+  value: Slovaquie, Pologne, Ukraine, Roumanie
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Carpates méridionales
+  attribute: localisation
+  value: Roumanie
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Carpates méridionales
+  attribute: autre_nom
+  value: Alpes de Transylvanie
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - slovaquie
+  subject: Mont Gerlach
+  attribute: altitude
+  value: 2 655 m
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - slovaquie
+  subject: Mont Gerlach
+  attribute: titre
+  value: point culminant des Carpates
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Moldoveanu
+  attribute: altitude
+  value: 2 544 m
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - roumanie
+  subject: Moldoveanu
+  attribute: titre
+  value: plus haut sommet de Roumanie

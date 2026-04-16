@@ -1,0 +1,449 @@
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - france
+    - calendrier
+  subject: Édit de Roussillon
+  attribute: date
+  value: 9 août 1564
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - france
+    - calendrier
+  subject: Édit de Roussillon
+  attribute: effet
+  value: fait passer le début d'année du 1er avril au 1er janvier
+- theme: histoire_societes
+  type: personne
+  tags:
+    - italie
+    - fascisme
+  subject: Clara Petacci
+  attribute: role
+  value: maîtresse de Mussolini
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - crime
+  subject: Henri-Désiré Landru
+  attribute: role
+  value: criminel français
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - crime
+  subject: Henri-Désiré Landru
+  attribute: surnom
+  value: le Barbe-Bleue de Gambais
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - litterature
+  subject: Guillaume Apollinaire
+  attribute: vrai_nom
+  value: Wilhelm de Kostrowitzky
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - litterature
+  subject: Yves Blanc
+  attribute: role
+  value: marraine de guerre d'Apollinaire
+- theme: histoire_societes
+  type: periode
+  tags:
+    - italie
+    - renaissance
+  subject: Quattrocento
+  attribute: definition
+  value: XVe siècle italien, Première Renaissance
+- theme: histoire_societes
+  type: periode
+  tags:
+    - italie
+    - renaissance
+  subject: Quattrocento
+  attribute: dates
+  value: 1420-1500
+- theme: histoire_societes
+  type: periode
+  tags:
+    - italie
+    - renaissance
+  subject: Cinquecento
+  attribute: definition
+  value: XVIe siècle italien, Haute Renaissance
+- theme: histoire_societes
+  type: objet
+  tags:
+    - france
+    - epidemie
+  subject: Grand Saint Antoine
+  attribute: role
+  value: navire ayant apporté la peste à Marseille en 1720
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - invention
+  subject: Louis Braille
+  attribute: invention
+  value: le braille, en 1829
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - invention
+  subject: Charles Barbier
+  attribute: invention
+  value: écriture nocturne (sonographie, écriture tactile), en 1815
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - invention
+  subject: Charles Barbier
+  attribute: role
+  value: précurseur du braille
+- theme: histoire_societes
+  type: personne
+  tags:
+    - etats-unis
+    - invention
+  subject: Samuel Morse
+  attribute: invention
+  value: code Morse et télégraphe de Morse (à armature avec un courant qui émet un clic), en 1838
+- theme: histoire_societes
+  type: objet
+  tags:
+    - royaume-uni
+    - invention
+  subject: Télégraphe de Cooke et Wheatstone
+  attribute: definition
+  value: télégraphe à aiguille, 1837
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - france
+    - aviation
+  subject: Premier vol 1890
+  attribute: description
+  value: Clément Ader avec l'Éole (Avion I)
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - etats-unis
+    - aviation
+  subject: Premier vol maîtrisé 1903
+  attribute: description
+  value: frères Wright avec le Wright Flyer
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - royaute
+  subject: Hugues Capet
+  attribute: role
+  value: roi de France
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - royaute
+  subject: Hugues Capet
+  attribute: couronnement
+  value: "987"
+- theme: histoire_societes
+  type: personne
+  tags:
+    - france
+    - royaute
+  subject: Hugues Capet
+  attribute: dynastie
+  value: Capétiens
+- theme: histoire_societes
+  type: personne
+  tags:
+    - belgique
+    - religion
+  subject: Sœur Emmanuelle
+  attribute: vrai_nom
+  value: Madeleine Cinquin
+- theme: histoire_societes
+  type: personne
+  tags:
+    - belgique
+    - religion
+  subject: Sœur Emmanuelle
+  attribute: lieu_naissance
+  value: Bruxelles
+- theme: histoire_societes
+  type: personne
+  tags:
+    - belgique
+    - religion
+  subject: Sœur Emmanuelle
+  attribute: surnom
+  value: petite sœur des chiffonniers
+- theme: histoire_societes
+  type: concept
+  tags:
+    - europe_est
+    - noblesse
+  subject: Voïvode
+  attribute: definition
+  value: commandant de région militaire, puis titre de noblesse dans les pays slaves et roumains
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+    - empire_ottoman
+  subject: Bataille de Mohács
+  attribute: date
+  value: "1526"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+    - empire_ottoman
+  subject: Bataille de Mohács
+  attribute: description
+  value: défaite hongroise face aux Ottomans
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+    - empire_ottoman
+    - habsbourg
+  subject: Partage de la Hongrie
+  attribute: date
+  value: "1541"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+    - empire_ottoman
+    - habsbourg
+  subject: Partage de la Hongrie
+  attribute: description
+  value: la Hongrie est partagée entre Ottomans et Habsbourg
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - transylvanie
+  subject: Principauté de Transylvanie
+  attribute: naissance_officielle
+  value: "1570"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - transylvanie
+    - hongrie
+    - autriche-hongrie
+  subject: Transylvanie
+  attribute: integration_hongrie
+  value: "1867"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - transylvanie
+    - roumanie
+  subject: Transylvanie
+  attribute: rattachement_roumanie
+  value: "1918"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+    - transylvanie
+  subject: Traité de Trianon
+  attribute: date
+  value: "1920"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+    - transylvanie
+  subject: Traité de Trianon
+  attribute: effet
+  value: la Hongrie reconnaît la perte de la Transylvanie
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - hongrie
+  subject: Traité de Trianon
+  attribute: consequence
+  value: ampute la Hongrie des 2/3 de son territoire
+- theme: histoire_societes
+  type: entite
+  tags:
+    - empire_ottoman
+  subject: Empire ottoman
+  attribute: definition
+  value: empire turc musulman fondé vers 1299 par Osman Ier
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - empire_ottoman
+    - empire_byzantin
+  subject: Prise de Constantinople
+  attribute: date
+  value: "1453"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - empire_ottoman
+    - empire_byzantin
+  subject: Prise de Constantinople
+  attribute: consequence
+  value: fin de l'Empire byzantin
+- theme: histoire_societes
+  type: entite
+  tags:
+    - empire_byzantin
+  subject: Empire byzantin
+  attribute: definition
+  value: empire romain d'Orient remplacé par l'Empire ottoman en 1453
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - empire_ottoman
+  subject: Abolition du sultanat ottoman
+  attribute: date
+  value: "1922"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - turquie
+  subject: Fondation de la Turquie
+  attribute: date
+  value: "1923"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - turquie
+  subject: Fondation de la Turquie
+  attribute: fondateur
+  value: Mustafa Kemal Atatürk
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - russie
+    - empire_ottoman
+  subject: Traité de Küçük Kaynarca
+  attribute: date
+  value: "1774"
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - russie
+    - empire_ottoman
+  subject: Traité de Küçük Kaynarca
+  attribute: effet
+  value: victoire russe sur les Ottomans, recul ottoman en mer Noire
+- theme: histoire_societes
+  type: entite
+  tags:
+    - habsbourg
+    - autriche
+    - espagne
+  subject: Maison de Habsbourg
+  attribute: definition
+  value: dynastie régnant sur l'Autriche, l'Espagne et le Saint-Empire
+- theme: histoire_societes
+  type: entite
+  tags:
+    - habsbourg
+    - autriche
+  subject: Habsbourg-Lorraine
+  attribute: definition
+  value: branche régnante de l'empire d'Autriche à partir de 1745
+- theme: histoire_societes
+  type: entite
+  tags:
+    - habsbourg
+    - autriche
+    - hongrie
+  subject: Autriche-Hongrie
+  attribute: definition
+  value: empire des Habsbourg de 1867 à 1918
+- theme: histoire_societes
+  type: entite
+  tags:
+    - habsbourg
+    - europe_centrale
+  subject: Saint-Empire romain germanique
+  attribute: definition
+  value: empire d'Europe centrale dominé par les Habsbourg jusqu'en 1806
+- theme: histoire_societes
+  type: entite
+  tags:
+    - transylvanie
+    - empire_ottoman
+  subject: Principauté de Transylvanie
+  attribute: definition
+  value: État semi-indépendant (1570-1711) sous suzeraineté ottomane
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - roumanie
+  subject: Roumanie
+  attribute: naissance
+  value: 1859, par union de la Valachie et de la Moldavie
+- theme: histoire_societes
+  type: evenement
+  tags:
+    - moldavie
+  subject: Moldavie
+  attribute: independance
+  value: 1991, de l'URSS
+- theme: histoire_societes
+  type: concept
+  tags:
+    - hongrie
+    - transylvanie
+  subject: Partium
+  attribute: definition
+  value: territoires hongrois rattachés à la principauté de Transylvanie après 1526
+- theme: histoire_societes
+  type: entite
+  tags:
+    - rome
+    - agriculture
+  subject: Cérès
+  attribute: role
+  value: déesse romaine de l'agriculture, des moissons et de la fertilité
+- theme: histoire_societes
+  type: entite
+  tags:
+    - celtes
+    - fertilite
+  subject: Épona
+  attribute: role
+  value: déesse celte de la fertilité
+- theme: histoire_societes
+  type: entite
+  tags:
+    - grece
+  subject: Jason
+  attribute: role
+  value: héros de la toison d'or, à la tête des Argonautes
+- theme: histoire_societes
+  type: entite
+  tags:
+    - grece
+  subject: Jason
+  attribute: parents
+  value: fils d'Éson et Polymédé
+- theme: histoire_societes
+  type: concept
+  tags:
+    - christianisme
+  subject: Œcuménisme
+  attribute: definition
+  value: mouvement pour actions communes entre courants du christianisme
