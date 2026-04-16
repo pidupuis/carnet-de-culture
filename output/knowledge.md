@@ -1,18 +1,18 @@
 ## Histoire & Sociétés
 
-**Édit de Roussillon** — 9 août 1564 · fait passer le début d'année du 1er avril au 1er janvier
+**Édit de Roussillon** — 9 août 1564 · fait passer le début d'année du 1er avril au 1er janvier (dates auparavant variables selon les régions)
 **Clara Petacci** — maîtresse de Mussolini
 **Henri-Désiré Landru** — criminel français · le Barbe-Bleue de Gambais
 **Guillaume Apollinaire** — Wilhelm de Kostrowitzky
 **Yves Blanc** — marraine de guerre d'Apollinaire
-**Quattrocento** — XVe siècle italien, Première Renaissance · 1420-1500
-**Cinquecento** — XVIe siècle italien, Haute Renaissance
+**Quattrocento** — XVe siècle italien, Première Renaissance · 1400-1500
+**Cinquecento** — XVIe siècle italien, Haute Renaissance puis Maniérisme
 **Grand Saint Antoine** — navire ayant apporté la peste à Marseille en 1720
 **Louis Braille** — le braille, en 1829
 **Charles Barbier** — écriture nocturne (sonographie, écriture tactile), en 1815 · précurseur du braille
-**Samuel Morse** — code Morse et télégraphe de Morse (à armature avec un courant qui émet un clic), en 1838
+**Samuel Morse** — code Morse et télégraphe, brevet 1838, premier message 1844
 **Télégraphe de Cooke et Wheatstone** — télégraphe à aiguille, 1837
-**Premier vol 1890** — Clément Ader avec l'Éole (Avion I)
+**Premier vol 1890** — Clément Ader avec l'Éole (Avion I), décollage motorisé non contrôlé et contesté
 **Premier vol maîtrisé 1903** — frères Wright avec le Wright Flyer
 **Hugues Capet** — roi de France · 987 · Capétiens
 **Sœur Emmanuelle** — Madeleine Cinquin · Bruxelles · petite sœur des chiffonniers
@@ -36,8 +36,8 @@
 **Moldavie** — 1991, de l'URSS
 **Partium** — territoires hongrois rattachés à la principauté de Transylvanie après 1526
 **Cérès** — déesse romaine de l'agriculture, des moissons et de la fertilité
-**Épona** — déesse celte de la fertilité
-**Jason** — héros de la toison d'or, à la tête des Argonautes · fils d'Éson et Polymédé
+**Épona** — déesse gallo-romaine des chevaux et des cavaliers
+**Jason** — héros de la toison d'or, à la tête des Argonautes · fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé
 **Œcuménisme** — mouvement pour actions communes entre courants du christianisme
 
 ## Géographie & Territoires
@@ -45,18 +45,18 @@
 **Port de Sydney** — Port Jackson
 **Lac Baïkal** — Sibérie russe · le plus profond de la planète, 1642 m de profondeur
 **Rotterdam** — plus grand port d'Europe
-**Éverest** — 8 848,86 m · plus grande montagne en terme d'altitude
+**Everest** — 8 848,86 m · plus haute montagne au-dessus du niveau de la mer
 **Mauna Kea** — 4 207 m · plus grande montagne depuis sa base (10 210 m)
 **Chimborazo** — 6 263 m · plus proche du soleil car situé à l'équateur
 **Lac Tana** — source du Nil Bleu
-**Gorée** — île dans la baie de Dakar, transit pour esclaves entre Afrique et Amérique
+**Gorée** — île dans la baie de Dakar, symbole de la traite négrière (rôle symbolique majeur, volumes historiques discutés)
 **Plymouth (Montserrat)** — ville rasée par éruptions volcaniques dans les années 90
 **Sri Lanka** — tamoul et singhalais
 **Eswatini** — Swaziland (renommé en 2018) · enclavé entre Afrique du Sud et Mozambique
 **Licorne** — symbole de l'Écosse
 **Transylvanie** — "au-delà des forêts" · Ardeal · région historique du centre-ouest de la Roumanie
 **Valachie** — principauté historique du sud de la Roumanie, au nord du Danube
-**Moldavie (région)** — ancienne principauté entre Carpates et Dniestr, divisée entre Roumanie et Moldavie (1859)
+**Moldavie (région)** — ancienne principauté entre Carpates et Dniestr ; Bessarabie cédée à la Russie (1812), partie occidentale unie à la Valachie (1859)
 **Région historique** — territoire défini par l'histoire et la culture, sans souveraineté politique nécessaire
 **Carpates occidentales** — République tchèque, Slovaquie, Pologne
 **Carpates orientales** — Slovaquie, Pologne, Ukraine, Roumanie
@@ -78,7 +78,7 @@
 **Arthur Conan Doyle** — Arthur Ignatius Conan Doyle · 1859-1930 · écossais · Sir depuis 1902
 **Sherlock Holmes** — Arthur Conan Doyle · 4 romans et 56 nouvelles entre 1887 et 1930
 **L'Idiot** — Fiodor Dostoïevski · 1868-1869 · La beauté sauvera le Monde
-**Vâtsyâyana** — auteur indien à qui on attribue le Kamasutra · entre VIe et VIIe siècle
+**Vâtsyâyana** — auteur indien à qui on attribue le Kamasutra · entre IIe et IIIe siècle (fourchette large : Ier-VIe)
 **Dracula** — Bram Stoker · 1897
 **Bram Stoker** — irlandais
 **Apocryphe** — authenticité douteuse ou niée
@@ -90,17 +90,17 @@
 **Makémono** — peinture sur soie ou sur papier japonaise, plus large que haute
 **Obi** — ceinture du kimono
 **Verbe défectif** — conjugaison incomplète (comme pleuvoir, neiger)
-**Syntagme** — "Maltraiter" est un syntagme composé des morphèmes "mal" et "traiter"
+**Syntagme** — groupe de mots formant une unité syntaxique — ex : 'le petit chat' (syntagme nominal)
 **Morphème** — plus petite unité signifiante — "Dégel" = "dé" et "gel"
 **Phonème** — plus petite unité sonore, combinés pour former morphèmes, mots, phrases
 
 ## Arts & Culture
 
-**Giotto** — Ambrogiotto di Bondone · 1266/67-1337 · artiste majeur du Trecento, florentin
+**Giotto** — Ambrogiotto di Bondone (prénom débattu, parfois Angiolotto) · 1266/67-1337 · artiste majeur du Trecento, florentin
 **Lièvre** — Albrecht Dürer · 1502 · exemple de réalisme
 **Éléphant** — Rembrandt · 1637 · peau ridée via quelques coups de crayon
 **Saint Mathieu** — Caravage · 1602 · a dû refaire le tableau car non conventionnel
-**Arlequin** — nom des rideaux de théâtre, personnage aux costumes colorés de la commedia dell'arte
+**Arlequin** — cadre décoratif au-dessus de la scène (manteau d'Arlequin) ; aussi personnage aux costumes colorés de la commedia dell'arte
 **Pierre-Auguste Renoir** — peintre impressionniste · Limoges
 **Le déjeuner des canotiers** — Pierre-Auguste Renoir
 **Le bal du moulin de la Galette** — Pierre-Auguste Renoir
@@ -117,7 +117,7 @@
 **Gaiwan** — tasse à couvercle chinoise pour thé
 **Argile de Yixing** — argile de grès pour théières, ville de Yixing, province du Jiangsu, Chine
 **Pu-erh** — thé sombre post-fermenté, ville de Pu'er, province du Yunnan, Chine
-**Oolong** — thé à oxydation incomplète, aussi appelé thé bleu
+**Oolong** — thé à oxydation partielle, aussi appelé thé bleu-vert
 **Oxydation du thé** — vert (pas) > blanc (peu) > bleu (incomplet) > noir=rouge (complet)
 **Thé rouge** — thé noir en Chine / rooibos en Occident — pas un vrai thé, pas issu de Camellia sinensis
 **Touron** — variante espagnole du nougat
@@ -134,21 +134,21 @@
 **Chondrite** — inflammation d'un cartilage
 **Macropodidae** — famille de marsupiaux (kangourous, wallabies, thylogales…)
 **Thylogales** — pademelons · petit kangourou de la forêt
-**Viagra** — citrate de sildénafil · Pfizer · contraction de "vigueur" et "chute du Niagara"
+**Viagra** — citrate de sildénafil · Pfizer · contraction de "vigueur" et "chute du Niagara" (étymologie supposée, non confirmée par Pfizer)
 **Smegma** — substance blanchâtre et caséeuse sous le prépuce et la région vulvaire
 **Ernst Gräfenberg** — le stérilet · a donné son nom au point G
 **Proboscidiens** — du grec proboskis signifiant "trompe" · ordre de mammifères ne comprenant que les éléphants
-**Carotides** — artères dans le thorax et le cou · dérivé du grec signifiant "soporifique"
+**Carotides** — artères du cou irriguant la tête et le cerveau · dérivé du grec signifiant "soporifique"
 **Orge** — Hordeum vulgare
 
 ## Sciences & Techniques
 
 **Atténuation des bruits de déplacement d'air** — bonnettes anti-vent, filtres anti-pop
-**Chondrites** — premières météorites, les plus courantes, non différenciées (pierreuses, <35% de métal)
+**Chondrites** — premières météorites, les plus courantes, non différenciées (pierreuses, contenant des chondres)
 **Météorites différenciées** — ont subi une séparation interne (noyau, manteau…)
 **Ceinture principale d'astéroïdes** — entre les orbites de Mars et Jupiter
 **Cérès (astéroïde)** — plus gros astéroïde de la ceinture principale · 1801 · catégorisé planète naine en 2006
-**Artemis 2** — 1er avril 2026 · premier vol habité depuis Apollo 17 en 1972
+**Artemis 2** — 1er avril 2026 · premier vol habité au-delà de l'orbite terrestre basse depuis Apollo 17 en 1972
 **Mercure et Vénus** — aucun satellite naturel
 **Mars** — Phobos et Déimos
 

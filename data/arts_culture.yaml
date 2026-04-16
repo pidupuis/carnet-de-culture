@@ -5,7 +5,7 @@
     - europe
   subject: Giotto
   attribute: vrai_nom
-  value: Ambrogiotto di Bondone
+  value: Ambrogiotto di Bondone (prénom débattu, parfois Angiolotto)
 - theme: arts_culture
   type: personne
   tags:
@@ -103,7 +103,7 @@
     - theatre
   subject: Arlequin
   attribute: definition
-  value: nom des rideaux de théâtre, personnage aux costumes colorés de la commedia dell'arte
+  value: cadre décoratif au-dessus de la scène (manteau d'Arlequin) ; aussi personnage aux costumes colorés de la commedia dell'arte
 - theme: arts_culture
   type: personne
   tags:

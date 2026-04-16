@@ -13,7 +13,7 @@
     - societe
   subject: Édit de Roussillon
   attribute: effet
-  value: fait passer le début d'année du 1er avril au 1er janvier
+  value: fait passer le début d'année du 1er avril au 1er janvier (dates auparavant variables selon les régions)
 - theme: histoire_societes
   type: personne
   tags:
@@ -71,7 +71,7 @@
     - moderne
   subject: Quattrocento
   attribute: dates
-  value: 1420-1500
+  value: 1400-1500
 - theme: histoire_societes
   type: periode
   tags:
@@ -80,7 +80,7 @@
     - moderne
   subject: Cinquecento
   attribute: definition
-  value: XVIe siècle italien, Haute Renaissance
+  value: XVIe siècle italien, Haute Renaissance puis Maniérisme
 - theme: histoire_societes
   type: objet
   tags:
@@ -120,7 +120,7 @@
     - technologie
   subject: Samuel Morse
   attribute: invention
-  value: code Morse et télégraphe de Morse (à armature avec un courant qui émet un clic), en 1838
+  value: code Morse et télégraphe, brevet 1838, premier message 1844
 - theme: histoire_societes
   type: objet
   tags:
@@ -136,7 +136,7 @@
     - technologie
   subject: Premier vol 1890
   attribute: description
-  value: Clément Ader avec l'Éole (Avion I)
+  value: Clément Ader avec l'Éole (Avion I), décollage motorisé non contrôlé et contesté
 - theme: histoire_societes
   type: evenement
   tags:
@@ -432,7 +432,7 @@
     - biologie
   subject: Épona
   attribute: role
-  value: déesse celte de la fertilité
+  value: déesse gallo-romaine des chevaux et des cavaliers
 - theme: histoire_societes
   type: entite
   tags:
@@ -446,7 +446,7 @@
     - europe
   subject: Jason
   attribute: parents
-  value: fils d'Éson et Polymédé
+  value: "fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé"
 - theme: histoire_societes
   type: concept
   tags:

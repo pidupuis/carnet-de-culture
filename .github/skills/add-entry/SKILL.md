@@ -13,6 +13,7 @@ Add a new fact to the carnet-de-culture knowledge base by appending correctly fo
 ### 1. Understand the input
 
 The user describes something they learned in natural language. Extract:
+
 - **What** is the subject (a person, place, concept, event, work, etc.)
 - **What facts** about it (each fact = one attribute/value pair)
 
@@ -20,17 +21,17 @@ The user describes something they learned in natural language. Extract:
 
 Read [dictionary.js](../../../scripts/dictionary.js) for the current list of themes. Pick the one that best fits:
 
-| Theme key | Use for |
-|---|---|
-| `histoire_societes` | Historical events, people in history, political entities, dynasties |
-| `geographie_territoires` | Places, countries, mountains, rivers, geographic facts |
-| `langue_litterature` | Words, definitions, grammar, authors, literary works |
-| `arts_culture` | Artists, artworks, music, architecture, cultural objects |
-| `usages_traditions` | Customs, food, drinks, rituals, everyday culture |
-| `sciences_vivant` | Biology, medicine, anatomy, zoology, botany |
-| `sciences_techniques` | Physics, chemistry, engineering, astronomy, technology |
-| `loisirs_fiction` | Sports, games, fictional characters, TV, hobbies |
-| `mandarin` | Chinese characters only — uses special format (see below) |
+| Theme key                | Use for                                                             |
+| ------------------------ | ------------------------------------------------------------------- |
+| `histoire_societes`      | Historical events, people in history, political entities, dynasties |
+| `geographie_territoires` | Places, countries, mountains, rivers, geographic facts              |
+| `langue_litterature`     | Words, definitions, grammar, authors, literary works                |
+| `arts_culture`           | Artists, artworks, music, architecture, cultural objects            |
+| `usages_traditions`      | Customs, food, drinks, rituals, everyday culture                    |
+| `sciences_vivant`        | Biology, medicine, anatomy, zoology, botany                         |
+| `sciences_techniques`    | Physics, chemistry, engineering, astronomy, technology              |
+| `loisirs_fiction`        | Sports, games, fictional characters, TV, hobbies                    |
+| `mandarin`               | Chinese characters only — uses special format (see below)           |
 
 The YAML file to edit is `data/<theme_key>.yaml`.
 
@@ -38,19 +39,19 @@ The YAML file to edit is `data/<theme_key>.yaml`.
 
 Read [dictionary.js](../../../scripts/dictionary.js) for the current list of types. Pick the most specific one:
 
-| Type key | Use for |
-|---|---|
-| `personne` | A named individual |
-| `lieu` | A geographic location |
-| `oeuvre` | A creative work (book, painting, film, song) |
-| `concept` | An idea, definition, or abstract notion |
-| `evenement` | A dated historical event |
-| `periode` | A time period or era |
-| `entite` | An institution, dynasty, organization, species family |
-| `objet` | A physical object or structure |
-| `substance` | A material, chemical, food, or drink |
-| `fiction` | A fictional character or place |
-| `organisme` | A living organism |
+| Type key    | Use for                                               |
+| ----------- | ----------------------------------------------------- |
+| `personne`  | A named individual                                    |
+| `lieu`      | A geographic location                                 |
+| `oeuvre`    | A creative work (book, painting, film, song)          |
+| `concept`   | An idea, definition, or abstract notion               |
+| `evenement` | A dated historical event                              |
+| `periode`   | A time period or era                                  |
+| `entite`    | An institution, dynasty, organization, species family |
+| `objet`     | A physical object or structure                        |
+| `substance` | A material, chemical, food, or drink                  |
+| `fiction`   | A fictional character or place                        |
+| `organisme` | A living organism                                     |
 
 ### 4. Choose attributes
 
@@ -73,6 +74,7 @@ Attributes are free-form snake_case keys. Use consistent names based on the type
 Read [dictionary.js](../../../scripts/dictionary.js) for the canonical tag list organized by category. Assign 1-4 tags that best describe the entry's domain.
 
 If no existing tag fits well, **ask the user** whether to:
+
 - Use the closest existing tag
 - Create a new tag — in that case, also add it to the appropriate category in `TAGS` in [dictionary.js](../../../scripts/dictionary.js)
 
@@ -96,6 +98,7 @@ Append to `data/<theme_key>.yaml`. Each attribute is a separate YAML entry:
 ```
 
 Rules:
+
 - One entry per attribute/value pair
 - All entries for the same subject share the same `theme`, `type`, and `tags`
 - Numeric-only values must be quoted: `value: "1502"`
@@ -106,6 +109,7 @@ Rules:
 ### 8. Validate and regenerate
 
 Run in terminal:
+
 ```
 npm run generate
 ```

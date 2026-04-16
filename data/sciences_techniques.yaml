@@ -11,7 +11,7 @@
     - espace
   subject: Chondrites
   attribute: definition
-  value: premières météorites, les plus courantes, non différenciées (pierreuses, <35% de métal)
+  value: premières météorites, les plus courantes, non différenciées (pierreuses, contenant des chondres)
 - theme: sciences_techniques
   type: concept
   tags:
@@ -60,7 +60,7 @@
     - espace
   subject: Artemis 2
   attribute: note
-  value: premier vol habité depuis Apollo 17 en 1972
+  value: premier vol habité au-delà de l'orbite terrestre basse depuis Apollo 17 en 1972
 - theme: sciences_techniques
   type: concept
   tags:

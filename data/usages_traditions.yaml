@@ -37,7 +37,7 @@
     - societe
   subject: Oolong
   attribute: definition
-  value: thé à oxydation incomplète, aussi appelé thé bleu
+  value: thé à oxydation partielle, aussi appelé thé bleu-vert
 - theme: usages_traditions
   type: concept
   tags:

@@ -106,7 +106,7 @@
     - medecine
   subject: Viagra
   attribute: etymologie
-  value: contraction de "vigueur" et "chute du Niagara"
+  value: contraction de "vigueur" et "chute du Niagara" (étymologie supposée, non confirmée par Pfizer)
 - theme: sciences_vivant
   type: concept
   tags:
@@ -151,7 +151,7 @@
     - biologie
   subject: Carotides
   attribute: definition
-  value: artères dans le thorax et le cou
+  value: artères du cou irriguant la tête et le cerveau
 - theme: sciences_vivant
   type: concept
   tags:

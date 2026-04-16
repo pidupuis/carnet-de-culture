@@ -221,7 +221,7 @@
     - asie
   subject: Vâtsyâyana
   attribute: epoque
-  value: entre VIe et VIIe siècle
+  value: "entre IIe et IIIe siècle (fourchette large : Ier-VIe)"
 - theme: langue_litterature
   type: oeuvre
   tags:
@@ -307,7 +307,7 @@
     - langage
   subject: Syntagme
   attribute: definition
-  value: '"Maltraiter" est un syntagme composé des morphèmes "mal" et "traiter"'
+  value: "groupe de mots formant une unité syntaxique — ex : 'le petit chat' (syntagme nominal)"
 - theme: langue_litterature
   type: concept
   tags:

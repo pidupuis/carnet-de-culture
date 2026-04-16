@@ -8,14 +8,14 @@
 - theme: geographie_territoires
   type: lieu
   tags:
-    - europe
+    - asie
   subject: Lac Baïkal
   attribute: localisation
   value: Sibérie russe
 - theme: geographie_territoires
   type: lieu
   tags:
-    - europe
+    - asie
   subject: Lac Baïkal
   attribute: particularite
   value: le plus profond de la planète, 1642 m de profondeur
@@ -30,16 +30,16 @@
   type: lieu
   tags:
     - asie
-  subject: Éverest
+  subject: Everest
   attribute: altitude
   value: 8 848,86 m
 - theme: geographie_territoires
   type: lieu
   tags:
     - asie
-  subject: Éverest
+  subject: Everest
   attribute: titre
-  value: plus grande montagne en terme d'altitude
+  value: plus haute montagne au-dessus du niveau de la mer
 - theme: geographie_territoires
   type: lieu
   tags:
@@ -84,7 +84,7 @@
     - colonisation
   subject: Gorée
   attribute: definition
-  value: île dans la baie de Dakar, transit pour esclaves entre Afrique et Amérique
+  value: île dans la baie de Dakar, symbole de la traite négrière (rôle symbolique majeur, volumes historiques discutés)
 - theme: geographie_territoires
   type: lieu
   tags:
@@ -126,7 +126,7 @@
     - europe
   subject: Transylvanie
   attribute: etymologie
-  value: "\"au-delà des forêts\""
+  value: '"au-delà des forêts"'
 - theme: geographie_territoires
   type: lieu
   tags:
@@ -154,7 +154,7 @@
     - europe
   subject: Moldavie (région)
   attribute: definition
-  value: ancienne principauté entre Carpates et Dniestr, divisée entre Roumanie et Moldavie (1859)
+  value: ancienne principauté entre Carpates et Dniestr ; Bessarabie cédée à la Russie (1812), partie occidentale unie à la Valachie (1859)
 - theme: geographie_territoires
   type: concept
   tags: []
