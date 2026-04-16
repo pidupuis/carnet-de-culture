@@ -1,64 +1,59 @@
 - theme: loisirs_fiction
   type: concept
   tags:
-    - sport
-    - athletisme
+    - culture_pop
   subject: Fosbury-flop
   attribute: definition
   value: technique du saut en hauteur, rouleau dorsal
 - theme: loisirs_fiction
   type: personne
   tags:
-    - sport
-    - athletisme
+    - culture_pop
   subject: Richard Fosbury
   attribute: surnom
   value: Dick Fosbury
 - theme: loisirs_fiction
   type: personne
   tags:
-    - sport
-    - athletisme
+    - culture_pop
   subject: Richard Fosbury
   attribute: palmares
   value: titre olympique Mexico 1968, initiateur du Fosbury-flop
 - theme: loisirs_fiction
   type: personne
   tags:
-    - jeux_video
-    - zelda
+    - culture_pop
   subject: Épona
   attribute: role
   value: jument de Link dans The Legend of Zelda
 - theme: loisirs_fiction
   type: fiction
   tags:
-    - bande_dessinee
-    - tintin
+    - culture_pop
   subject: Syldavie
   attribute: definition
   value: pays imaginaire dans Tintin, inventé par Hergé
 - theme: loisirs_fiction
   type: oeuvre
   tags:
-    - television
-    - animation
+    - cinema
+    - culture_pop
   subject: Bob l'éponge
   attribute: date
   value: "1999"
 - theme: loisirs_fiction
   type: oeuvre
   tags:
-    - television
-    - animation
+    - cinema
+    - culture_pop
   subject: Bob l'éponge
   attribute: chaine
   value: Nickelodeon
 - theme: loisirs_fiction
   type: oeuvre
   tags:
-    - television
-    - animation
+    - cinema
+    - culture_pop
   subject: Bob l'éponge
   attribute: createur
   value: Stephen Hillenburg

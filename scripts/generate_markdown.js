@@ -2,18 +2,20 @@
 
 const fs = require("fs");
 const path = require("path");
-const { THEMES, TYPES } = require("./dictionary");
+const { THEMES } = require("./dictionary");
 const { loadEntries } = require("./loader");
 
 const OUTPUT = path.join(__dirname, "..", "output", "knowledge.md");
+const INLINE_THRESHOLD = 4;
 
 try {
   const entries = loadEntries();
 
+  // Group by theme, then by subject (preserving insertion order)
   const grouped = new Map();
 
   for (const entry of entries) {
-    const { theme, type, subject, attribute, value } = entry;
+    const { theme, subject, attribute, value } = entry;
 
     if (!theme || !subject || !attribute || value === undefined) {
       console.error(
@@ -23,32 +25,53 @@ try {
       continue;
     }
 
-    if (!(theme in THEMES)) {
-      console.error(
-        `Warning: unknown theme "${theme}" for subject "${subject}"`,
-      );
-    }
-    if (type && !(type in TYPES)) {
-      console.error(`Warning: unknown type "${type}" for subject "${subject}"`);
-    }
-
     if (!grouped.has(theme)) {
-      grouped.set(theme, []);
+      grouped.set(theme, new Map());
     }
-    grouped.get(theme).push({ type, subject, attribute, value });
+    const subjects = grouped.get(theme);
+    if (!subjects.has(subject)) {
+      subjects.set(subject, []);
+    }
+    subjects.get(subject).push({ attribute, value });
   }
 
   const lines = [];
 
-  for (const [theme, items] of grouped) {
-    const themeLabel = THEMES[theme] || theme;
+  // Iterate in THEMES order
+  for (const theme of Object.keys(THEMES)) {
+    const subjects = grouped.get(theme);
+    if (!subjects) continue;
+    const themeLabel = THEMES[theme];
     lines.push(`## ${themeLabel}\n`);
-    for (const { type, subject, attribute, value } of items) {
-      const typeLabel = type ? TYPES[type] || type : "";
-      const prefix = typeLabel ? `(${typeLabel}) ` : "";
-      lines.push(`${prefix}[${subject}] ${attribute} :: ${value}`);
+
+    const isMandarin = theme === "mandarin";
+
+    for (const [subject, attrs] of subjects) {
+      if (isMandarin) {
+        // Mandarin: always bullet list with attribute names
+        lines.push(`**${subject}**`);
+        for (const { attribute, value } of attrs) {
+          lines.push(`- ${attribute} : ${value}`);
+        }
+        lines.push("");
+      } else if (attrs.length === 1) {
+        lines.push(`**${subject}** — ${attrs[0].value}`);
+      } else if (attrs.length <= INLINE_THRESHOLD) {
+        const values = attrs.map((a) => a.value).join(" · ");
+        lines.push(`**${subject}** — ${values}`);
+      } else {
+        lines.push(`**${subject}**`);
+        for (const { value } of attrs) {
+          lines.push(`- ${value}`);
+        }
+        lines.push("");
+      }
     }
-    lines.push("");
+
+    // Add trailing blank line after theme (if not already added by bullet list)
+    if (lines[lines.length - 1] !== "") {
+      lines.push("");
+    }
   }
 
   fs.mkdirSync(path.dirname(OUTPUT), { recursive: true });

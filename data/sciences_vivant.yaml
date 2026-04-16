@@ -1,21 +1,21 @@
 - theme: sciences_vivant
   type: concept
   tags:
-    - microbiologie
+    - biologie
   subject: Tularémie
   attribute: agent
   value: Francisella tularensis (bacille de Francis)
 - theme: sciences_vivant
   type: concept
   tags:
-    - microbiologie
+    - biologie
   subject: Tularémie
   attribute: particularite
   value: la bactérie peut traverser la peau saine
 - theme: sciences_vivant
   type: concept
   tags:
-    - microbiologie
+    - biologie
   subject: Zoonose
   attribute: definition
   value: maladie transmise de l'animal aux humains et inversement
@@ -36,7 +36,7 @@
 - theme: sciences_vivant
   type: concept
   tags:
-    - elevage
+    - nature
   subject: Génisse
   attribute: definition
   value: vache n'ayant pas vêlé
@@ -50,7 +50,8 @@
 - theme: sciences_vivant
   type: concept
   tags:
-    - zoologie
+    - biologie
+    - nature
   subject: Aptère
   attribute: definition
   value: animal sans ailes
@@ -64,24 +65,24 @@
 - theme: sciences_vivant
   type: entite
   tags:
-    - zoologie
-    - marsupiaux
+    - biologie
+    - nature
   subject: Macropodidae
   attribute: definition
   value: famille de marsupiaux (kangourous, wallabies, thylogales…)
 - theme: sciences_vivant
   type: entite
   tags:
-    - zoologie
-    - marsupiaux
+    - biologie
+    - nature
   subject: Thylogales
   attribute: synonyme
   value: pademelons
 - theme: sciences_vivant
   type: entite
   tags:
-    - zoologie
-    - marsupiaux
+    - biologie
+    - nature
   subject: Thylogales
   attribute: surnom
   value: petit kangourou de la forêt
@@ -109,7 +110,7 @@
 - theme: sciences_vivant
   type: concept
   tags:
-    - anatomie
+    - biologie
   subject: Smegma
   attribute: definition
   value: substance blanchâtre et caséeuse sous le prépuce et la région vulvaire
@@ -117,7 +118,7 @@
   type: personne
   tags:
     - medecine
-    - invention
+    - technologie
   subject: Ernst Gräfenberg
   attribute: invention
   value: le stérilet
@@ -131,35 +132,37 @@
 - theme: sciences_vivant
   type: entite
   tags:
-    - zoologie
+    - biologie
+    - nature
   subject: Proboscidiens
   attribute: etymologie
   value: du grec proboskis signifiant "trompe"
 - theme: sciences_vivant
   type: entite
   tags:
-    - zoologie
+    - biologie
+    - nature
   subject: Proboscidiens
   attribute: definition
   value: ordre de mammifères ne comprenant que les éléphants
 - theme: sciences_vivant
   type: concept
   tags:
-    - anatomie
+    - biologie
   subject: Carotides
   attribute: definition
   value: artères dans le thorax et le cou
 - theme: sciences_vivant
   type: concept
   tags:
-    - anatomie
+    - biologie
   subject: Carotides
   attribute: etymologie
   value: dérivé du grec signifiant "soporifique"
 - theme: sciences_vivant
   type: entite
   tags:
-    - botanique
+    - nature
   subject: Orge
   attribute: nom_latin
   value: Hordeum vulgare

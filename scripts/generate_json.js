@@ -20,6 +20,15 @@ try {
     }
   }
 
+  // Sort entries by THEMES order
+  const { THEMES } = require("./dictionary");
+  const themeOrder = Object.keys(THEMES);
+  entries.sort((a, b) => {
+    const ai = themeOrder.indexOf(a.theme);
+    const bi = themeOrder.indexOf(b.theme);
+    return (ai === -1 ? Infinity : ai) - (bi === -1 ? Infinity : bi);
+  });
+
   fs.mkdirSync(path.dirname(OUTPUT), { recursive: true });
   fs.writeFileSync(OUTPUT, JSON.stringify(entries, null, 2) + "\n", "utf8");
   console.log(`Generated ${OUTPUT} (${entries.length} entries)`);

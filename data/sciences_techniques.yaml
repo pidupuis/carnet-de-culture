@@ -1,58 +1,55 @@
 - theme: sciences_techniques
   type: concept
   tags:
-    - audio
+    - technologie
   subject: Atténuation des bruits de déplacement d'air
   attribute: outils
   value: bonnettes anti-vent, filtres anti-pop
 - theme: sciences_techniques
   type: concept
   tags:
-    - astronomie
-    - meteorites
+    - espace
   subject: Chondrites
   attribute: definition
   value: premières météorites, les plus courantes, non différenciées (pierreuses, <35% de métal)
 - theme: sciences_techniques
   type: concept
   tags:
-    - astronomie
-    - meteorites
+    - espace
   subject: Météorites différenciées
   attribute: definition
   value: ont subi une séparation interne (noyau, manteau…)
 - theme: sciences_techniques
   type: objet
   tags:
-    - astronomie
+    - espace
   subject: Ceinture principale d'astéroïdes
   attribute: localisation
   value: entre les orbites de Mars et Jupiter
 - theme: sciences_techniques
   type: objet
   tags:
-    - astronomie
+    - espace
   subject: Cérès (astéroïde)
   attribute: definition
   value: plus gros astéroïde de la ceinture principale
 - theme: sciences_techniques
   type: objet
   tags:
-    - astronomie
+    - espace
   subject: Cérès (astéroïde)
   attribute: decouverte
   value: "1801"
 - theme: sciences_techniques
   type: objet
   tags:
-    - astronomie
+    - espace
   subject: Cérès (astéroïde)
   attribute: reclassification
   value: catégorisé planète naine en 2006
 - theme: sciences_techniques
   type: evenement
   tags:
-    - astronomie
     - espace
   subject: Artemis 2
   attribute: date
@@ -60,7 +57,6 @@
 - theme: sciences_techniques
   type: evenement
   tags:
-    - astronomie
     - espace
   subject: Artemis 2
   attribute: note
@@ -68,14 +64,14 @@
 - theme: sciences_techniques
   type: concept
   tags:
-    - astronomie
+    - espace
   subject: Mercure et Vénus
   attribute: satellites
   value: aucun satellite naturel
 - theme: sciences_techniques
   type: concept
   tags:
-    - astronomie
+    - espace
   subject: Mars
   attribute: satellites
   value: Phobos et Déimos

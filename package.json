@@ -4,7 +4,8 @@
   "description": "",
   "main": "generate_json.js",
   "scripts": {
-    "generate": "node scripts/generate_markdown.js && node scripts/generate_json.js",
+    "validate": "node scripts/validate.js",
+    "generate": "node scripts/validate.js && node scripts/generate_markdown.js && node scripts/generate_json.js",
     "generate:md": "node scripts/generate_markdown.js",
     "generate:json": "node scripts/generate_json.js"
   },

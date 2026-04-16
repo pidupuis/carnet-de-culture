@@ -1,68 +1,68 @@
 - theme: usages_traditions
   type: concept
   tags:
-    - chine
-    - the
+    - asie
+    - societe
   subject: Gong fu cha
   attribute: definition
   value: art du thé chinois
 - theme: usages_traditions
   type: objet
   tags:
-    - chine
-    - the
+    - asie
+    - societe
   subject: Gaiwan
   attribute: definition
   value: tasse à couvercle chinoise pour thé
 - theme: usages_traditions
   type: substance
   tags:
-    - chine
-    - the
+    - asie
+    - societe
   subject: Argile de Yixing
   attribute: definition
   value: argile de grès pour théières, ville de Yixing, province du Jiangsu, Chine
 - theme: usages_traditions
   type: substance
   tags:
-    - chine
-    - the
+    - asie
+    - societe
   subject: Pu-erh
   attribute: definition
   value: thé sombre post-fermenté, ville de Pu'er, province du Yunnan, Chine
 - theme: usages_traditions
   type: substance
   tags:
-    - chine
-    - the
+    - asie
+    - societe
   subject: Oolong
   attribute: definition
   value: thé à oxydation incomplète, aussi appelé thé bleu
 - theme: usages_traditions
   type: concept
   tags:
-    - the
+    - societe
   subject: Oxydation du thé
   attribute: echelle
   value: vert (pas) > blanc (peu) > bleu (incomplet) > noir=rouge (complet)
 - theme: usages_traditions
   type: substance
   tags:
-    - the
+    - societe
   subject: Thé rouge
   attribute: definition
   value: thé noir en Chine / rooibos en Occident — pas un vrai thé, pas issu de Camellia sinensis
 - theme: usages_traditions
   type: substance
   tags:
-    - espagne
+    - europe
   subject: Touron
   attribute: definition
   value: variante espagnole du nougat
 - theme: usages_traditions
   type: substance
   tags:
-    - chine
+    - asie
   subject: Baie de Goji
   attribute: definition
   value: baie du lyciet commun, produit principalement dans la région du Ningxia, Chine
