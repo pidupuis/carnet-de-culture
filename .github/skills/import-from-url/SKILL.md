@@ -46,7 +46,15 @@ Guidelines for extraction:
 - Write values in **French** (this is a French knowledge base)
 - Group facts by subject
 
-### 4. Present the list to the user
+### 4. Fact-check extracted facts
+
+Cross-check key facts (dates, names, definitions, attributions) against reliable sources using `fetch_webpage` — primarily Wikipedia (fr.wikipedia.org) or Wiktionary (fr.wiktionary.org).
+
+- If the article is from a non-authoritative source, verify at least the core claims.
+- Flag any fact that contradicts a reliable source, and propose the corrected value.
+- Drop any fact that cannot be verified and appears dubious.
+
+### 5. Present the list to the user
 
 Display the extracted facts as a numbered list grouped by subject for the user to review. For each fact, show:
 
@@ -66,7 +74,7 @@ Then ask the user to:
 - **Edit** — modify any values before adding
 - **Reject all** — cancel the import
 
-### 5. Add approved entries
+### 6. Add approved entries
 
 For each approved fact, follow the **add-entry** skill procedure (read the full skill at [SKILL.md](../add-entry/SKILL.md)):
 
@@ -77,7 +85,7 @@ For each approved fact, follow the **add-entry** skill procedure (read the full 
 
 Process all entries for one subject at a time to keep the YAML grouped.
 
-### 6. Validate and regenerate
+### 7. Validate and regenerate
 
 After all entries have been added, run:
 

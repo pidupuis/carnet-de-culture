@@ -17,7 +17,19 @@ The user describes something they learned in natural language. Extract:
 - **What** is the subject (a person, place, concept, event, work, etc.)
 - **What facts** about it (each fact = one attribute/value pair)
 
-### 2. Determine the theme
+### 2. Fact-check against the Internet
+
+Before recording anything, verify the facts using `fetch_webpage` on reliable sources (Wikipedia, Wiktionary, or other authoritative references):
+
+1. Search for the subject on Wikipedia (fr.wikipedia.org) or Wiktionary (fr.wiktionary.org) depending on the topic.
+2. Cross-check each fact the user provided: dates, names, definitions, attributions.
+3. Report the results to the user:
+   - **Confirmed** — fact matches source(s)
+   - **Corrected** — source gives a different value → propose the correction
+   - **Unverifiable** — no reliable source found → warn the user
+4. Proceed only with confirmed or user-approved corrected facts.
+
+### 3. Determine the theme
 
 Read [dictionary.js](../../../scripts/dictionary.js) for the current list of themes. Pick the one that best fits:
 
@@ -35,7 +47,7 @@ Read [dictionary.js](../../../scripts/dictionary.js) for the current list of the
 
 The YAML file to edit is `data/<theme_key>.yaml`.
 
-### 3. Determine the type
+### 4. Determine the type
 
 Read [dictionary.js](../../../scripts/dictionary.js) for the current list of types. Pick the most specific one:
 
@@ -53,7 +65,7 @@ Read [dictionary.js](../../../scripts/dictionary.js) for the current list of typ
 | `fiction`   | A fictional character or place                        |
 | `organisme` | A living organism                                     |
 
-### 4. Choose attributes
+### 5. Choose attributes
 
 Attributes are free-form snake_case keys. Use consistent names based on the type:
 
@@ -69,7 +81,7 @@ Attributes are free-form snake_case keys. Use consistent names based on the type
 **fiction**: `definition`
 **mandarin**: `pinyin`, `sens`, `composants`, `mnemonique`, `traditionnel`, `note`
 
-### 5. Assign tags
+### 6. Assign tags
 
 Read [dictionary.js](../../../scripts/dictionary.js) for the canonical tag list organized by category. Assign 1-4 tags that best describe the entry's domain.
 
@@ -78,7 +90,7 @@ If no existing tag fits well, **ask the user** whether to:
 - Use the closest existing tag
 - Create a new tag — in that case, also add it to the appropriate category in `TAGS` in [dictionary.js](../../../scripts/dictionary.js)
 
-### 6. Check for duplicates
+### 7. Check for duplicates
 
 Search the target YAML file for the subject name.
 
@@ -88,7 +100,7 @@ Search the target YAML file for the subject name.
 - If the subject exists but the attribute is new → append the new entry after the last entry for that subject to keep entries grouped.
 - If the subject does not exist → append at the end of the file.
 
-### 7. Write the entries
+### 8. Write the entries
 
 Append to `data/<theme_key>.yaml`. Each attribute is a separate YAML entry:
 
@@ -112,7 +124,7 @@ Rules:
 - Empty tags list: `tags: []`
 - Append at the end of the file (or after last entry for same subject if it exists)
 
-### 8. Validate and regenerate
+### 9. Validate and regenerate
 
 Run in terminal:
 
@@ -122,7 +134,7 @@ npm run generate
 
 This validates all entries (tags, types, themes) and regenerates output files (`output/knowledge.json` and `output/knowledge.md`). Fix any errors before finishing.
 
-### 9. Generate markdown preview
+### 10. Generate markdown preview
 
 If the user wants to review the rendered output, or before committing, run:
 
