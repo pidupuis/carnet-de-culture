@@ -1636,6 +1636,56 @@
     "value": "figure de style où un nom propre remplace un nom commun, ou inversement — ex : un Néron, une poubelle"
   },
   {
+    "theme": "langue_litterature",
+    "type": "entite",
+    "tags": [
+      "litterature"
+    ],
+    "subject": "Prix Goncourt",
+    "attribute": "creation",
+    "value": "1903"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "entite",
+    "tags": [
+      "litterature"
+    ],
+    "subject": "Prix Goncourt",
+    "attribute": "premier_laureat",
+    "value": "John-Antoine Nau, Force ennemie"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "entite",
+    "tags": [
+      "litterature"
+    ],
+    "subject": "Prix Femina",
+    "attribute": "creation",
+    "value": "1904"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "entite",
+    "tags": [
+      "litterature"
+    ],
+    "subject": "Prix Femina",
+    "attribute": "premiere_laureate",
+    "value": "Myriam Harry, La Conquête de Jérusalem"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "entite",
+    "tags": [
+      "litterature"
+    ],
+    "subject": "Prix Femina",
+    "attribute": "note",
+    "value": "créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié"
+  },
+  {
     "theme": "arts_culture",
     "type": "personne",
     "tags": [

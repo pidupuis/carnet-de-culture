@@ -198,6 +198,10 @@
 
 **Antonomase** — figure de style où un nom propre remplace un nom commun, ou inversement — ex : un Néron, une poubelle
 
+**Prix Goncourt** — 1903 · John-Antoine Nau, Force ennemie
+
+**Prix Femina** — 1904 · Myriam Harry, La Conquête de Jérusalem · créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié
+
 
 ## Arts & Culture
 
