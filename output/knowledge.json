@@ -985,6 +985,26 @@
     "value": "plus haut sommet de Roumanie"
   },
   {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "asie"
+    ],
+    "subject": "Mer de Marmara",
+    "attribute": "definition",
+    "value": "mer intérieure de Turquie entre mer Égée et mer Noire (11 500 km²)"
+  },
+  {
+    "theme": "geographie_territoires",
+    "type": "lieu",
+    "tags": [
+      "asie"
+    ],
+    "subject": "Mer de Marmara",
+    "attribute": "autre_nom",
+    "value": "Propontide (gr. pro = avant, pontos = mer)"
+  },
+  {
     "theme": "langue_litterature",
     "type": "personne",
     "tags": [
@@ -1584,6 +1604,36 @@
     "subject": "Énantiosème",
     "attribute": "synonyme",
     "value": "contronyme"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "langage"
+    ],
+    "subject": "Nostos",
+    "attribute": "definition",
+    "value": "retour chez soi après un grand voyage (gr. νόστος)"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "langage"
+    ],
+    "subject": "Nostos",
+    "attribute": "etymologie",
+    "value": "a donné nostalgie (nostos + algos = douleur)"
+  },
+  {
+    "theme": "langue_litterature",
+    "type": "concept",
+    "tags": [
+      "langage"
+    ],
+    "subject": "Antonomase",
+    "attribute": "definition",
+    "value": "figure de style où un nom propre remplace un nom commun, ou inversement — ex : un Néron, une poubelle"
   },
   {
     "theme": "arts_culture",

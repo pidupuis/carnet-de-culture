@@ -217,3 +217,17 @@
   subject: Moldoveanu
   attribute: titre
   value: plus haut sommet de Roumanie
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - asie
+  subject: Mer de Marmara
+  attribute: definition
+  value: mer intérieure de Turquie entre mer Égée et mer Noire (11 500 km²)
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - asie
+  subject: Mer de Marmara
+  attribute: autre_nom
+  value: Propontide (gr. pro = avant, pontos = mer)

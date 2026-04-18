@@ -8,6 +8,12 @@ argument-hint: "Paste a URL to extract knowledge from"
 
 Read an external webpage, extract noteworthy general-culture facts, present them to the user for approval, then add approved entries using the add-entry skill.
 
+## Core Principles
+
+1. **Minimal input accepted** — a bare URL with no instructions is enough. Infer what kind of knowledge to extract from the page content.
+2. **Concise entries** — keep values short and memorable. One sentence max per value. This is a memory aid, not a copy of the article.
+3. **Selective extraction** — pick only the most notable, memorable facts (3-8 per subject). Skip trivia and obvious details.
+
 ## Procedure
 
 ### 1. Fetch the page content
@@ -42,9 +48,10 @@ Guidelines for extraction:
 - Prefer **precise, atomic facts** (one fact = one future YAML entry)
 - Skip trivial, obvious, or overly detailed information
 - Skip content that is opinion, speculation, or unsourced claims
-- Keep values concise — aim for one sentence or a short phrase
+- Keep values concise — aim for one sentence or a short phrase, **under 10 words when possible**
 - Write values in **French** (this is a French knowledge base)
 - Group facts by subject
+- **One core definition per concept** — not multiple senses or exhaustive descriptions
 
 ### 4. Fact-check extracted facts
 
@@ -120,5 +127,6 @@ User approves → add-entry for each → `npm run generate`.
 
 - If the article covers **multiple distinct subjects**, group facts by subject and propose separate theme/type/tags for each.
 - If a new tag is needed, ask the user before creating it (same rule as add-entry).
-- For very long articles, focus on the **most notable and memorable** facts (aim for 3–10 entries per subject, not an exhaustive dump).
+- For very long articles, focus on the **most notable and memorable** facts (aim for 3-8 entries per subject, not an exhaustive dump).
+- **Keep values concise** — one sentence or short phrase. Under 10 words when possible.
 - If the URL points to a non-article page (e.g. a video, image, or app), inform the user that extraction is not possible.

@@ -8,14 +8,29 @@ argument-hint: "Describe what you learned"
 
 Add a new fact to the carnet-de-culture knowledge base by appending correctly formatted YAML entries to the appropriate data file.
 
+## Core Principles
+
+1. **Minimal input accepted** — the user can provide as little as a single word. Infer theme, type, tags, and attributes from context and verification.
+2. **Concise values** — keep entry values short and memorable. One sentence max. For vocabulary: one core definition (the most common sense), not all senses. If you can say it in under 10 words, do.
+3. **Don't over-enrich** — add only the most useful 1-3 attributes per subject. This is a memory aid, not an encyclopedia.
+
 ## Procedure
 
 ### 1. Understand the input
 
-The user describes something they learned in natural language. Extract:
+The user describes something they learned in natural language — or provides just a word/name with no detail.
+
+Extract:
 
 - **What** is the subject (a person, place, concept, event, work, etc.)
 - **What facts** about it (each fact = one attribute/value pair)
+
+If the user gave **only a word or name**, infer intent:
+
+- Common/uncommon French word → `langue_litterature` / `concept` with `definition`
+- Person's name → look up who they are
+- Place name → look up where/what it is
+- Domain term → appropriate theme
 
 ### 2. Fact-check against the Internet
 
@@ -23,13 +38,14 @@ Before recording anything, verify the facts using `fetch_webpage` on reliable so
 
 1. Search for the subject on Wikipedia (fr.wikipedia.org) or Wiktionary (fr.wiktionary.org) depending on the topic.
 2. Cross-check each fact the user provided: dates, names, definitions, attributions.
-3. **Use the verified sources to refine the wording** of the entry values — prefer precise, well-established formulations over the user's casual phrasing. Add relevant details found during verification (e.g. etymology, synonyms, additional context) as separate entries.
-4. Report the results to the user:
+3. **Use the verified sources to refine the wording** — prefer precise, well-established formulations over the user's casual phrasing. But **keep values concise**: one short sentence or phrase. Do NOT copy long paragraphs.
+4. Only add extra attributes (etymology, synonyms) if they are genuinely interesting or memorable — not systematically.
+5. Report the results to the user:
    - **Confirmed** — fact matches source(s)
    - **Corrected** — source gives a different or more precise value → propose the improved wording
-   - **Enriched** — source provides useful additional facts worth adding
+   - **Enriched** — source provides a useful additional fact worth adding (keep it to 1-2 extras max)
    - **Unverifiable** — no reliable source found → warn the user
-5. Proceed only with confirmed or user-approved facts.
+6. Proceed only with confirmed or user-approved facts.
 
 ### 3. Determine the theme
 
@@ -125,6 +141,8 @@ Rules:
 - Values with colons or special YAML characters must be quoted
 - Empty tags list: `tags: []`
 - Append at the end of the file (or after last entry for same subject if it exists)
+- **Keep values concise** — one short sentence or phrase. If under 10 words, prefer that. This is a memory aid.
+- For vocabulary/definitions: give the **single most useful definition**, not multiple senses
 
 ### 9. Validate and regenerate
 

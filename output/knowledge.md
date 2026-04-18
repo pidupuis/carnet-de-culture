@@ -127,6 +127,8 @@
 
 **Moldoveanu** — 2 544 m · plus haut sommet de Roumanie
 
+**Mer de Marmara** — mer intérieure de Turquie entre mer Égée et mer Noire (11 500 km²) · Propontide (gr. pro = avant, pontos = mer)
+
 
 ## Langue & Littérature
 
@@ -191,6 +193,10 @@
 **Naguère** — il y a peu de temps (sens originel) ; aujourd'hui couramment employé au sens de « il y a longtemps » · contraction de « il n'y a guère (de temps) » · l'usage moderne consacre le sens opposé (« il y a longtemps »), possiblement par litote ; le Wiktionnaire accepte désormais les deux sens, marquant l'original comme désuet — naguère est devenu un énantiosème
 
 **Énantiosème** — mot polysémique dont au moins deux sens sont antonymes — ex : hôte, louer, apprendre, remercier · contronyme
+
+**Nostos** — retour chez soi après un grand voyage (gr. νόστος) · a donné nostalgie (nostos + algos = douleur)
+
+**Antonomase** — figure de style où un nom propre remplace un nom commun, ou inversement — ex : un Néron, une poubelle
 
 
 ## Arts & Culture
