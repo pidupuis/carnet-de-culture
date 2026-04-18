@@ -389,3 +389,24 @@
   subject: Le Château des Carpates
   attribute: date
   value: "1892"
+- theme: langue_litterature
+  type: concept
+  tags:
+    - langage
+  subject: Naguère
+  attribute: definition
+  value: "il n'y a pas longtemps (et non « il y a longtemps »)"
+- theme: langue_litterature
+  type: concept
+  tags:
+    - langage
+  subject: Naguère
+  attribute: note
+  value: "antonyme : jadis ; l'usage erroné au sens de « il y a longtemps » se répand au point que certains dictionnaires commencent à accepter les deux sens — naguère est en train de devenir un énantiosème"
+- theme: langue_litterature
+  type: concept
+  tags:
+    - langage
+  subject: Énantiosème
+  attribute: definition
+  value: "mot pouvant signifier une chose et son contraire — ex : hôte, louer, apprendre"

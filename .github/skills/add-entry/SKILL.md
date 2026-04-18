@@ -120,7 +120,17 @@ Run in terminal:
 npm run generate
 ```
 
-This validates all entries (tags, types, themes) and regenerates output files. Fix any errors before finishing.
+This validates all entries (tags, types, themes) and regenerates output files (`output/knowledge.json` and `output/knowledge.md`). Fix any errors before finishing.
+
+### 9. Generate markdown preview
+
+If the user wants to review the rendered output, or before committing, run:
+
+```
+npm run generate:md
+```
+
+This regenerates `output/knowledge.md` with one-liner per subject, separated by blank lines, grouped under theme headings.
 
 ## Mandarin special case
 

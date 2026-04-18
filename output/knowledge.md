@@ -188,6 +188,10 @@
 
 **Le Château des Carpates** — Jules Verne · 1892
 
+**Naguère** — il n'y a pas longtemps (et non « il y a longtemps ») · antonyme : jadis ; l'usage erroné au sens de « il y a longtemps » se répand au point que certains dictionnaires commencent à accepter les deux sens — naguère est en train de devenir un énantiosème
+
+**Énantiosème** — mot pouvant signifier une chose et son contraire — ex : hôte, louer, apprendre
+
 
 ## Arts & Culture
 
