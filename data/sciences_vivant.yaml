@@ -166,3 +166,10 @@
   subject: Orge
   attribute: nom_latin
   value: Hordeum vulgare
+- theme: sciences_vivant
+  type: concept
+  tags:
+    - nature
+  subject: Drageon
+  attribute: definition
+  value: "rejeton naissant de la racine d'un arbre ou d'une plante, détachable pour le replanter (lilas, peuplier, framboisier)"

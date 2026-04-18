@@ -279,6 +279,8 @@
 
 **Orge** — Hordeum vulgare
 
+**Drageon** — rejeton naissant de la racine d'un arbre ou d'une plante, détachable pour le replanter (lilas, peuplier, framboisier)
+
 
 ## Sciences & Techniques
 
