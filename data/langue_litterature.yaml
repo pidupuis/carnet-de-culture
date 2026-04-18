@@ -395,18 +395,32 @@
     - langage
   subject: Naguère
   attribute: definition
-  value: "il n'y a pas longtemps (et non « il y a longtemps »)"
+  value: "il y a peu de temps (sens originel) ; aujourd'hui couramment employé au sens de « il y a longtemps »"
+- theme: langue_litterature
+  type: concept
+  tags:
+    - langage
+  subject: Naguère
+  attribute: etymologie
+  value: "contraction de « il n'y a guère (de temps) »"
 - theme: langue_litterature
   type: concept
   tags:
     - langage
   subject: Naguère
   attribute: note
-  value: "antonyme : jadis ; l'usage erroné au sens de « il y a longtemps » se répand au point que certains dictionnaires commencent à accepter les deux sens — naguère est en train de devenir un énantiosème"
+  value: "l'usage moderne consacre le sens opposé (« il y a longtemps »), possiblement par litote ; le Wiktionnaire accepte désormais les deux sens, marquant l'original comme désuet — naguère est devenu un énantiosème"
 - theme: langue_litterature
   type: concept
   tags:
     - langage
   subject: Énantiosème
   attribute: definition
-  value: "mot pouvant signifier une chose et son contraire — ex : hôte, louer, apprendre"
+  value: "mot polysémique dont au moins deux sens sont antonymes — ex : hôte, louer, apprendre, remercier"
+- theme: langue_litterature
+  type: concept
+  tags:
+    - langage
+  subject: Énantiosème
+  attribute: synonyme
+  value: contronyme

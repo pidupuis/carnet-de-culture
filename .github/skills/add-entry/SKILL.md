@@ -23,11 +23,13 @@ Before recording anything, verify the facts using `fetch_webpage` on reliable so
 
 1. Search for the subject on Wikipedia (fr.wikipedia.org) or Wiktionary (fr.wiktionary.org) depending on the topic.
 2. Cross-check each fact the user provided: dates, names, definitions, attributions.
-3. Report the results to the user:
+3. **Use the verified sources to refine the wording** of the entry values — prefer precise, well-established formulations over the user's casual phrasing. Add relevant details found during verification (e.g. etymology, synonyms, additional context) as separate entries.
+4. Report the results to the user:
    - **Confirmed** — fact matches source(s)
-   - **Corrected** — source gives a different value → propose the correction
+   - **Corrected** — source gives a different or more precise value → propose the improved wording
+   - **Enriched** — source provides useful additional facts worth adding
    - **Unverifiable** — no reliable source found → warn the user
-4. Proceed only with confirmed or user-approved corrected facts.
+5. Proceed only with confirmed or user-approved facts.
 
 ### 3. Determine the theme
 

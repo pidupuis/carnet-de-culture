@@ -53,6 +53,7 @@ Cross-check key facts (dates, names, definitions, attributions) against reliable
 - If the article is from a non-authoritative source, verify at least the core claims.
 - Flag any fact that contradicts a reliable source, and propose the corrected value.
 - Drop any fact that cannot be verified and appears dubious.
+- **Use verified sources to refine the wording** — prefer precise, well-established formulations over the article's phrasing. If verification reveals useful additional facts (etymology, synonyms, related concepts), propose them as extra entries.
 
 ### 5. Present the list to the user
 

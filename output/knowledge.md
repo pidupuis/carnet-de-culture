@@ -188,9 +188,9 @@
 
 **Le Château des Carpates** — Jules Verne · 1892
 
-**Naguère** — il n'y a pas longtemps (et non « il y a longtemps ») · antonyme : jadis ; l'usage erroné au sens de « il y a longtemps » se répand au point que certains dictionnaires commencent à accepter les deux sens — naguère est en train de devenir un énantiosème
+**Naguère** — il y a peu de temps (sens originel) ; aujourd'hui couramment employé au sens de « il y a longtemps » · contraction de « il n'y a guère (de temps) » · l'usage moderne consacre le sens opposé (« il y a longtemps »), possiblement par litote ; le Wiktionnaire accepte désormais les deux sens, marquant l'original comme désuet — naguère est devenu un énantiosème
 
-**Énantiosème** — mot pouvant signifier une chose et son contraire — ex : hôte, louer, apprendre
+**Énantiosème** — mot polysémique dont au moins deux sens sont antonymes — ex : hôte, louer, apprendre, remercier · contronyme
 
 
 ## Arts & Culture
