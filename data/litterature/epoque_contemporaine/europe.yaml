@@ -284,7 +284,7 @@
     - litterature
   subject: Carmilla
   attribute: note
-  value: roman vampirique précurseur de Dracula
+  value: roman court vampirique, précurseur de Dracula
 - type: oeuvre
   tags:
     - litterature
@@ -307,7 +307,7 @@
     - epoque_contemporaine
     - europe
     - litterature
-  subject: Le Château des Carpates
+  subject: Le Château des Carpathes
   attribute: auteur
   value: Jules Verne
 - type: oeuvre
@@ -316,7 +316,7 @@
     - epoque_contemporaine
     - europe
     - litterature
-  subject: Le Château des Carpates
+  subject: Le Château des Carpathes
   attribute: date
   value: "1892"
 - type: oeuvre
@@ -361,6 +361,15 @@
     - epoque_contemporaine
     - europe
     - litterature
+  subject: Prix Goncourt
+  attribute: laureat_1904
+  value: Léon Frapié, La Maternelle
+- type: entite
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
   subject: Prix Femina
   attribute: creation
   value: "1904"
@@ -381,7 +390,7 @@
     - litterature
   subject: Prix Femina
   attribute: note
-  value: créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié
+  value: créé en réaction au Goncourt 1904, jugé misogyne pour avoir écarté la favorite Myriam Harry au profit de Léon Frapié
 - type: oeuvre
   tags:
     - litterature
@@ -408,4 +417,4 @@
     - guerre
   subject: Le Sergent dans la neige
   attribute: note
-  value: récit de la retraite de Russie des chasseurs alpins italiens, qualifié par Calvino de « petite anabase dialectale »
+  value: récit de la retraite de Russie des chasseurs alpins italiens, qualifié par l'auteur de « petite anabase dialectale »

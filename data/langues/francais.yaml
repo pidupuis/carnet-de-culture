@@ -11,7 +11,7 @@
     - francais
   subject: In-folio
   attribute: definition
-  value: gros bouquin, ou feuille pliée pour faire 4 pages
+  value: format de livre dont la feuille est pliée en deux (4 pages) ; par métonymie, livre de ce format
 - type: concept
   tags:
     - langues
@@ -19,15 +19,15 @@
     - asie
   subject: Kakémono
   attribute: definition
-  value: peinture sur soie ou sur papier japonaise, plus haute que large
+  value: rouleau vertical japonais en papier ou tissu pour afficher peintures, estampes ou calligraphies
 - type: concept
   tags:
     - langues
     - francais
     - asie
-  subject: Makémono
+  subject: Makimono
   attribute: definition
-  value: peinture sur soie ou sur papier japonaise, plus large que haute
+  value: rouleau horizontal japonais (narration, calligraphie, peinture) ; aussi écrit makémono
 - type: concept
   tags:
     - langues
@@ -42,7 +42,7 @@
     - francais
   subject: Païen
   attribute: definition
-  value: polythéiste ou sans religion
+  value: adepte du polythéisme ou du paganisme ; par extension, impie, mécréant
 - type: concept
   tags:
     - langues
@@ -144,7 +144,7 @@
     - langage
   subject: Phonème
   attribute: definition
-  value: plus petite unité sonore, combinés pour former morphèmes, mots, phrases
+  value: plus petite unité distinctive de prononciation dans une langue
 - type: concept
   tags:
     - langues
@@ -160,7 +160,15 @@
     - langage
   subject: Verbe défectif
   attribute: definition
-  value: conjugaison incomplète (comme pleuvoir, neiger)
+  value: verbe à conjugaison incomplète (comme gésir, sourdre, clore, choir)
+- type: concept
+  tags:
+    - langues
+    - francais
+    - langage
+  subject: Verbe impersonnel
+  attribute: definition
+  value: verbe qui ne se conjugue qu'à la troisième personne du singulier (comme pleuvoir, neiger, falloir) ; défectif par essence
 - type: concept
   tags:
     - langues

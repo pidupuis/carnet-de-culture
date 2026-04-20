@@ -8,7 +8,7 @@
 
 **Cérès** — déesse romaine de l'agriculture, des moissons et de la fertilité
 
-**Épona** — déesse gallo-romaine des chevaux et des cavaliers
+**Épona** — déesse de la mythologie celtique gauloise, protectrice des chevaux, des cavaliers et des écuries
 
 **Jason** — héros de la toison d'or, à la tête des Argonautes · fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé
 
@@ -32,7 +32,7 @@
 
 **Empire ottoman** — empire turc musulman fondé vers 1299 par Osman Ier
 
-**Vlad III** — Dracul (« diable » ou « dragon » en valaque) et Tepes (« l'empaleur ») · voïvode de Valachie au XVe siècle, a combattu les Ottomans · a inspiré le personnage du comte Dracula de Bram Stoker ; pratiquait le supplice du pal sur ses ennemis
+**Vlad III** — Drăculea (« fils du dragon » en valaque) et Tepes (« l'empaleur ») · voïvode de Valachie au XVe siècle, a combattu les Ottomans · a inspiré le personnage du comte Dracula de Bram Stoker ; pratiquait le supplice du pal sur ses ennemis
 
 **Fin de la guerre de Cent Ans** — 1453 · victoire française à la bataille de Castillon, fin du conflit franco-anglais commencé en 1337
 
@@ -118,7 +118,7 @@
 
 **Sœur Emmanuelle** — Madeleine Cinquin · Bruxelles · petite sœur des chiffonniers
 
-**Yves Blanc** — marraine de guerre d'Apollinaire
+**Jeanne Burgues-Brun** — Yves Blanc, puis Jeanne-Yves Blanc · 1886-1970 · poétesse et romancière française, marraine de guerre de Guillaume Apollinaire · correspondance avec Apollinaire dès 1915, lui envoyant un quatrain qu'il appellera son « talisman » ; Apollinaire lui reprochant son pseudonyme masculin (lettre du 31 janvier 1918), elle adopte le pseudonyme Jeanne-Yves Blanc
 
 ### Époque contemporaine · Amérique
 
@@ -133,7 +133,7 @@
 
 **Moldoveanu** — 2 544 m · plus haut sommet de Roumanie
 
-**Mont Gerlach** — 2 655 m · point culminant des Carpates
+**Mont Gerlach** — 2 654 m · point culminant des Carpates
 
 **Moldavie (région)** — ancienne principauté entre Carpates et Dniestr ; Bessarabie cédée à la Russie (1812), partie occidentale unie à la Valachie (1859)
 
@@ -216,7 +216,7 @@
 
 **L'Odyssée** — Homère · retour d'Ulysse à Ithaque après la guerre de Troie, en 24 chants
 
-**Lotophages** — peuple « mangeurs de lotos » installé à Djerba ; quiconque goûte leur fruit oublie sa patrie
+**Lotophages** — peuple « mangeurs de lotos » traditionnellement identifié avec Djerba ; quiconque goûte leur fruit oublie sa patrie
 
 **Ménélas** — roi de Sparte, époux d'Hélène, frère d'Agamemnon
 
@@ -250,11 +250,11 @@
 
 **Anabase** — Xénophon · v. 365 av. J.-C. · récit de l'expédition des Dix-Mille et de leur retraite à travers l'Empire perse
 
-**Borée** — dieu grec personnifiant le vent du nord, fils d'Éos et d'Astréos
+**Borée** — personnification grecque du vent du nord, fils d'Éos et d'Astréos
 
 ### Antiquité · Asie
 
-**Vâtsyâyana** — auteur indien à qui on attribue le Kamasutra · entre IIe et IIIe siècle (fourchette large : Ier-VIe)
+**Vâtsyâyana** — auteur indien à qui on attribue le Kamasutra · autour du IVe siècle (fourchette large : Ier-VIe)
 
 ### Moyen Âge · Europe
 
@@ -286,19 +286,19 @@
 
 **De l'autre côté du miroir** — Lewis Carroll · 1871 · suite d'Alice au pays des merveilles
 
-**Carmilla** — Sheridan Le Fanu · 1872 · roman vampirique précurseur de Dracula
+**Carmilla** — Sheridan Le Fanu · 1872 · roman court vampirique, précurseur de Dracula
 
 **Sherlock Holmes** — Arthur Conan Doyle · 4 romans et 56 nouvelles entre 1887 et 1930
 
-**Le Château des Carpates** — Jules Verne · 1892
+**Le Château des Carpathes** — Jules Verne · 1892
 
 **Dracula** — Bram Stoker · 1897
 
-**Prix Goncourt** — 1903 · John-Antoine Nau, Force ennemie
+**Prix Goncourt** — 1903 · John-Antoine Nau, Force ennemie · Léon Frapié, La Maternelle
 
-**Prix Femina** — 1904 · Myriam Harry, La Conquête de Jérusalem · créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié
+**Prix Femina** — 1904 · Myriam Harry, La Conquête de Jérusalem · créé en réaction au Goncourt 1904, jugé misogyne pour avoir écarté la favorite Myriam Harry au profit de Léon Frapié
 
-**Le Sergent dans la neige** — Mario Rigoni Stern · 1953 · récit de la retraite de Russie des chasseurs alpins italiens, qualifié par Calvino de « petite anabase dialectale »
+**Le Sergent dans la neige** — Mario Rigoni Stern · 1953 · récit de la retraite de Russie des chasseurs alpins italiens, qualifié par l'auteur de « petite anabase dialectale »
 
 
 ## Langues
@@ -307,15 +307,15 @@
 
 **Apocryphe** — authenticité douteuse ou niée
 
-**In-folio** — gros bouquin, ou feuille pliée pour faire 4 pages
+**In-folio** — format de livre dont la feuille est pliée en deux (4 pages) ; par métonymie, livre de ce format
 
-**Kakémono** — peinture sur soie ou sur papier japonaise, plus haute que large
+**Kakémono** — rouleau vertical japonais en papier ou tissu pour afficher peintures, estampes ou calligraphies
 
-**Makémono** — peinture sur soie ou sur papier japonaise, plus large que haute
+**Makimono** — rouleau horizontal japonais (narration, calligraphie, peinture) ; aussi écrit makémono
 
 **Obi** — ceinture du kimono
 
-**Païen** — polythéiste ou sans religion
+**Païen** — adepte du polythéisme ou du paganisme ; par extension, impie, mécréant
 
 **Profane** — étranger à la religion
 
@@ -333,11 +333,13 @@
 
 **Pérégrination** — voyage lointain, souvent long et aventureux
 
-**Phonème** — plus petite unité sonore, combinés pour former morphèmes, mots, phrases
+**Phonème** — plus petite unité distinctive de prononciation dans une langue
 
 **Syntagme** — groupe de mots formant une unité syntaxique — ex : 'le petit chat' (syntagme nominal)
 
-**Verbe défectif** — conjugaison incomplète (comme pleuvoir, neiger)
+**Verbe défectif** — verbe à conjugaison incomplète (comme gésir, sourdre, clore, choir)
+
+**Verbe impersonnel** — verbe qui ne se conjugue qu'à la troisième personne du singulier (comme pleuvoir, neiger, falloir) ; défectif par essence
 
 **Maestria** — maîtrise dans un domaine artistique ou technique
 
@@ -416,7 +418,7 @@
 
 ### Europe
 
-**Couverture jaune** — dans l'Angleterre victorienne, la couverture jaune était réservée aux livres à caractère érotique
+**Couverture jaune** — dans l'Angleterre victorienne, la couverture jaune signalait un contenu sulfureux ou érotique ; les éditeurs de Dracula (1897) imposèrent cette couleur à Stoker en raison des scènes entre Lucy et le vampire, et les sept premières éditions furent imprimées avec une couverture jaune
 
 **Touron** — variante espagnole du nougat
 
@@ -519,7 +521,7 @@
 
 ### Fiction
 
-**Robin des Bois** — 1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377) · « Robin des Bois » est une erreur de traduction (hood = capuche, confondu avec wood = bois) ; à l'origine un brigand violent, anobli à la fin du XVIe siècle
+**Robin des Bois** — v. 1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377) · « Robin des Bois » est une erreur de traduction (hood = capuche, confondu avec wood = bois) ; à l'origine un brigand violent, anobli à la fin du XVIe siècle
 
 **Syldavie** — pays imaginaire dans Tintin, inventé par Hergé
 

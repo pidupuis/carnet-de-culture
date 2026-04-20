@@ -235,6 +235,33 @@
     - epoque_contemporaine
     - europe
     - litterature
-  subject: Yves Blanc
+  subject: Jeanne Burgues-Brun
+  attribute: pseudonyme
+  value: Yves Blanc, puis Jeanne-Yves Blanc
+- type: personne
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Jeanne Burgues-Brun
+  attribute: dates
+  value: 1886-1970
+- type: personne
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Jeanne Burgues-Brun
   attribute: role
-  value: marraine de guerre d'Apollinaire
+  value: poétesse et romancière française, marraine de guerre de Guillaume Apollinaire
+- type: personne
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Jeanne Burgues-Brun
+  attribute: note
+  value: correspondance avec Apollinaire dès 1915, lui envoyant un quatrain qu'il appellera son « talisman » ; Apollinaire lui reprochant son pseudonyme masculin (lettre du 31 janvier 1918), elle adopte le pseudonyme Jeanne-Yves Blanc

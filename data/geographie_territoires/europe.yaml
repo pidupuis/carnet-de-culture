@@ -18,7 +18,7 @@
     - europe
   subject: Mont Gerlach
   attribute: altitude
-  value: 2 655 m
+  value: 2 654 m
 - type: lieu
   tags:
     - geographie_territoires
@@ -88,7 +88,7 @@
     - europe
   subject: Transylvanie
   attribute: etymologie
-  value: "\"au-delà des forêts\""
+  value: '"au-delà des forêts"'
 - type: lieu
   tags:
     - geographie_territoires

@@ -35,7 +35,7 @@
     ],
     "subject": "Épona",
     "attribute": "role",
-    "value": "déesse gallo-romaine des chevaux et des cavaliers",
+    "value": "déesse de la mythologie celtique gauloise, protectrice des chevaux, des cavaliers et des écuries",
     "theme": "histoire_societes"
   },
   {
@@ -295,7 +295,7 @@
     ],
     "subject": "Vlad III",
     "attribute": "surnom",
-    "value": "Dracul (« diable » ou « dragon » en valaque) et Tepes (« l'empaleur »)",
+    "value": "Drăculea (« fils du dragon » en valaque) et Tepes (« l'empaleur »)",
     "theme": "histoire_societes"
   },
   {
@@ -1053,9 +1053,48 @@
       "europe",
       "litterature"
     ],
-    "subject": "Yves Blanc",
+    "subject": "Jeanne Burgues-Brun",
+    "attribute": "pseudonyme",
+    "value": "Yves Blanc, puis Jeanne-Yves Blanc",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "litterature"
+    ],
+    "subject": "Jeanne Burgues-Brun",
+    "attribute": "dates",
+    "value": "1886-1970",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "litterature"
+    ],
+    "subject": "Jeanne Burgues-Brun",
     "attribute": "role",
-    "value": "marraine de guerre d'Apollinaire",
+    "value": "poétesse et romancière française, marraine de guerre de Guillaume Apollinaire",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "litterature"
+    ],
+    "subject": "Jeanne Burgues-Brun",
+    "attribute": "note",
+    "value": "correspondance avec Apollinaire dès 1915, lui envoyant un quatrain qu'il appellera son « talisman » ; Apollinaire lui reprochant son pseudonyme masculin (lettre du 31 janvier 1918), elle adopte le pseudonyme Jeanne-Yves Blanc",
     "theme": "histoire_societes"
   },
   {
@@ -1124,7 +1163,7 @@
     ],
     "subject": "Mont Gerlach",
     "attribute": "altitude",
-    "value": "2 655 m",
+    "value": "2 654 m",
     "theme": "geographie_territoires"
   },
   {
@@ -1691,7 +1730,7 @@
     ],
     "subject": "Lotophages",
     "attribute": "definition",
-    "value": "peuple « mangeurs de lotos » installé à Djerba ; quiconque goûte leur fruit oublie sa patrie",
+    "value": "peuple « mangeurs de lotos » traditionnellement identifié avec Djerba ; quiconque goûte leur fruit oublie sa patrie",
     "theme": "litterature"
   },
   {
@@ -2003,7 +2042,7 @@
     ],
     "subject": "Borée",
     "attribute": "definition",
-    "value": "dieu grec personnifiant le vent du nord, fils d'Éos et d'Astréos",
+    "value": "personnification grecque du vent du nord, fils d'Éos et d'Astréos",
     "theme": "litterature"
   },
   {
@@ -2027,7 +2066,7 @@
     ],
     "subject": "Vâtsyâyana",
     "attribute": "epoque",
-    "value": "entre IIe et IIIe siècle (fourchette large : Ier-VIe)",
+    "value": "autour du IVe siècle (fourchette large : Ier-VIe)",
     "theme": "litterature"
   },
   {
@@ -2467,7 +2506,7 @@
     ],
     "subject": "Carmilla",
     "attribute": "note",
-    "value": "roman vampirique précurseur de Dracula",
+    "value": "roman court vampirique, précurseur de Dracula",
     "theme": "litterature"
   },
   {
@@ -2502,7 +2541,7 @@
       "europe",
       "litterature"
     ],
-    "subject": "Le Château des Carpates",
+    "subject": "Le Château des Carpathes",
     "attribute": "auteur",
     "value": "Jules Verne",
     "theme": "litterature"
@@ -2515,7 +2554,7 @@
       "europe",
       "litterature"
     ],
-    "subject": "Le Château des Carpates",
+    "subject": "Le Château des Carpathes",
     "attribute": "date",
     "value": "1892",
     "theme": "litterature"
@@ -2580,6 +2619,19 @@
       "europe",
       "litterature"
     ],
+    "subject": "Prix Goncourt",
+    "attribute": "laureat_1904",
+    "value": "Léon Frapié, La Maternelle",
+    "theme": "litterature"
+  },
+  {
+    "type": "entite",
+    "tags": [
+      "litterature",
+      "epoque_contemporaine",
+      "europe",
+      "litterature"
+    ],
     "subject": "Prix Femina",
     "attribute": "creation",
     "value": "1904",
@@ -2608,7 +2660,7 @@
     ],
     "subject": "Prix Femina",
     "attribute": "note",
-    "value": "créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié",
+    "value": "créé en réaction au Goncourt 1904, jugé misogyne pour avoir écarté la favorite Myriam Harry au profit de Léon Frapié",
     "theme": "litterature"
   },
   {
@@ -2647,7 +2699,7 @@
     ],
     "subject": "Le Sergent dans la neige",
     "attribute": "note",
-    "value": "récit de la retraite de Russie des chasseurs alpins italiens, qualifié par Calvino de « petite anabase dialectale »",
+    "value": "récit de la retraite de Russie des chasseurs alpins italiens, qualifié par l'auteur de « petite anabase dialectale »",
     "theme": "litterature"
   },
   {
@@ -2669,7 +2721,7 @@
     ],
     "subject": "In-folio",
     "attribute": "definition",
-    "value": "gros bouquin, ou feuille pliée pour faire 4 pages",
+    "value": "format de livre dont la feuille est pliée en deux (4 pages) ; par métonymie, livre de ce format",
     "theme": "langues"
   },
   {
@@ -2681,7 +2733,7 @@
     ],
     "subject": "Kakémono",
     "attribute": "definition",
-    "value": "peinture sur soie ou sur papier japonaise, plus haute que large",
+    "value": "rouleau vertical japonais en papier ou tissu pour afficher peintures, estampes ou calligraphies",
     "theme": "langues"
   },
   {
@@ -2691,9 +2743,9 @@
       "francais",
       "asie"
     ],
-    "subject": "Makémono",
+    "subject": "Makimono",
     "attribute": "definition",
-    "value": "peinture sur soie ou sur papier japonaise, plus large que haute",
+    "value": "rouleau horizontal japonais (narration, calligraphie, peinture) ; aussi écrit makémono",
     "theme": "langues"
   },
   {
@@ -2716,7 +2768,7 @@
     ],
     "subject": "Païen",
     "attribute": "definition",
-    "value": "polythéiste ou sans religion",
+    "value": "adepte du polythéisme ou du paganisme ; par extension, impie, mécréant",
     "theme": "langues"
   },
   {
@@ -2870,7 +2922,7 @@
     ],
     "subject": "Phonème",
     "attribute": "definition",
-    "value": "plus petite unité sonore, combinés pour former morphèmes, mots, phrases",
+    "value": "plus petite unité distinctive de prononciation dans une langue",
     "theme": "langues"
   },
   {
@@ -2894,7 +2946,19 @@
     ],
     "subject": "Verbe défectif",
     "attribute": "definition",
-    "value": "conjugaison incomplète (comme pleuvoir, neiger)",
+    "value": "verbe à conjugaison incomplète (comme gésir, sourdre, clore, choir)",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais",
+      "langage"
+    ],
+    "subject": "Verbe impersonnel",
+    "attribute": "definition",
+    "value": "verbe qui ne se conjugue qu'à la troisième personne du singulier (comme pleuvoir, neiger, falloir) ; défectif par essence",
     "theme": "langues"
   },
   {
@@ -3492,7 +3556,7 @@
     ],
     "subject": "Couverture jaune",
     "attribute": "definition",
-    "value": "dans l'Angleterre victorienne, la couverture jaune était réservée aux livres à caractère érotique",
+    "value": "dans l'Angleterre victorienne, la couverture jaune signalait un contenu sulfureux ou érotique ; les éditeurs de Dracula (1897) imposèrent cette couleur à Stoker en raison des scènes entre Lucy et le vampire, et les sept premières éditions furent imprimées avec une couverture jaune",
     "theme": "usages_traditions"
   },
   {
@@ -4072,7 +4136,7 @@
     ],
     "subject": "Robin des Bois",
     "attribute": "premiere_mention",
-    "value": "1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377)",
+    "value": "v. 1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377)",
     "theme": "loisirs_fiction"
   },
   {
