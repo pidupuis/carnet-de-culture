@@ -1,0 +1,15 @@
+- type: periode
+  tags:
+    - histoire_societes
+    - temps_modernes
+  subject: Temps modernes
+  attribute: definition
+  value: période allant de la fin du XVe siècle (1453 ou 1492) à la Révolution française (1789)
+- type: periode
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - art
+  subject: Renaissance
+  attribute: definition
+  value: mouvement culturel et artistique né en Italie au XIVe siècle, diffusé en Europe jusqu'au XVIIe siècle

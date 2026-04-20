@@ -1,3 +1,21 @@
+- type: objet
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - ville
+  subject: Tour Eiffel
+  attribute: date
+  value: "1889"
+- type: objet
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - ville
+  subject: Tour Eiffel
+  attribute: hauteur
+  value: 330 m depuis ajout d'une antenne de 6 m en mars 2022
 - type: oeuvre
   tags:
     - arts_culture

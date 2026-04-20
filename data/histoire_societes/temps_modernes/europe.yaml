@@ -1,3 +1,19 @@
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+  subject: Découverte de l'Amérique
+  attribute: date
+  value: 12 octobre 1492
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+  subject: Découverte de l'Amérique
+  attribute: description
+  value: Christophe Colomb atteint les Bahamas pour le compte de la Castille
 - type: periode
   tags:
     - histoire_societes

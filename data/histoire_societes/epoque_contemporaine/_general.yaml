@@ -1,3 +1,10 @@
+- type: periode
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+  subject: Époque contemporaine
+  attribute: definition
+  value: période allant de la Révolution française (1789) à nos jours
 - type: evenement
   tags:
     - histoire_societes

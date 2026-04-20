@@ -66,6 +66,24 @@
     - histoire_societes
     - moyen_age
     - europe
+    - guerre
+  subject: Fin de la guerre de Cent Ans
+  attribute: date
+  value: "1453"
+- type: evenement
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - guerre
+  subject: Fin de la guerre de Cent Ans
+  attribute: description
+  value: victoire française à la bataille de Castillon, fin du conflit franco-anglais commencé en 1337
+- type: evenement
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
     - empire
   subject: Prise de Constantinople
   attribute: date

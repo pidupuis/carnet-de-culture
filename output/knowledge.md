@@ -1,5 +1,9 @@
 ## Histoire & Sociétés
 
+### Antiquité
+
+**Antiquité** — période historique débutant avec l'invention de l'écriture (v. 3300 av. J.-C.) et s'achevant avec la chute de l'Empire romain d'Occident (476)
+
 ### Antiquité · Europe
 
 **Cérès** — déesse romaine de l'agriculture, des moissons et de la fertilité
@@ -18,6 +22,10 @@
 
 **Bataille de Cunaxa** — 401 av. J.-C. · défaite de Cyrus le Jeune face à Artaxerxès II, malgré la victoire des mercenaires grecs · début de la retraite des Dix-Mille racontée par Xénophon
 
+### Moyen Âge
+
+**Moyen Âge** — période entre la chute de Rome (476) et la fin du XVe siècle (1453 ou 1492) · haut Moyen Âge (Ve–Xe s.), Moyen Âge central (XIe–XIIIe s.), bas Moyen Âge (XIVe–XVe s.)
+
 ### Moyen Âge · Europe
 
 **Hugues Capet** — roi de France · 987 · Capétiens
@@ -26,13 +34,23 @@
 
 **Vlad III** — Dracul (« diable » ou « dragon » en valaque) et Tepes (« l'empaleur ») · voïvode de Valachie au XVe siècle, a combattu les Ottomans · a inspiré le personnage du comte Dracula de Bram Stoker ; pratiquait le supplice du pal sur ses ennemis
 
+**Fin de la guerre de Cent Ans** — 1453 · victoire française à la bataille de Castillon, fin du conflit franco-anglais commencé en 1337
+
 **Prise de Constantinople** — 1453 · fin de l'Empire byzantin
 
 **Empire byzantin** — empire romain d'Orient remplacé par l'Empire ottoman en 1453
 
 **Voïvode** — commandant de région militaire, puis titre de noblesse dans les pays slaves et roumains
 
+### Temps modernes
+
+**Temps modernes** — période allant de la fin du XVe siècle (1453 ou 1492) à la Révolution française (1789)
+
+**Renaissance** — mouvement culturel et artistique né en Italie au XIVe siècle, diffusé en Europe jusqu'au XVIIe siècle
+
 ### Temps modernes · Europe
+
+**Découverte de l'Amérique** — 12 octobre 1492 · Christophe Colomb atteint les Bahamas pour le compte de la Castille
 
 **Quattrocento** — XVe siècle italien, Première Renaissance · 1400-1500
 
@@ -58,11 +76,15 @@
 
 ### Époque contemporaine
 
+**Époque contemporaine** — période allant de la Révolution française (1789) à nos jours
+
 **Abolition du sultanat ottoman** — 1922
 
 **Œcuménisme** — mouvement pour actions communes entre courants du christianisme
 
 ### Époque contemporaine · Europe
+
+**Prise de la Bastille** — 14 juillet 1789 · assaut de la forteresse parisienne, événement fondateur de la Révolution française
 
 **Naufrage du Titanic** — nuit du 14 au 15 avril 1912
 
@@ -351,10 +373,6 @@
 
 ## Arts & Culture
 
-### Antiquité · Europe
-
-**Tour Eiffel** — 330 m depuis ajout d'une antenne de 6 m en mars 2022
-
 ### Moyen Âge · Europe
 
 **Giotto** — Ambrogiotto di Bondone (prénom débattu, parfois Angiolotto) · 1266/67-1337 · artiste majeur du Trecento, florentin
@@ -374,6 +392,8 @@
 **Éléphant** — Rembrandt · 1637 · peau ridée via quelques coups de crayon
 
 ### Époque contemporaine · Europe
+
+**Tour Eiffel** — 1889 · 330 m depuis ajout d'une antenne de 6 m en mars 2022
 
 **Le joueur de fifre** — Édouard Manet · 1866
 

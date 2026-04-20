@@ -1,0 +1,14 @@
+- type: periode
+  tags:
+    - histoire_societes
+    - moyen_age
+  subject: Moyen Âge
+  attribute: definition
+  value: période entre la chute de Rome (476) et la fin du XVe siècle (1453 ou 1492)
+- type: periode
+  tags:
+    - histoire_societes
+    - moyen_age
+  subject: Moyen Âge
+  attribute: subdivisions
+  value: haut Moyen Âge (Ve–Xe s.), Moyen Âge central (XIe–XIIIe s.), bas Moyen Âge (XIVe–XVe s.)

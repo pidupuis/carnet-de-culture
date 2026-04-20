@@ -1,5 +1,16 @@
 [
   {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "antiquite"
+    ],
+    "subject": "Antiquité",
+    "attribute": "definition",
+    "value": "période historique débutant avec l'invention de l'écriture (v. 3300 av. J.-C.) et s'achevant avec la chute de l'Empire romain d'Occident (476)",
+    "theme": "histoire_societes"
+  },
+  {
     "type": "entite",
     "tags": [
       "histoire_societes",
@@ -201,6 +212,28 @@
     "theme": "histoire_societes"
   },
   {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "moyen_age"
+    ],
+    "subject": "Moyen Âge",
+    "attribute": "definition",
+    "value": "période entre la chute de Rome (476) et la fin du XVe siècle (1453 ou 1492)",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "moyen_age"
+    ],
+    "subject": "Moyen Âge",
+    "attribute": "subdivisions",
+    "value": "haut Moyen Âge (Ve–Xe s.), Moyen Âge central (XIe–XIIIe s.), bas Moyen Âge (XIVe–XVe s.)",
+    "theme": "histoire_societes"
+  },
+  {
     "type": "personne",
     "tags": [
       "histoire_societes",
@@ -297,6 +330,32 @@
       "histoire_societes",
       "moyen_age",
       "europe",
+      "guerre"
+    ],
+    "subject": "Fin de la guerre de Cent Ans",
+    "attribute": "date",
+    "value": "1453",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "moyen_age",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Fin de la guerre de Cent Ans",
+    "attribute": "description",
+    "value": "victoire française à la bataille de Castillon, fin du conflit franco-anglais commencé en 1337",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "moyen_age",
+      "europe",
       "empire"
     ],
     "subject": "Prise de Constantinople",
@@ -341,6 +400,53 @@
     "subject": "Voïvode",
     "attribute": "definition",
     "value": "commandant de région militaire, puis titre de noblesse dans les pays slaves et roumains",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "temps_modernes"
+    ],
+    "subject": "Temps modernes",
+    "attribute": "definition",
+    "value": "période allant de la fin du XVe siècle (1453 ou 1492) à la Révolution française (1789)",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "temps_modernes",
+      "art"
+    ],
+    "subject": "Renaissance",
+    "attribute": "definition",
+    "value": "mouvement culturel et artistique né en Italie au XIVe siècle, diffusé en Europe jusqu'au XVIIe siècle",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "temps_modernes",
+      "europe"
+    ],
+    "subject": "Découverte de l'Amérique",
+    "attribute": "date",
+    "value": "12 octobre 1492",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "temps_modernes",
+      "europe"
+    ],
+    "subject": "Découverte de l'Amérique",
+    "attribute": "description",
+    "value": "Christophe Colomb atteint les Bahamas pour le compte de la Castille",
     "theme": "histoire_societes"
   },
   {
@@ -570,6 +676,17 @@
     "theme": "histoire_societes"
   },
   {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine"
+    ],
+    "subject": "Époque contemporaine",
+    "attribute": "definition",
+    "value": "période allant de la Révolution française (1789) à nos jours",
+    "theme": "histoire_societes"
+  },
+  {
     "type": "evenement",
     "tags": [
       "histoire_societes",
@@ -591,6 +708,32 @@
     "subject": "Œcuménisme",
     "attribute": "definition",
     "value": "mouvement pour actions communes entre courants du christianisme",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "revolution"
+    ],
+    "subject": "Prise de la Bastille",
+    "attribute": "date",
+    "value": "14 juillet 1789",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "revolution"
+    ],
+    "subject": "Prise de la Bastille",
+    "attribute": "description",
+    "value": "assaut de la forteresse parisienne, événement fondateur de la Révolution française",
     "theme": "histoire_societes"
   },
   {
@@ -2968,19 +3111,6 @@
     "theme": "langues"
   },
   {
-    "type": "objet",
-    "tags": [
-      "arts_culture",
-      "antiquite",
-      "europe",
-      "ville"
-    ],
-    "subject": "Tour Eiffel",
-    "attribute": "hauteur",
-    "value": "330 m depuis ajout d'une antenne de 6 m en mars 2022",
-    "theme": "arts_culture"
-  },
-  {
     "type": "personne",
     "tags": [
       "arts_culture",
@@ -3161,6 +3291,32 @@
     "subject": "Éléphant",
     "attribute": "note",
     "value": "peau ridée via quelques coups de crayon",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "objet",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "ville"
+    ],
+    "subject": "Tour Eiffel",
+    "attribute": "date",
+    "value": "1889",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "objet",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "ville"
+    ],
+    "subject": "Tour Eiffel",
+    "attribute": "hauteur",
+    "value": "330 m depuis ajout d'une antenne de 6 m en mars 2022",
     "theme": "arts_culture"
   },
   {

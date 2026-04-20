@@ -3,6 +3,24 @@
     - histoire_societes
     - epoque_contemporaine
     - europe
+    - revolution
+  subject: Prise de la Bastille
+  attribute: date
+  value: 14 juillet 1789
+- type: evenement
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
+    - revolution
+  subject: Prise de la Bastille
+  attribute: description
+  value: assaut de la forteresse parisienne, événement fondateur de la Révolution française
+- type: evenement
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
   subject: Naufrage du Titanic
   attribute: date
   value: nuit du 14 au 15 avril 1912
