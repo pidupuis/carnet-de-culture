@@ -57,3 +57,19 @@
   subject: Bob l'éponge
   attribute: createur
   value: Stephen Hillenburg
+- theme: loisirs_fiction
+  type: fiction
+  tags:
+    - culture_pop
+    - moyen_age
+  subject: Robin des Bois
+  attribute: premiere_mention
+  value: "1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377)"
+- theme: loisirs_fiction
+  type: fiction
+  tags:
+    - culture_pop
+    - moyen_age
+  subject: Robin des Bois
+  attribute: note
+  value: "« Robin des Bois » est une erreur de traduction (hood = capuche, confondu avec wood = bois) ; à l'origine un brigand violent, anobli à la fin du XVIe siècle"

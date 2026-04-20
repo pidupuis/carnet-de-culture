@@ -129,6 +129,8 @@
 
 **Mer de Marmara** — mer intérieure de Turquie entre mer Égée et mer Noire (11 500 km²) · Propontide (gr. pro = avant, pontos = mer)
 
+**Ithaque** — île ionienne de Grèce
+
 
 ## Langue & Littérature
 
@@ -201,6 +203,66 @@
 **Prix Goncourt** — 1903 · John-Antoine Nau, Force ennemie
 
 **Prix Femina** — 1904 · Myriam Harry, La Conquête de Jérusalem · créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié
+
+**L'Odyssée** — Homère · retour d'Ulysse à Ithaque après la guerre de Troie, en 24 chants
+
+**Homère** — poète grec, auteur présumé de l'Iliade et l'Odyssée · VIIIe siècle av. J.-C.
+
+**Aède** — poète-chanteur de la Grèce antique qui composait et récitait des épopées
+
+**Rhapsode** — récitant itinérant qui déclamait des poèmes épiques (Iliade, Odyssée) · du grec rhapsōidós, « celui qui coud les chants »
+
+**Phémios** — aède d'Ithaque dans l'Odyssée, épargné par Ulysse lors du massacre des prétendants
+
+**Iliade** — Homère · colère d'Achille pendant la guerre de Troie
+
+**Télémaque** — fils d'Ulysse et Pénélope, héros de la Télémachie (chants I-IV de l'Odyssée)
+
+**Pénélope** — épouse d'Ulysse, symbole de fidélité conjugale · tissa et défit sa toile pendant trois ans pour repousser les prétendants
+
+**Ménélas** — roi de Sparte, époux d'Hélène, frère d'Agamemnon
+
+**Hélène** — reine de Sparte, enlevée par Pâris, cause de la guerre de Troie
+
+**Protée** — dieu marin capable de changer de forme, consulté par Ménélas dans l'Odyssée
+
+**Tirésias** — devin aveugle de Thèbes, consulté par Ulysse aux Enfers (Odyssée, chant XI)
+
+**Nestor** — roi de Pylos, doyen des chefs grecs, réputé pour sa sagesse
+
+**Circé** — magicienne qui transforma les compagnons d'Ulysse en pourceaux sur l'île d'Ééa
+
+**Eumée** — porcher fidèle d'Ulysse, l'accueille déguisé en mendiant à son retour à Ithaque
+
+**Antinoüs** — chef des prétendants de Pénélope, premier tué par Ulysse
+
+**Polyphème** — cyclope fils de Poséidon, aveuglé par Ulysse qui se fit appeler « Personne »
+
+**Argos** — chien d'Ulysse, le reconnut après vingt ans d'absence · mourut aussitôt après l'avoir revu (Odyssée, chant XVII)
+
+**Télémachie** — nom donné aux quatre premiers chants de l'Odyssée, consacrés au voyage de Télémaque
+
+**Pérégrination** — voyage lointain, souvent long et aventureux
+
+**Personne** — ruse d'Ulysse : en se nommant « Personne » (Outis), il empêcha le Cyclope d'appeler à l'aide
+
+**Nostoi** — les « Retours », poème épique perdu du cycle troyen sur le retour des héros grecs après Troie
+
+**Guerrin Meschino** — Andrea da Barberino (XVe siècle)
+
+**Fruit du lotus** — fruit au goût de miel qui provoque l'oubli ; identifié avec la baie du jujubier sauvage
+
+**Phéaciens** — peuple de marins mythiques qui accueillent Ulysse et le ramènent à Ithaque
+
+**Atrides** — descendants d'Atrée ; désigne Agamemnon et Ménélas
+
+**Lotophages** — peuple « mangeurs de lotos » installé à Djerba ; quiconque goûte leur fruit oublie sa patrie
+
+**Sirènes** — filles du dieu fleuve Achéloos ; dans l'Antiquité grecque, des femmes-oiseaux, non des femmes-poissons · la forme femme-poisson vient du folklore nordique médiéval ; chez Homère, leur apparence n'est pas décrite
+
+**Achéens** — nom donné aux Grecs dans les poèmes homériques (aussi Argiens, Danaens)
+
+**Hadès** — royaume souterrain des morts dans la mythologie grecque
 
 
 ## Arts & Culture
@@ -322,6 +384,8 @@
 **Syldavie** — pays imaginaire dans Tintin, inventé par Hergé
 
 **Bob l'éponge** — 1999 · Nickelodeon · Stephen Hillenburg
+
+**Robin des Bois** — 1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377) · « Robin des Bois » est une erreur de traduction (hood = capuche, confondu avec wood = bois) ; à l'origine un brigand violent, anobli à la fin du XVIe siècle
 
 
 ## Mandarin

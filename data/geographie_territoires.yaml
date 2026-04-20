@@ -231,3 +231,10 @@
   subject: Mer de Marmara
   attribute: autre_nom
   value: Propontide (gr. pro = avant, pontos = mer)
+- theme: geographie_territoires
+  type: lieu
+  tags:
+    - europe
+  subject: Ithaque
+  attribute: localisation
+  value: île ionienne de Grèce
