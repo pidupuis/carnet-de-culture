@@ -8,6 +8,16 @@
 
 **Jason** — héros de la toison d'or, à la tête des Argonautes · fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé
 
+**Chirisophe** — général spartiate, commandant en chef des Dix-Mille après l'assassinat de Cléarque · v. 435 – v. 400 av. J.-C.
+
+### Antiquité · Asie
+
+**Cyrus le Jeune** — prince perse, se soulève contre son frère Artaxerxès II · 424 – 401 av. J.-C. · tué à la bataille de Cunaxa ; son armée comprenait les Dix-Mille
+
+**Artaxerxès II** — roi perse achéménide, surnommé Mnémon · règne de 404 à 358 av. J.-C. · son règne marque le lent déclin de l'Empire achéménide
+
+**Bataille de Cunaxa** — 401 av. J.-C. · défaite de Cyrus le Jeune face à Artaxerxès II, malgré la victoire des mercenaires grecs · début de la retraite des Dix-Mille racontée par Xénophon
+
 ### Moyen Âge · Europe
 
 **Hugues Capet** — roi de France · 987 · Capétiens
@@ -214,6 +224,12 @@
 
 **Tirésias** — devin aveugle de Thèbes, consulté par Ulysse aux Enfers (Odyssée, chant XI)
 
+**Xénophon** — historien, philosophe et chef militaire athénien, disciple de Socrate · v. 430 – v. 355 av. J.-C. · Anabase, Cyropédie, Mémorables
+
+**Anabase** — Xénophon · v. 365 av. J.-C. · récit de l'expédition des Dix-Mille et de leur retraite à travers l'Empire perse
+
+**Borée** — dieu grec personnifiant le vent du nord, fils d'Éos et d'Astréos
+
 ### Antiquité · Asie
 
 **Vâtsyâyana** — auteur indien à qui on attribue le Kamasutra · entre IIe et IIIe siècle (fourchette large : Ier-VIe)
@@ -260,6 +276,8 @@
 
 **Prix Femina** — 1904 · Myriam Harry, La Conquête de Jérusalem · créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié
 
+**Le Sergent dans la neige** — Mario Rigoni Stern · 1953 · récit de la retraite de Russie des chasseurs alpins italiens, qualifié par Calvino de « petite anabase dialectale »
+
 
 ## Langues
 
@@ -298,6 +316,14 @@
 **Syntagme** — groupe de mots formant une unité syntaxique — ex : 'le petit chat' (syntagme nominal)
 
 **Verbe défectif** — conjugaison incomplète (comme pleuvoir, neiger)
+
+**Maestria** — maîtrise dans un domaine artistique ou technique
+
+**Pathos** — emphase affectée et excessive dans un discours ou une œuvre
+
+**Picaresque** — genre littéraire dont le héros est un aventurier marginal et malhonnête
+
+**Truculent** — pittoresque et haut en couleur ; à l'origine, violent ou excessif
 
 ### Mandarin
 

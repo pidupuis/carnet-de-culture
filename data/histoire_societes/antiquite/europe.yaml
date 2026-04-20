@@ -34,3 +34,21 @@
   subject: Jason
   attribute: parents
   value: "fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé"
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+    - guerre
+  subject: Chirisophe
+  attribute: role
+  value: général spartiate, commandant en chef des Dix-Mille après l'assassinat de Cléarque
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+    - guerre
+  subject: Chirisophe
+  attribute: dates
+  value: v. 435 – v. 400 av. J.-C.

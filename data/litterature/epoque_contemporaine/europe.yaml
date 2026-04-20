@@ -382,3 +382,30 @@
   subject: Prix Femina
   attribute: note
   value: créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - guerre
+  subject: Le Sergent dans la neige
+  attribute: auteur
+  value: Mario Rigoni Stern
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - guerre
+  subject: Le Sergent dans la neige
+  attribute: date
+  value: "1953"
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - guerre
+  subject: Le Sergent dans la neige
+  attribute: note
+  value: récit de la retraite de Russie des chasseurs alpins italiens, qualifié par Calvino de « petite anabase dialectale »

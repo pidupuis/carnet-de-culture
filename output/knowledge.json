@@ -55,6 +55,155 @@
     "type": "personne",
     "tags": [
       "histoire_societes",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Chirisophe",
+    "attribute": "role",
+    "value": "général spartiate, commandant en chef des Dix-Mille après l'assassinat de Cléarque",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Chirisophe",
+    "attribute": "dates",
+    "value": "v. 435 – v. 400 av. J.-C.",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "guerre",
+      "pouvoir"
+    ],
+    "subject": "Cyrus le Jeune",
+    "attribute": "role",
+    "value": "prince perse, se soulève contre son frère Artaxerxès II",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "guerre",
+      "pouvoir"
+    ],
+    "subject": "Cyrus le Jeune",
+    "attribute": "dates",
+    "value": "424 – 401 av. J.-C.",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "guerre",
+      "pouvoir"
+    ],
+    "subject": "Cyrus le Jeune",
+    "attribute": "note",
+    "value": "tué à la bataille de Cunaxa ; son armée comprenait les Dix-Mille",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "pouvoir",
+      "empire"
+    ],
+    "subject": "Artaxerxès II",
+    "attribute": "role",
+    "value": "roi perse achéménide, surnommé Mnémon",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "pouvoir",
+      "empire"
+    ],
+    "subject": "Artaxerxès II",
+    "attribute": "dates",
+    "value": "règne de 404 à 358 av. J.-C.",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "pouvoir",
+      "empire"
+    ],
+    "subject": "Artaxerxès II",
+    "attribute": "note",
+    "value": "son règne marque le lent déclin de l'Empire achéménide",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "guerre"
+    ],
+    "subject": "Bataille de Cunaxa",
+    "attribute": "date",
+    "value": "401 av. J.-C.",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "guerre"
+    ],
+    "subject": "Bataille de Cunaxa",
+    "attribute": "description",
+    "value": "défaite de Cyrus le Jeune face à Artaxerxès II, malgré la victoire des mercenaires grecs",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "asie",
+      "guerre"
+    ],
+    "subject": "Bataille de Cunaxa",
+    "attribute": "consequence",
+    "value": "début de la retraite des Dix-Mille racontée par Xénophon",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
       "moyen_age",
       "europe",
       "pouvoir"
@@ -1628,6 +1777,97 @@
     "tags": [
       "litterature",
       "antiquite",
+      "europe",
+      "philosophie"
+    ],
+    "subject": "Xénophon",
+    "attribute": "role",
+    "value": "historien, philosophe et chef militaire athénien, disciple de Socrate",
+    "theme": "litterature"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe",
+      "philosophie"
+    ],
+    "subject": "Xénophon",
+    "attribute": "dates",
+    "value": "v. 430 – v. 355 av. J.-C.",
+    "theme": "litterature"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe",
+      "philosophie"
+    ],
+    "subject": "Xénophon",
+    "attribute": "oeuvre_notable",
+    "value": "Anabase, Cyropédie, Mémorables",
+    "theme": "litterature"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Anabase",
+    "attribute": "auteur",
+    "value": "Xénophon",
+    "theme": "litterature"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Anabase",
+    "attribute": "date",
+    "value": "v. 365 av. J.-C.",
+    "theme": "litterature"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Anabase",
+    "attribute": "note",
+    "value": "récit de l'expédition des Dix-Mille et de leur retraite à travers l'Empire perse",
+    "theme": "litterature"
+  },
+  {
+    "type": "fiction",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe",
+      "religion"
+    ],
+    "subject": "Borée",
+    "attribute": "definition",
+    "value": "dieu grec personnifiant le vent du nord, fils d'Éos et d'Astréos",
+    "theme": "litterature"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "antiquite",
       "asie"
     ],
     "subject": "Vâtsyâyana",
@@ -2229,6 +2469,45 @@
     "theme": "litterature"
   },
   {
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "epoque_contemporaine",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Le Sergent dans la neige",
+    "attribute": "auteur",
+    "value": "Mario Rigoni Stern",
+    "theme": "litterature"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "epoque_contemporaine",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Le Sergent dans la neige",
+    "attribute": "date",
+    "value": "1953",
+    "theme": "litterature"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "litterature",
+      "epoque_contemporaine",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Le Sergent dans la neige",
+    "attribute": "note",
+    "value": "récit de la retraite de Russie des chasseurs alpins italiens, qualifié par Calvino de « petite anabase dialectale »",
+    "theme": "litterature"
+  },
+  {
     "type": "concept",
     "tags": [
       "langues",
@@ -2473,6 +2752,51 @@
     "subject": "Verbe défectif",
     "attribute": "definition",
     "value": "conjugaison incomplète (comme pleuvoir, neiger)",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais"
+    ],
+    "subject": "Maestria",
+    "attribute": "definition",
+    "value": "maîtrise dans un domaine artistique ou technique",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais"
+    ],
+    "subject": "Pathos",
+    "attribute": "definition",
+    "value": "emphase affectée et excessive dans un discours ou une œuvre",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais",
+      "litterature"
+    ],
+    "subject": "Picaresque",
+    "attribute": "definition",
+    "value": "genre littéraire dont le héros est un aventurier marginal et malhonnête",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais"
+    ],
+    "subject": "Truculent",
+    "attribute": "definition",
+    "value": "pittoresque et haut en couleur ; à l'origine, violent ou excessif",
     "theme": "langues"
   },
   {

@@ -1,0 +1,87 @@
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - guerre
+    - pouvoir
+  subject: Cyrus le Jeune
+  attribute: role
+  value: prince perse, se soulève contre son frère Artaxerxès II
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - guerre
+    - pouvoir
+  subject: Cyrus le Jeune
+  attribute: dates
+  value: 424 – 401 av. J.-C.
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - guerre
+    - pouvoir
+  subject: Cyrus le Jeune
+  attribute: note
+  value: tué à la bataille de Cunaxa ; son armée comprenait les Dix-Mille
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - pouvoir
+    - empire
+  subject: Artaxerxès II
+  attribute: role
+  value: roi perse achéménide, surnommé Mnémon
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - pouvoir
+    - empire
+  subject: Artaxerxès II
+  attribute: dates
+  value: règne de 404 à 358 av. J.-C.
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - pouvoir
+    - empire
+  subject: Artaxerxès II
+  attribute: note
+  value: son règne marque le lent déclin de l'Empire achéménide
+- type: evenement
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - guerre
+  subject: Bataille de Cunaxa
+  attribute: date
+  value: "401 av. J.-C."
+- type: evenement
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - guerre
+  subject: Bataille de Cunaxa
+  attribute: description
+  value: défaite de Cyrus le Jeune face à Artaxerxès II, malgré la victoire des mercenaires grecs
+- type: evenement
+  tags:
+    - histoire_societes
+    - antiquite
+    - asie
+    - guerre
+  subject: Bataille de Cunaxa
+  attribute: consequence
+  value: début de la retraite des Dix-Mille racontée par Xénophon

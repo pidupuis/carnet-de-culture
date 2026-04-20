@@ -313,3 +313,66 @@
   subject: Tirésias
   attribute: role
   value: devin aveugle de Thèbes, consulté par Ulysse aux Enfers (Odyssée, chant XI)
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - philosophie
+  subject: Xénophon
+  attribute: role
+  value: historien, philosophe et chef militaire athénien, disciple de Socrate
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - philosophie
+  subject: Xénophon
+  attribute: dates
+  value: v. 430 – v. 355 av. J.-C.
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - philosophie
+  subject: Xénophon
+  attribute: oeuvre_notable
+  value: Anabase, Cyropédie, Mémorables
+- type: oeuvre
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - guerre
+  subject: Anabase
+  attribute: auteur
+  value: Xénophon
+- type: oeuvre
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - guerre
+  subject: Anabase
+  attribute: date
+  value: v. 365 av. J.-C.
+- type: oeuvre
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - guerre
+  subject: Anabase
+  attribute: note
+  value: récit de l'expédition des Dix-Mille et de leur retraite à travers l'Empire perse
+- type: fiction
+  tags:
+    - litterature
+    - antiquite
+    - europe
+    - religion
+  subject: Borée
+  attribute: definition
+  value: dieu grec personnifiant le vent du nord, fils d'Éos et d'Astréos
