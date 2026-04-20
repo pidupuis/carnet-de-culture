@@ -27,3 +27,17 @@
   subject: Lac Tana
   attribute: particularite
   value: source du Nil Bleu
+- type: lieu
+  tags:
+    - geographie_territoires
+    - afrique
+  subject: Burkina Faso
+  attribute: definition
+  value: "pays d'Afrique de l'Ouest, enclavé. Ancien nom : Haute-Volta, renommé en 1984 par Thomas Sankara."
+- type: lieu
+  tags:
+    - geographie_territoires
+    - afrique
+  subject: Burkina Faso
+  attribute: etymologie
+  value: '"pays des hommes intègres" (mooré burkina = intègre, dioula faso = patrie)'

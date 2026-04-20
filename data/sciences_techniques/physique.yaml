@@ -1,0 +1,37 @@
+- type: personne
+  tags:
+    - sciences_techniques
+    - physique
+    - science
+  subject: Mileva Marić
+  attribute: definition
+  value: physicienne serbe, première femme d'Albert Einstein (mariage 1903-1919)
+- type: personne
+  tags:
+    - sciences_techniques
+    - physique
+    - science
+  subject: Mileva Marić
+  attribute: anecdote
+  value: l'une des premières femmes à étudier la physique à l'École polytechnique de Zurich ; son rôle dans les travaux d'Einstein de 1905 est débattu par les historiens
+- type: concept
+  tags:
+    - sciences_techniques
+    - physique
+  subject: Vitesse du son
+  attribute: definition
+  value: environ 343 m/s dans l'air à 20 °C (soit ~1 235 km/h)
+- type: concept
+  tags:
+    - sciences_techniques
+    - physique
+  subject: Vitesse de la lumière
+  attribute: definition
+  value: 299 792 458 m/s dans le vide (soit ~300 000 km/s), notée c
+- type: concept
+  tags:
+    - sciences_techniques
+    - physique
+  subject: Vitesse de la lumière
+  attribute: anecdote
+  value: constante fondamentale de la physique ; rien ne peut la dépasser selon la relativité restreinte d'Einstein (1905)

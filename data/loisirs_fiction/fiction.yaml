@@ -24,3 +24,19 @@
   subject: Syldavie
   attribute: definition
   value: pays imaginaire dans Tintin, inventé par Hergé
+- type: fiction
+  tags:
+    - loisirs_fiction
+    - fiction
+    - culture_pop
+  subject: Bécassine
+  attribute: definition
+  value: personnage de BD créé par Jacqueline Rivière (scénario) et Joseph Pinchon (dessin), paru le 2 février 1905 dans La Semaine de Suzette
+- type: fiction
+  tags:
+    - loisirs_fiction
+    - fiction
+    - culture_pop
+  subject: Bécassine
+  attribute: anecdote
+  value: considérée comme la première héroïne de bande dessinée française ; entrée dans le domaine public le 1er janvier 2024

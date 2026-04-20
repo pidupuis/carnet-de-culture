@@ -1124,6 +1124,32 @@
     "theme": "histoire_societes"
   },
   {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "politique"
+    ],
+    "subject": "Troisième République",
+    "attribute": "definition",
+    "value": "régime républicain français de 1870 à 1940, le plus long de l'histoire de France",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "periode",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "europe",
+      "politique"
+    ],
+    "subject": "Troisième République",
+    "attribute": "anecdote",
+    "value": "instaurée après la défaite de Sedan face à la Prusse ; a survécu à l'affaire Dreyfus, la Commune et la Première Guerre mondiale",
+    "theme": "histoire_societes"
+  },
+  {
     "type": "personne",
     "tags": [
       "histoire_societes",
@@ -1147,6 +1173,33 @@
     "subject": "Premier vol maîtrisé 1903",
     "attribute": "description",
     "value": "frères Wright avec le Wright Flyer",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "amerique",
+      "politique",
+      "identite"
+    ],
+    "subject": "Harvey Milk",
+    "attribute": "definition",
+    "value": "premier élu ouvertement homosexuel de Californie, conseiller municipal de San Francisco (1977)",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "epoque_contemporaine",
+      "amerique",
+      "politique"
+    ],
+    "subject": "Harvey Milk",
+    "attribute": "anecdote",
+    "value": "assassiné le 27 novembre 1978 par Dan White, ancien collègue au conseil municipal",
     "theme": "histoire_societes"
   },
   {
@@ -1339,6 +1392,30 @@
     "type": "lieu",
     "tags": [
       "geographie_territoires",
+      "europe",
+      "ville"
+    ],
+    "subject": "Avignon",
+    "attribute": "definition",
+    "value": "ville du Vaucluse (84), surnommée « cité des papes » car siège de la papauté de 1309 à 1377",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
+      "europe",
+      "ville"
+    ],
+    "subject": "Avignon",
+    "attribute": "anecdote",
+    "value": "le palais des Papes est le plus grand palais gothique du monde ; le pont Saint-Bénézet (« pont d'Avignon ») date du XIIe siècle",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
       "asie"
     ],
     "subject": "Mer de Marmara",
@@ -1416,6 +1493,30 @@
     "type": "lieu",
     "tags": [
       "geographie_territoires",
+      "asie",
+      "ville"
+    ],
+    "subject": "Jaipur",
+    "attribute": "definition",
+    "value": "capitale du Rajasthan (Inde), surnommée « la ville rose » pour la couleur de ses bâtiments du vieux centre",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
+      "asie",
+      "ville"
+    ],
+    "subject": "Muscat",
+    "attribute": "definition",
+    "value": "capitale du sultanat d'Oman, port sur le golfe d'Oman",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
       "afrique"
     ],
     "subject": "Eswatini",
@@ -1455,6 +1556,28 @@
     "subject": "Lac Tana",
     "attribute": "particularite",
     "value": "source du Nil Bleu",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
+      "afrique"
+    ],
+    "subject": "Burkina Faso",
+    "attribute": "definition",
+    "value": "pays d'Afrique de l'Ouest, enclavé. Ancien nom : Haute-Volta, renommé en 1984 par Thomas Sankara.",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
+      "afrique"
+    ],
+    "subject": "Burkina Faso",
+    "attribute": "etymologie",
+    "value": "\"pays des hommes intègres\" (mooré burkina = intègre, dioula faso = patrie)",
     "theme": "geographie_territoires"
   },
   {
@@ -1512,6 +1635,18 @@
     "subject": "Plymouth (Montserrat)",
     "attribute": "particularite",
     "value": "ville rasée par éruptions volcaniques dans les années 90",
+    "theme": "geographie_territoires"
+  },
+  {
+    "type": "lieu",
+    "tags": [
+      "geographie_territoires",
+      "amerique",
+      "territoire"
+    ],
+    "subject": "Guyane",
+    "attribute": "definition",
+    "value": "département et région d'outre-mer français (973) situé en Amérique du Sud, sur la côte nord-est, bordé par le Brésil et le Suriname. Chef-lieu : Cayenne.",
     "theme": "geographie_territoires"
   },
   {
@@ -1588,6 +1723,30 @@
     "subject": "Antinoüs",
     "attribute": "role",
     "value": "chef des prétendants de Pénélope, premier tué par Ulysse",
+    "theme": "litterature"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe"
+    ],
+    "subject": "Ésope",
+    "attribute": "definition",
+    "value": "fabuliste grec du VIe siècle av. J.-C., considéré comme le père de la fable",
+    "theme": "litterature"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "litterature",
+      "antiquite",
+      "europe"
+    ],
+    "subject": "Ésope",
+    "attribute": "anecdote",
+    "value": "probablement esclave affranchi ; ses fables ont inspiré Jean de La Fontaine au XVIIe siècle",
     "theme": "litterature"
   },
   {
@@ -3632,6 +3791,175 @@
     "tags": [
       "arts_culture",
       "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "La Grande Vadrouille (1966)",
+    "attribute": "definition",
+    "value": "comédie de Gérard Oury avec Bourvil et Louis de Funès. 17 267 607 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Les Visiteurs (1993)",
+    "attribute": "definition",
+    "value": "comédie de Jean-Marie Poiré avec Christian Clavier et Jean Reno. 13 782 991 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Le Dîner de cons (1998)",
+    "attribute": "definition",
+    "value": "comédie de Francis Veber avec Jacques Villeret et Thierry Lhermitte. 9 247 001 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Le Fabuleux Destin d'Amélie Poulain (2001)",
+    "attribute": "definition",
+    "value": "comédie romantique de Jean-Pierre Jeunet avec Audrey Tautou. 8 636 041 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Astérix et Obélix Mission Cléopâtre (2002)",
+    "attribute": "definition",
+    "value": "comédie d'Alain Chabat avec Jamel Debbouze et Gérard Depardieu. 14 559 509 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Bienvenue chez les Ch'tis (2008)",
+    "attribute": "definition",
+    "value": "comédie de et avec Dany Boon, plus gros succès français au box-office. 20 489 303 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Bienvenue chez les Ch'tis (2008)",
+    "attribute": "anecdote",
+    "value": "a détrôné La Grande Vadrouille en seulement 6 semaines ; record de 4 458 837 entrées en première semaine",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Intouchables (2011)",
+    "attribute": "definition",
+    "value": "comédie dramatique d'Olivier Nakache et Éric Toledano avec François Cluzet et Omar Sy. 19 490 688 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Intouchables (2011)",
+    "attribute": "anecdote",
+    "value": "film non-anglophone le plus rémunérateur au monde à sa sortie (445 M$ de recettes) ; César du meilleur acteur pour Omar Sy",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Un p'tit truc en plus (2024)",
+    "attribute": "definition",
+    "value": "comédie d'Artus avec Artus et Clovis Cornillac. 10 830 209 entrées en France.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Le Comte de Monte-Cristo (film, 2024)",
+    "attribute": "definition",
+    "value": "Adaptation du roman d'Alexandre Dumas par Alexandre de La Patellière et Matthieu Delaporte, avec Pierre Niney. Sorti le 28 juin 2024.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Le Comte de Monte-Cristo (film, 2024)",
+    "attribute": "entrees_france",
+    "value": "9 429 939",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
+      "europe",
+      "cinema"
+    ],
+    "subject": "Le Comte de Monte-Cristo (film, 2024)",
+    "attribute": "anecdote",
+    "value": "Film français le plus cher de 2024 (42,9 M€). Hors compétition à Cannes 2024. 3 Césars en 2025 (décors, costumes, César des lycéens). 96 % sur Rotten Tomatoes.",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "epoque_contemporaine",
       "amerique"
     ],
     "subject": "Monsieur Verdoux",
@@ -3694,6 +4022,29 @@
     "subject": "Touron",
     "attribute": "definition",
     "value": "variante espagnole du nougat",
+    "theme": "usages_traditions"
+  },
+  {
+    "type": "substance",
+    "tags": [
+      "usages_traditions",
+      "europe"
+    ],
+    "subject": "Maroilles",
+    "attribute": "definition",
+    "value": "fromage à pâte molle et croûte lavée, originaire de l'Avesnois (Nord). Créé par des moines au VIIe siècle.",
+    "theme": "usages_traditions"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "usages_traditions",
+      "europe",
+      "symbole"
+    ],
+    "subject": "Violette",
+    "attribute": "definition",
+    "value": "fleur emblématique de Toulouse, utilisée en confiserie, parfumerie et liqueur",
     "theme": "usages_traditions"
   },
   {
@@ -4159,6 +4510,63 @@
     "theme": "sciences_techniques"
   },
   {
+    "type": "personne",
+    "tags": [
+      "sciences_techniques",
+      "physique",
+      "science"
+    ],
+    "subject": "Mileva Marić",
+    "attribute": "definition",
+    "value": "physicienne serbe, première femme d'Albert Einstein (mariage 1903-1919)",
+    "theme": "sciences_techniques"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "sciences_techniques",
+      "physique",
+      "science"
+    ],
+    "subject": "Mileva Marić",
+    "attribute": "anecdote",
+    "value": "l'une des premières femmes à étudier la physique à l'École polytechnique de Zurich ; son rôle dans les travaux d'Einstein de 1905 est débattu par les historiens",
+    "theme": "sciences_techniques"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "sciences_techniques",
+      "physique"
+    ],
+    "subject": "Vitesse du son",
+    "attribute": "definition",
+    "value": "environ 343 m/s dans l'air à 20 °C (soit ~1 235 km/h)",
+    "theme": "sciences_techniques"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "sciences_techniques",
+      "physique"
+    ],
+    "subject": "Vitesse de la lumière",
+    "attribute": "definition",
+    "value": "299 792 458 m/s dans le vide (soit ~300 000 km/s), notée c",
+    "theme": "sciences_techniques"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "sciences_techniques",
+      "physique"
+    ],
+    "subject": "Vitesse de la lumière",
+    "attribute": "anecdote",
+    "value": "constante fondamentale de la physique ; rien ne peut la dépasser selon la relativité restreinte d'Einstein (1905)",
+    "theme": "sciences_techniques"
+  },
+  {
     "type": "concept",
     "tags": [
       "sciences_techniques",
@@ -4261,6 +4669,28 @@
     "theme": "loisirs_fiction"
   },
   {
+    "type": "personne",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "Karsten Warholm",
+    "attribute": "definition",
+    "value": "athlète norvégien, spécialiste du 400 m haies",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "Karsten Warholm",
+    "attribute": "record_monde",
+    "value": "45 s 94 (Tokyo 2021), champion olympique 2020",
+    "theme": "loisirs_fiction"
+  },
+  {
     "type": "oeuvre",
     "tags": [
       "loisirs_fiction",
@@ -4343,6 +4773,30 @@
     "subject": "Syldavie",
     "attribute": "definition",
     "value": "pays imaginaire dans Tintin, inventé par Hergé",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "fiction",
+    "tags": [
+      "loisirs_fiction",
+      "fiction",
+      "culture_pop"
+    ],
+    "subject": "Bécassine",
+    "attribute": "definition",
+    "value": "personnage de BD créé par Jacqueline Rivière (scénario) et Joseph Pinchon (dessin), paru le 2 février 1905 dans La Semaine de Suzette",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "fiction",
+    "tags": [
+      "loisirs_fiction",
+      "fiction",
+      "culture_pop"
+    ],
+    "subject": "Bécassine",
+    "attribute": "anecdote",
+    "value": "considérée comme la première héroïne de bande dessinée française ; entrée dans le domaine public le 1er janvier 2024",
     "theme": "loisirs_fiction"
   }
 ]

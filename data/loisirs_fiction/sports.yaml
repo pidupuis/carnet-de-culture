@@ -57,3 +57,17 @@
   subject: marathon
   attribute: note_sub2h
   value: Eliud Kipchoge, premier homme sous les 2 h (1 h 59 min 40 s, Vienne, 2019), non homologué
+- type: personne
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: Karsten Warholm
+  attribute: definition
+  value: athlète norvégien, spécialiste du 400 m haies
+- type: personne
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: Karsten Warholm
+  attribute: record_monde
+  value: 45 s 94 (Tokyo 2021), champion olympique 2020

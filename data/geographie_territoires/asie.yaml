@@ -47,3 +47,19 @@
   subject: Sri Lanka
   attribute: langues_officielles
   value: tamoul et singhalais
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+    - ville
+  subject: Jaipur
+  attribute: definition
+  value: capitale du Rajasthan (Inde), surnommée « la ville rose » pour la couleur de ses bâtiments du vieux centre
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+    - ville
+  subject: Muscat
+  attribute: definition
+  value: capitale du sultanat d'Oman, port sur le golfe d'Oman

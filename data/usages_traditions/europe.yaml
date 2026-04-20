@@ -13,3 +13,18 @@
   subject: Touron
   attribute: definition
   value: variante espagnole du nougat
+- type: substance
+  tags:
+    - usages_traditions
+    - europe
+  subject: Maroilles
+  attribute: definition
+  value: fromage à pâte molle et croûte lavée, originaire de l'Avesnois (Nord). Créé par des moines au VIIe siècle.
+- type: concept
+  tags:
+    - usages_traditions
+    - europe
+    - symbole
+  subject: Violette
+  attribute: definition
+  value: fleur emblématique de Toulouse, utilisée en confiserie, parfumerie et liqueur

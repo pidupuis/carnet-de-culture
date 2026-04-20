@@ -48,6 +48,22 @@
     - litterature
     - antiquite
     - europe
+  subject: Ésope
+  attribute: definition
+  value: fabuliste grec du VIe siècle av. J.-C., considéré comme le père de la fable
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - europe
+  subject: Ésope
+  attribute: anecdote
+  value: probablement esclave affranchi ; ses fables ont inspiré Jean de La Fontaine au XVIIe siècle
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - europe
     - litterature
   subject: Argos
   attribute: role

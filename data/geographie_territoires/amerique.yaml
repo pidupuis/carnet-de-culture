@@ -35,3 +35,11 @@
   subject: Plymouth (Montserrat)
   attribute: particularite
   value: ville rasée par éruptions volcaniques dans les années 90
+- type: lieu
+  tags:
+    - geographie_territoires
+    - amerique
+    - territoire
+  subject: Guyane
+  attribute: definition
+  value: "département et région d'outre-mer français (973) situé en Amérique du Sud, sur la côte nord-est, bordé par le Brésil et le Suriname. Chef-lieu : Cayenne."

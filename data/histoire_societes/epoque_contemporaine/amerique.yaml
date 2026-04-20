@@ -16,3 +16,22 @@
   subject: Premier vol maîtrisé 1903
   attribute: description
   value: frères Wright avec le Wright Flyer
+- type: personne
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - amerique
+    - politique
+    - identite
+  subject: Harvey Milk
+  attribute: definition
+  value: premier élu ouvertement homosexuel de Californie, conseiller municipal de San Francisco (1977)
+- type: personne
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - amerique
+    - politique
+  subject: Harvey Milk
+  attribute: anecdote
+  value: assassiné le 27 novembre 1978 par Dan White, ancien collègue au conseil municipal

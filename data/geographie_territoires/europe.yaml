@@ -110,3 +110,19 @@
   subject: Valachie
   attribute: definition
   value: principauté historique du sud de la Roumanie, au nord du Danube
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+    - ville
+  subject: Avignon
+  attribute: definition
+  value: ville du Vaucluse (84), surnommée « cité des papes » car siège de la papauté de 1309 à 1377
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+    - ville
+  subject: Avignon
+  attribute: anecdote
+  value: le palais des Papes est le plus grand palais gothique du monde ; le pont Saint-Bénézet (« pont d'Avignon ») date du XIIe siècle

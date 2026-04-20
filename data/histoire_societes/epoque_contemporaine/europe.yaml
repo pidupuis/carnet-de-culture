@@ -265,3 +265,21 @@
   subject: Jeanne Burgues-Brun
   attribute: note
   value: correspondance avec Apollinaire dès 1915, lui envoyant un quatrain qu'il appellera son « talisman » ; Apollinaire lui reprochant son pseudonyme masculin (lettre du 31 janvier 1918), elle adopte le pseudonyme Jeanne-Yves Blanc
+- type: periode
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
+    - politique
+  subject: Troisième République
+  attribute: definition
+  value: régime républicain français de 1870 à 1940, le plus long de l'histoire de France
+- type: periode
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - europe
+    - politique
+  subject: Troisième République
+  attribute: anecdote
+  value: instaurée après la défaite de Sedan face à la Prusse ; a survécu à l'affaire Dreyfus, la Commune et la Première Guerre mondiale

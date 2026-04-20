@@ -122,11 +122,15 @@
 
 **Jeanne Burgues-Brun** — Yves Blanc, puis Jeanne-Yves Blanc · 1886-1970 · poétesse et romancière française, marraine de guerre de Guillaume Apollinaire · correspondance avec Apollinaire dès 1915, lui envoyant un quatrain qu'il appellera son « talisman » ; Apollinaire lui reprochant son pseudonyme masculin (lettre du 31 janvier 1918), elle adopte le pseudonyme Jeanne-Yves Blanc
 
+**Troisième République** — régime républicain français de 1870 à 1940, le plus long de l'histoire de France · instaurée après la défaite de Sedan face à la Prusse ; a survécu à l'affaire Dreyfus, la Commune et la Première Guerre mondiale
+
 ### Époque contemporaine · Amérique
 
 **Samuel Morse** — code Morse et télégraphe, brevet 1838, premier message 1844
 
 **Premier vol maîtrisé 1903** — frères Wright avec le Wright Flyer
+
+**Harvey Milk** — premier élu ouvertement homosexuel de Californie, conseiller municipal de San Francisco (1977) · assassiné le 27 novembre 1978 par Dan White, ancien collègue au conseil municipal
 
 
 ## Géographie & Territoires
@@ -155,6 +159,8 @@
 
 **Valachie** — principauté historique du sud de la Roumanie, au nord du Danube
 
+**Avignon** — ville du Vaucluse (84), surnommée « cité des papes » car siège de la papauté de 1309 à 1377 · le palais des Papes est le plus grand palais gothique du monde ; le pont Saint-Bénézet (« pont d'Avignon ») date du XIIe siècle
+
 ### Asie
 
 **Mer de Marmara** — mer intérieure de Turquie entre mer Égée et mer Noire (11 500 km²) · Propontide (gr. pro = avant, pontos = mer)
@@ -165,6 +171,10 @@
 
 **Sri Lanka** — tamoul et singhalais
 
+**Jaipur** — capitale du Rajasthan (Inde), surnommée « la ville rose » pour la couleur de ses bâtiments du vieux centre
+
+**Muscat** — capitale du sultanat d'Oman, port sur le golfe d'Oman
+
 ### Afrique
 
 **Eswatini** — Swaziland (renommé en 2018) · enclavé entre Afrique du Sud et Mozambique
@@ -173,6 +183,8 @@
 
 **Lac Tana** — source du Nil Bleu
 
+**Burkina Faso** — pays d'Afrique de l'Ouest, enclavé. Ancien nom : Haute-Volta, renommé en 1984 par Thomas Sankara. · "pays des hommes intègres" (mooré burkina = intègre, dioula faso = patrie)
+
 ### Amérique
 
 **Mauna Kea** — 4 207 m · plus grande montagne depuis sa base (10 210 m)
@@ -180,6 +192,8 @@
 **Chimborazo** — 6 263 m · plus proche du soleil car situé à l'équateur
 
 **Plymouth (Montserrat)** — ville rasée par éruptions volcaniques dans les années 90
+
+**Guyane** — département et région d'outre-mer français (973) situé en Amérique du Sud, sur la côte nord-est, bordé par le Brésil et le Suriname. Chef-lieu : Cayenne.
 
 ### Océanie
 
@@ -199,6 +213,8 @@
 **Aède** — poète-chanteur de la Grèce antique qui composait et récitait des épopées
 
 **Antinoüs** — chef des prétendants de Pénélope, premier tué par Ulysse
+
+**Ésope** — fabuliste grec du VIe siècle av. J.-C., considéré comme le père de la fable · probablement esclave affranchi ; ses fables ont inspiré Jean de La Fontaine au XVIIe siècle
 
 **Argos** — chien d'Ulysse, le reconnut après vingt ans d'absence · mourut aussitôt après l'avoir revu (Odyssée, chant XVII)
 
@@ -417,6 +433,24 @@
 
 **Rowan Atkinson** — Mr Bean, Johnny English
 
+**La Grande Vadrouille (1966)** — comédie de Gérard Oury avec Bourvil et Louis de Funès. 17 267 607 entrées en France.
+
+**Les Visiteurs (1993)** — comédie de Jean-Marie Poiré avec Christian Clavier et Jean Reno. 13 782 991 entrées en France.
+
+**Le Dîner de cons (1998)** — comédie de Francis Veber avec Jacques Villeret et Thierry Lhermitte. 9 247 001 entrées en France.
+
+**Le Fabuleux Destin d'Amélie Poulain (2001)** — comédie romantique de Jean-Pierre Jeunet avec Audrey Tautou. 8 636 041 entrées en France.
+
+**Astérix et Obélix Mission Cléopâtre (2002)** — comédie d'Alain Chabat avec Jamel Debbouze et Gérard Depardieu. 14 559 509 entrées en France.
+
+**Bienvenue chez les Ch'tis (2008)** — comédie de et avec Dany Boon, plus gros succès français au box-office. 20 489 303 entrées en France. · a détrôné La Grande Vadrouille en seulement 6 semaines ; record de 4 458 837 entrées en première semaine
+
+**Intouchables (2011)** — comédie dramatique d'Olivier Nakache et Éric Toledano avec François Cluzet et Omar Sy. 19 490 688 entrées en France. · film non-anglophone le plus rémunérateur au monde à sa sortie (445 M$ de recettes) ; César du meilleur acteur pour Omar Sy
+
+**Un p'tit truc en plus (2024)** — comédie d'Artus avec Artus et Clovis Cornillac. 10 830 209 entrées en France.
+
+**Le Comte de Monte-Cristo (film, 2024)** — Adaptation du roman d'Alexandre Dumas par Alexandre de La Patellière et Matthieu Delaporte, avec Pierre Niney. Sorti le 28 juin 2024. · 9 429 939 · Film français le plus cher de 2024 (42,9 M€). Hors compétition à Cannes 2024. 3 Césars en 2025 (décors, costumes, César des lycéens). 96 % sur Rotten Tomatoes.
+
 ### Époque contemporaine · Amérique
 
 **Monsieur Verdoux** — Charlie Chaplin · inspiré du Barbe-Bleue de Gambais
@@ -429,6 +463,10 @@
 **Couverture jaune** — dans l'Angleterre victorienne, la couverture jaune signalait un contenu sulfureux ou érotique ; les éditeurs de Dracula (1897) imposèrent cette couleur à Stoker en raison des scènes entre Lucy et le vampire, et les sept premières éditions furent imprimées avec une couverture jaune
 
 **Touron** — variante espagnole du nougat
+
+**Maroilles** — fromage à pâte molle et croûte lavée, originaire de l'Avesnois (Nord). Créé par des moines au VIIe siècle.
+
+**Violette** — fleur emblématique de Toulouse, utilisée en confiserie, parfumerie et liqueur
 
 ### Asie
 
@@ -508,6 +546,14 @@
 
 **Météorites différenciées** — ont subi une séparation interne (noyau, manteau…)
 
+### Physique
+
+**Mileva Marić** — physicienne serbe, première femme d'Albert Einstein (mariage 1903-1919) · l'une des premières femmes à étudier la physique à l'École polytechnique de Zurich ; son rôle dans les travaux d'Einstein de 1905 est débattu par les historiens
+
+**Vitesse du son** — environ 343 m/s dans l'air à 20 °C (soit ~1 235 km/h)
+
+**Vitesse de la lumière** — 299 792 458 m/s dans le vide (soit ~300 000 km/s), notée c · constante fondamentale de la physique ; rien ne peut la dépasser selon la relativité restreinte d'Einstein (1905)
+
 ### Technologie
 
 **Atténuation des bruits de déplacement d'air** — bonnettes anti-vent, filtres anti-pop
@@ -523,6 +569,8 @@
 
 **marathon** — course à pied de 42,195 km, créée pour les JO d'Athènes de 1896 · distance fixée à 42,195 km aux JO de Londres 1908, pour relier le château de Windsor à la loge royale du White City Stadium · Kelvin Kiptum, 2 h 0 min 35 s (Chicago, 2023) · Ruth Chepngetich, 2 h 9 min 57 s (Chicago, 2024) · Eliud Kipchoge, premier homme sous les 2 h (1 h 59 min 40 s, Vienne, 2019), non homologué
 
+**Karsten Warholm** — athlète norvégien, spécialiste du 400 m haies · 45 s 94 (Tokyo 2021), champion olympique 2020
+
 ### Culture pop
 
 **Bob l'éponge** — 1999 · Nickelodeon · Stephen Hillenburg
@@ -534,4 +582,6 @@
 **Robin des Bois** — v. 1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377) · « Robin des Bois » est une erreur de traduction (hood = capuche, confondu avec wood = bois) ; à l'origine un brigand violent, anobli à la fin du XVIe siècle
 
 **Syldavie** — pays imaginaire dans Tintin, inventé par Hergé
+
+**Bécassine** — personnage de BD créé par Jacqueline Rivière (scénario) et Joseph Pinchon (dessin), paru le 2 février 1905 dans La Semaine de Suzette · considérée comme la première héroïne de bande dessinée française ; entrée dans le domaine public le 1er janvier 2024
 
