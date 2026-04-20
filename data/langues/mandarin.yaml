@@ -1,0 +1,112 @@
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 做
+  attribute: pinyin
+  value: zuò
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 做
+  attribute: sens
+  value: faire, agir, travailler
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 做
+  attribute: composants
+  value: 人 (homme), 口 (bouche), 攵 (main qui tient un bâton)
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 八
+  attribute: pinyin
+  value: bā
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 八
+  attribute: sens
+  value: huit
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 八
+  attribute: note
+  value: 'sens originel : "diviser", représente la séparation, 8/6 est le plus divisible'
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 坐
+  attribute: pinyin
+  value: zuò
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 坐
+  attribute: sens
+  value: s'asseoir
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 坐
+  attribute: composants
+  value: 从 (deux hommes), 土 (assis par terre)
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 爱
+  attribute: pinyin
+  value: ài
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 爱
+  attribute: sens
+  value: aimer
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 爱
+  attribute: composants
+  value: 爫 (griffe/main), 冖 (couvrir), 𠂇 (main gauche), 又 (main droite)
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 爱
+  attribute: mnemonique
+  value: tenir quelqu'un par la main
+- type: concept
+  tags:
+    - langues
+    - mandarin
+    - langage
+  subject: 爱
+  attribute: traditionnel
+  value: 愛 (avec 心, cœur)

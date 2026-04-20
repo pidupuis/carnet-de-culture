@@ -28,7 +28,7 @@ Extract:
 
 If the user gave **only a word or name**, infer intent:
 
-- Common/uncommon French word → `langue_litterature` / `concept` with `definition`
+- Common/uncommon French word → `langues` / `concept` with `definition` → `data/langues/francais.yaml`
 - Person's name → look up who they are
 - Place name → look up where/what it is
 - Domain term → appropriate theme
@@ -50,23 +50,47 @@ Before recording anything, verify the facts using `fetch_webpage` on reliable so
    - **Unverifiable** — no reliable source found → warn the user
 6. Proceed only with confirmed or user-approved facts.
 
-### 3. Determine the theme
+### 3. Determine the theme and target file
 
-Read [dictionary.js](../../../scripts/dictionary.js) for the current list of themes. Pick the one that best fits:
+Read [dictionary.js](../../../scripts/dictionary.js) for the current list of themes (`THEMES`), periods (`PERIODS`), continents (`CONTINENTS`), and the hierarchy per theme (`THEME_HIERARCHY`). Pick the theme that best fits:
 
 | Theme key                | Use for                                                             |
 | ------------------------ | ------------------------------------------------------------------- |
 | `histoire_societes`      | Historical events, people in history, political entities, dynasties |
 | `geographie_territoires` | Places, countries, mountains, rivers, geographic facts              |
-| `langue_litterature`     | Words, definitions, grammar, authors, literary works                |
+| `litterature`            | Authors, literary works, mythology, grammar                         |
+| `langues`                | Vocabulary & language learning (French, Mandarin, English…)         |
 | `arts_culture`           | Artists, artworks, music, architecture, cultural objects            |
 | `usages_traditions`      | Customs, food, drinks, rituals, everyday culture                    |
 | `sciences_vivant`        | Biology, medicine, anatomy, zoology, botany                         |
 | `sciences_techniques`    | Physics, chemistry, engineering, astronomy, technology              |
 | `loisirs_fiction`        | Sports, games, fictional characters, TV, hobbies                    |
-| `mandarin`               | Chinese characters only — uses special format (see below)           |
 
-The YAML file to edit is `data/<theme_key>.yaml`.
+Then determine the **target file path** based on the theme's hierarchy (`THEME_HIERARCHY`):
+
+| Theme                    | Hierarchy           | Example path                                         |
+| ------------------------ | ------------------- | ---------------------------------------------------- |
+| `histoire_societes`      | période → continent | `data/histoire_societes/temps_modernes/europe.yaml`  |
+| `arts_culture`           | période → continent | `data/arts_culture/epoque_contemporaine/europe.yaml` |
+| `litterature`            | période → continent | `data/litterature/antiquite/europe.yaml`             |
+| `langues`                | langue              | `data/langues/francais.yaml`                         |
+| `geographie_territoires` | continent           | `data/geographie_territoires/europe.yaml`            |
+| `usages_traditions`      | continent           | `data/usages_traditions/asie.yaml`                   |
+| `sciences_vivant`        | discipline          | `data/sciences_vivant/biologie.yaml`                 |
+| `sciences_techniques`    | discipline          | `data/sciences_techniques/astronomie.yaml`           |
+| `loisirs_fiction`        | sous-catégorie      | `data/loisirs_fiction/fiction.yaml`                  |
+
+**Periods** (for `histoire_societes`, `arts_culture`, `litterature`):
+
+- `prehistoire` — before -3000
+- `antiquite` — -3000 to 476
+- `moyen_age` — 476 to 1492
+- `temps_modernes` — 1492 to 1789
+- `epoque_contemporaine` — 1789 to present
+
+**`langues` theme**: one flat file per language (`data/langues/francais.yaml`, `data/langues/mandarin.yaml`, `data/langues/anglais.yaml`). French is the default for vocabulary words. Tags must include `langues` + the language key (e.g. `francais`). Mandarin entries use special attributes (`pinyin`, `sens`, `composants` — see below).
+
+File naming: snake_case, no empty files. If the target file doesn't exist yet, create it with the new entry.
 
 ### 4. Determine the type
 
@@ -113,24 +137,25 @@ If no existing tag fits well, **ask the user** whether to:
 
 ### 7. Check for duplicates
 
-Search the target YAML file for the subject name.
+Search across `data/**/*.yaml` (the entire data hierarchy) for the subject name using `grep_search`.
 
 - If the subject exists **and** an entry with the same `attribute` key already exists for that subject, **compare values**:
   - If the existing value conveys the same information → **skip** that entry and inform the user it already exists.
   - If the new value adds meaningful detail or corrects the existing one → **ask the user** whether to update (replace) the existing entry or skip it.
 - If the subject exists but the attribute is new → append the new entry after the last entry for that subject to keep entries grouped.
-- If the subject does not exist → append at the end of the file.
+- If the subject does not exist → **insert in chronological order** (see step 8).
 
 ### 8. Write the entries
 
-Append to `data/<theme_key>.yaml`. Each attribute is a separate YAML entry:
+Write to the target file determined in step 3. Each attribute is a separate YAML entry:
 
 ```yaml
-- theme: <theme_key>
-  type: <type_key>
+- type: <type_key>
   tags:
-    - <tag1>
-    - <tag2>
+    - <theme_key>
+    - <sub_category>
+    - <continent>
+    - <semantic_tag1>
   subject: <Subject Name>
   attribute: <attribute_name>
   value: <value>
@@ -138,12 +163,13 @@ Append to `data/<theme_key>.yaml`. Each attribute is a separate YAML entry:
 
 Rules:
 
+- **No `theme` field** — the theme is inferred from the first directory level under `data/`
+- **Tags must include**: the theme key + every sub-directory name in the file path + any additional semantic tags. Example: file `data/histoire_societes/antiquite/europe.yaml` → tags must contain `histoire_societes`, `antiquite`, `europe`. Filenames starting with `_` (like `_general.yaml`) are NOT included as tags.
 - One entry per attribute/value pair
-- All entries for the same subject share the same `theme`, `type`, and `tags`
+- All entries for the same subject share the same `type` and `tags`
 - Numeric-only values must be quoted: `value: "1502"`
 - Values with colons or special YAML characters must be quoted
-- Empty tags list: `tags: []`
-- Append at the end of the file (or after last entry for same subject if it exists)
+- **Chronological insertion**: entries within each file are ordered by date (oldest first). Insert new entries at the correct chronological position based on their date attributes. Subjects without dates go at the end of the file, sorted alphabetically.
 - **Keep values concise** — one short sentence or phrase. If under 10 words, prefer that. This is a memory aid.
 - For vocabulary/definitions: give the **single most useful definition**, not multiple senses
 
@@ -169,28 +195,30 @@ This regenerates `output/knowledge.md` with one-liner per subject, separated by 
 
 ## Mandarin special case
 
-For Chinese characters, use theme `mandarin` and file `data/mandarin.yaml`. Always include `pinyin` and `sens` attributes. Other attributes (`composants`, `mnemonique`, `traditionnel`, `note`) are optional.
+For Chinese characters, use file `data/langues/mandarin.yaml`. Always include `pinyin` and `sens` attributes. Other attributes (`composants`, `mnemonique`, `traditionnel`, `note`) are optional. Tags must include `langues`, `mandarin`, and `langage`.
 
 ## Example
 
 User says: "I learned that Frida Kahlo was a Mexican painter born in 1907, known for self-portraits"
 
-→ Append to `data/arts_culture.yaml`:
+→ Write to `data/arts_culture/epoque_contemporaine/amerique.yaml`:
 
 ```yaml
-- theme: arts_culture
-  type: personne
+- type: personne
   tags:
-    - art
+    - arts_culture
+    - epoque_contemporaine
     - amerique
+    - art
   subject: Frida Kahlo
   attribute: role
   value: peintre mexicaine, connue pour ses autoportraits
-- theme: arts_culture
-  type: personne
+- type: personne
   tags:
-    - art
+    - arts_culture
+    - epoque_contemporaine
     - amerique
+    - art
   subject: Frida Kahlo
   attribute: dates
   value: 1907-1954

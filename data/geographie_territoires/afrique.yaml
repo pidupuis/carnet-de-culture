@@ -1,0 +1,29 @@
+- type: lieu
+  tags:
+    - geographie_territoires
+    - afrique
+  subject: Eswatini
+  attribute: ancien_nom
+  value: Swaziland (renommé en 2018)
+- type: lieu
+  tags:
+    - geographie_territoires
+    - afrique
+  subject: Eswatini
+  attribute: localisation
+  value: enclavé entre Afrique du Sud et Mozambique
+- type: lieu
+  tags:
+    - geographie_territoires
+    - afrique
+    - colonisation
+  subject: Gorée
+  attribute: definition
+  value: île dans la baie de Dakar, symbole de la traite négrière (rôle symbolique majeur, volumes historiques discutés)
+- type: lieu
+  tags:
+    - geographie_territoires
+    - afrique
+  subject: Lac Tana
+  attribute: particularite
+  value: source du Nil Bleu

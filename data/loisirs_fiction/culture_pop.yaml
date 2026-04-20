@@ -1,0 +1,31 @@
+- type: oeuvre
+  tags:
+    - loisirs_fiction
+    - culture_pop
+    - cinema
+  subject: Bob l'éponge
+  attribute: date
+  value: "1999"
+- type: oeuvre
+  tags:
+    - loisirs_fiction
+    - culture_pop
+    - cinema
+  subject: Bob l'éponge
+  attribute: chaine
+  value: Nickelodeon
+- type: oeuvre
+  tags:
+    - loisirs_fiction
+    - culture_pop
+    - cinema
+  subject: Bob l'éponge
+  attribute: createur
+  value: Stephen Hillenburg
+- type: personne
+  tags:
+    - loisirs_fiction
+    - culture_pop
+  subject: Épona
+  attribute: role
+  value: jument de Link dans The Legend of Zelda

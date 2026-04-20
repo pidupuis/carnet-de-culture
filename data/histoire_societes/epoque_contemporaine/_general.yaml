@@ -1,0 +1,16 @@
+- type: evenement
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - empire
+  subject: Abolition du sultanat ottoman
+  attribute: date
+  value: "1922"
+- type: concept
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - religion
+  subject: Œcuménisme
+  attribute: definition
+  value: mouvement pour actions communes entre courants du christianisme

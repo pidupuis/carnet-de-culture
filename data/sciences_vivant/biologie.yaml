@@ -1,0 +1,90 @@
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+    - nature
+  subject: Aptère
+  attribute: definition
+  value: animal sans ailes
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+  subject: Carotides
+  attribute: definition
+  value: artères du cou irriguant la tête et le cerveau
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+  subject: Carotides
+  attribute: etymologie
+  value: dérivé du grec signifiant "soporifique"
+- type: entite
+  tags:
+    - sciences_vivant
+    - biologie
+    - nature
+  subject: Macropodidae
+  attribute: definition
+  value: famille de marsupiaux (kangourous, wallabies, thylogales…)
+- type: entite
+  tags:
+    - sciences_vivant
+    - biologie
+    - nature
+  subject: Proboscidiens
+  attribute: etymologie
+  value: du grec proboskis signifiant "trompe"
+- type: entite
+  tags:
+    - sciences_vivant
+    - biologie
+    - nature
+  subject: Proboscidiens
+  attribute: definition
+  value: ordre de mammifères ne comprenant que les éléphants
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+  subject: Smegma
+  attribute: definition
+  value: substance blanchâtre et caséeuse sous le prépuce et la région vulvaire
+- type: entite
+  tags:
+    - sciences_vivant
+    - biologie
+    - nature
+  subject: Thylogales
+  attribute: synonyme
+  value: pademelons
+- type: entite
+  tags:
+    - sciences_vivant
+    - biologie
+    - nature
+  subject: Thylogales
+  attribute: surnom
+  value: petit kangourou de la forêt
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+  subject: Tularémie
+  attribute: agent
+  value: Francisella tularensis (bacille de Francis)
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+  subject: Tularémie
+  attribute: particularite
+  value: la bactérie peut traverser la peau saine
+- type: concept
+  tags:
+    - sciences_vivant
+    - biologie
+  subject: Zoonose
+  attribute: definition
+  value: maladie transmise de l'animal aux humains et inversement

@@ -1,0 +1,36 @@
+- type: entite
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+    - economie
+    - nature
+    - ville
+  subject: Cérès
+  attribute: role
+  value: déesse romaine de l'agriculture, des moissons et de la fertilité
+- type: entite
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+    - biologie
+  subject: Épona
+  attribute: role
+  value: déesse gallo-romaine des chevaux et des cavaliers
+- type: entite
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+  subject: Jason
+  attribute: role
+  value: héros de la toison d'or, à la tête des Argonautes
+- type: entite
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+  subject: Jason
+  attribute: parents
+  value: "fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé"

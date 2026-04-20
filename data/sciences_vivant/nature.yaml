@@ -1,0 +1,21 @@
+- type: concept
+  tags:
+    - sciences_vivant
+    - nature
+  subject: Drageon
+  attribute: definition
+  value: rejeton naissant de la racine d'un arbre ou d'une plante, détachable pour le replanter (lilas, peuplier, framboisier)
+- type: concept
+  tags:
+    - sciences_vivant
+    - nature
+  subject: Génisse
+  attribute: definition
+  value: vache n'ayant pas vêlé
+- type: entite
+  tags:
+    - sciences_vivant
+    - nature
+  subject: Orge
+  attribute: nom_latin
+  value: Hordeum vulgare

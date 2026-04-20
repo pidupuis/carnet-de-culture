@@ -1,0 +1,16 @@
+- type: concept
+  tags:
+    - arts_culture
+    - temps_modernes
+    - theatre
+  subject: Arlequin
+  attribute: definition
+  value: cadre décoratif au-dessus de la scène (manteau d'Arlequin) ; aussi personnage aux costumes colorés de la commedia dell'arte
+- type: objet
+  tags:
+    - arts_culture
+    - temps_modernes
+    - musique
+  subject: Fifre
+  attribute: definition
+  value: flûte proche du piccolo, parfois sans clé

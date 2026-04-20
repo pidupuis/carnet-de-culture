@@ -1,0 +1,64 @@
+- type: concept
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Chondrite
+  attribute: definition
+  value: inflammation d'un cartilage
+- type: personne
+  tags:
+    - sciences_vivant
+    - medecine
+    - technologie
+  subject: Ernst Gräfenberg
+  attribute: invention
+  value: le stérilet
+- type: personne
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Ernst Gräfenberg
+  attribute: note
+  value: a donné son nom au point G
+- type: concept
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Hypercapnie
+  attribute: synonyme
+  value: hypercarbie
+- type: concept
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Hypercapnie
+  attribute: definition
+  value: excès de CO2 dans le sang
+- type: concept
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Lochies
+  attribute: definition
+  value: pertes vaginales sécrétées après l'accouchement
+- type: substance
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Viagra
+  attribute: molecule
+  value: citrate de sildénafil
+- type: substance
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Viagra
+  attribute: fabricant
+  value: Pfizer
+- type: substance
+  tags:
+    - sciences_vivant
+    - medecine
+  subject: Viagra
+  attribute: etymologie
+  value: contraction de "vigueur" et "chute du Niagara" (étymologie supposée, non confirmée par Pfizer)

@@ -1,0 +1,37 @@
+- type: lieu
+  tags:
+    - geographie_territoires
+    - amerique
+    - oceanie
+  subject: Mauna Kea
+  attribute: altitude
+  value: 4 207 m
+- type: lieu
+  tags:
+    - geographie_territoires
+    - amerique
+    - oceanie
+  subject: Mauna Kea
+  attribute: titre
+  value: plus grande montagne depuis sa base (10 210 m)
+- type: lieu
+  tags:
+    - geographie_territoires
+    - amerique
+  subject: Chimborazo
+  attribute: altitude
+  value: 6 263 m
+- type: lieu
+  tags:
+    - geographie_territoires
+    - amerique
+  subject: Chimborazo
+  attribute: titre
+  value: plus proche du soleil car situé à l'équateur
+- type: lieu
+  tags:
+    - geographie_territoires
+    - amerique
+  subject: Plymouth (Montserrat)
+  attribute: particularite
+  value: ville rasée par éruptions volcaniques dans les années 90

@@ -1,0 +1,80 @@
+- type: evenement
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Artemis 2
+  attribute: date
+  value: 1er avril 2026
+- type: evenement
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Artemis 2
+  attribute: note
+  value: premier vol habité au-delà de l'orbite terrestre basse depuis Apollo 17 en 1972
+- type: objet
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Cérès (astéroïde)
+  attribute: definition
+  value: plus gros astéroïde de la ceinture principale
+- type: objet
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Cérès (astéroïde)
+  attribute: decouverte
+  value: "1801"
+- type: objet
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Cérès (astéroïde)
+  attribute: reclassification
+  value: catégorisé planète naine en 2006
+- type: objet
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Ceinture principale d'astéroïdes
+  attribute: localisation
+  value: entre les orbites de Mars et Jupiter
+- type: concept
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Chondrites
+  attribute: definition
+  value: premières météorites, les plus courantes, non différenciées (pierreuses, contenant des chondres)
+- type: concept
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Mars
+  attribute: satellites
+  value: Phobos et Déimos
+- type: concept
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Mercure et Vénus
+  attribute: satellites
+  value: aucun satellite naturel
+- type: concept
+  tags:
+    - sciences_techniques
+    - astronomie
+    - espace
+  subject: Météorites différenciées
+  attribute: definition
+  value: ont subi une séparation interne (noyau, manteau…)

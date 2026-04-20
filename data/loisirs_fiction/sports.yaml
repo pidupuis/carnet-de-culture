@@ -1,0 +1,24 @@
+- type: personne
+  tags:
+    - loisirs_fiction
+    - sports
+    - culture_pop
+  subject: Richard Fosbury
+  attribute: surnom
+  value: Dick Fosbury
+- type: personne
+  tags:
+    - loisirs_fiction
+    - sports
+    - culture_pop
+  subject: Richard Fosbury
+  attribute: palmares
+  value: titre olympique Mexico 1968, initiateur du Fosbury-flop
+- type: concept
+  tags:
+    - loisirs_fiction
+    - sports
+    - culture_pop
+  subject: Fosbury-flop
+  attribute: definition
+  value: technique du saut en hauteur, rouleau dorsal

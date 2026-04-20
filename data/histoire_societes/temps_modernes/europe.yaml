@@ -1,0 +1,158 @@
+- type: periode
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - art
+  subject: Quattrocento
+  attribute: definition
+  value: XVe siècle italien, Première Renaissance
+- type: periode
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - art
+  subject: Quattrocento
+  attribute: dates
+  value: 1400-1500
+- type: periode
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - art
+  subject: Cinquecento
+  attribute: definition
+  value: XVIe siècle italien, Haute Renaissance puis Maniérisme
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+  subject: Bataille de Mohács
+  attribute: date
+  value: "1526"
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+  subject: Bataille de Mohács
+  attribute: description
+  value: défaite hongroise face aux Ottomans
+- type: concept
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - region
+  subject: Partium
+  attribute: definition
+  value: territoires hongrois rattachés à la principauté de Transylvanie après 1526
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+    - pouvoir
+  subject: Partage de la Hongrie
+  attribute: date
+  value: "1541"
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+    - pouvoir
+  subject: Partage de la Hongrie
+  attribute: description
+  value: la Hongrie est partagée entre Ottomans et Habsbourg
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - societe
+  subject: Édit de Roussillon
+  attribute: date
+  value: 9 août 1564
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - societe
+  subject: Édit de Roussillon
+  attribute: effet
+  value: fait passer le début d'année du 1er avril au 1er janvier (dates auparavant variables selon les régions)
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - region
+  subject: Principauté de Transylvanie
+  attribute: naissance_officielle
+  value: "1570"
+- type: entite
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+    - region
+  subject: Principauté de Transylvanie
+  attribute: definition
+  value: État semi-indépendant (1570-1711) sous suzeraineté ottomane
+- type: objet
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - medecine
+  subject: Grand Saint Antoine
+  attribute: role
+  value: navire ayant apporté la peste à Marseille en 1720
+- type: entite
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+    - pouvoir
+  subject: Habsbourg-Lorraine
+  attribute: definition
+  value: branche régnante de l'empire d'Autriche à partir de 1745
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+  subject: Traité de Küçük Kaynarca
+  attribute: date
+  value: "1774"
+- type: evenement
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+  subject: Traité de Küçük Kaynarca
+  attribute: effet
+  value: victoire russe sur les Ottomans, recul ottoman en mer Noire
+- type: entite
+  tags:
+    - histoire_societes
+    - temps_modernes
+    - europe
+    - empire
+    - pouvoir
+  subject: Maison de Habsbourg
+  attribute: definition
+  value: dynastie régnant sur l'Autriche, l'Espagne et le Saint-Empire

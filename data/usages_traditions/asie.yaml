@@ -1,0 +1,47 @@
+- type: substance
+  tags:
+    - usages_traditions
+    - asie
+    - societe
+  subject: Argile de Yixing
+  attribute: definition
+  value: argile de grès pour théières, ville de Yixing, province du Jiangsu, Chine
+- type: substance
+  tags:
+    - usages_traditions
+    - asie
+  subject: Baie de Goji
+  attribute: definition
+  value: baie du lyciet commun, produit principalement dans la région du Ningxia, Chine
+- type: objet
+  tags:
+    - usages_traditions
+    - asie
+    - societe
+  subject: Gaiwan
+  attribute: definition
+  value: tasse à couvercle chinoise pour thé
+- type: concept
+  tags:
+    - usages_traditions
+    - asie
+    - societe
+  subject: Gong fu cha
+  attribute: definition
+  value: art du thé chinois
+- type: substance
+  tags:
+    - usages_traditions
+    - asie
+    - societe
+  subject: Oolong
+  attribute: definition
+  value: thé à oxydation partielle, aussi appelé thé bleu-vert
+- type: substance
+  tags:
+    - usages_traditions
+    - asie
+    - societe
+  subject: Pu-erh
+  attribute: definition
+  value: thé sombre post-fermenté, ville de Pu'er, province du Yunnan, Chine

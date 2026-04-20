@@ -1,0 +1,14 @@
+- type: concept
+  tags:
+    - usages_traditions
+    - societe
+  subject: Oxydation du thé
+  attribute: echelle
+  value: vert (pas) > blanc (peu) > bleu (incomplet) > noir=rouge (complet)
+- type: substance
+  tags:
+    - usages_traditions
+    - societe
+  subject: Thé rouge
+  attribute: definition
+  value: thé noir en Chine / rooibos en Occident — pas un vrai thé, pas issu de Camellia sinensis

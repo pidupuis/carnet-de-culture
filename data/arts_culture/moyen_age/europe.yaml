@@ -1,0 +1,27 @@
+- type: personne
+  tags:
+    - arts_culture
+    - moyen_age
+    - europe
+    - art
+  subject: Giotto
+  attribute: vrai_nom
+  value: Ambrogiotto di Bondone (prénom débattu, parfois Angiolotto)
+- type: personne
+  tags:
+    - arts_culture
+    - moyen_age
+    - europe
+    - art
+  subject: Giotto
+  attribute: dates
+  value: 1266/67-1337
+- type: personne
+  tags:
+    - arts_culture
+    - moyen_age
+    - europe
+    - art
+  subject: Giotto
+  attribute: role
+  value: artiste majeur du Trecento, florentin

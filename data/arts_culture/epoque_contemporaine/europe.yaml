@@ -1,0 +1,82 @@
+- type: oeuvre
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+  subject: Le joueur de fifre
+  attribute: artiste
+  value: Édouard Manet
+- type: oeuvre
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+  subject: Le joueur de fifre
+  attribute: date
+  value: "1866"
+- type: oeuvre
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - art
+    - esthetique
+  subject: Le bal du moulin de la Galette
+  attribute: artiste
+  value: Pierre-Auguste Renoir
+- type: oeuvre
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - art
+    - esthetique
+  subject: Le déjeuner des canotiers
+  attribute: artiste
+  value: Pierre-Auguste Renoir
+- type: personne
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - musique
+  subject: Paul McCartney
+  attribute: groupes
+  value: Beatles, Wings
+- type: personne
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - musique
+  subject: Paul McCartney
+  attribute: oeuvre_notable
+  value: BO "Vivre et laisser mourir"
+- type: personne
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - art
+    - esthetique
+  subject: Pierre-Auguste Renoir
+  attribute: role
+  value: peintre impressionniste
+- type: personne
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+    - art
+    - esthetique
+  subject: Pierre-Auguste Renoir
+  attribute: lieu_naissance
+  value: Limoges
+- type: personne
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - europe
+  subject: Rowan Atkinson
+  attribute: roles_celebres
+  value: Mr Bean, Johnny English

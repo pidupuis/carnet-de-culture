@@ -34,7 +34,7 @@ For each item, extract:
 
 If the user gave **only a word or name with no context**, infer the most likely intent:
 
-- A common/uncommon French word → `langue_litterature` / `concept` with `definition`
+- A common/uncommon French word → `langues` / `concept` with `definition` → `data/langues/francais.yaml`
 - A person's name → look up who they are
 - A place name → look up where/what it is
 - An obvious domain term → appropriate theme
@@ -56,26 +56,33 @@ If the user mentioned a book, chapter, article, or author in step 1, use that co
 
 - **Disambiguation**: for ambiguous or polysemous terms, append context keywords to Wikipedia/Wiktionary search queries. For example, "Phémios" with context "L'Odyssée" → search `fr.wikipedia.org/wiki/Phémios` or "Phémios Odyssée". For unambiguous terms (e.g. a common French word like "aède"), search normally — don't force context into every query.
 - **Sense selection**: for polysemous words, prefer the sense relevant to the reading context over the most common sense. For example, "périple" in a maritime/Homeric context → prefer the original nautical meaning.
-- **Tag inference**: use the reading context to help determine appropriate theme, type, and tags. For example, words discovered reading about the Odyssey likely belong to `langue_litterature` with tags like `litterature`, `antiquite`.
+- **Tag inference**: use the reading context to help determine appropriate theme, type, and tags. For example, words discovered reading about the Odyssey likely belong to `litterature` with tags like `litterature`, `antiquite`.
 - **Attribute relevance**: prioritize attributes that relate to the reading context over generic facts. For example, if the user is reading about the Odyssey, Phémios's role in the narrative ("aède épargné par Ulysse") matters more than generic biographical trivia.
 
-### 3. Determine theme, type, tags for each
+### 3. Determine theme, type, tags, and target file for each
 
 Use the reference tables from the add-entry skill ([SKILL.md](../add-entry/SKILL.md)):
 
-- Theme → which `data/<theme>.yaml` file
+- Theme → determines the first directory level under `data/`
+- Sub-category (period, continent, discipline) → determines the sub-path and file — see `THEME_HIERARCHY` in [dictionary.js](../../../scripts/dictionary.js)
 - Type → `personne`, `concept`, `lieu`, etc.
-- Tags → 1-3 relevant tags from [dictionary.js](../../../scripts/dictionary.js)
+- Tags → must include the theme + all path components (except `_general` filenames) + 1-3 semantic tags from [dictionary.js](../../../scripts/dictionary.js)
 
-Group entries by theme file for efficient writing.
+Target file examples:
+
+- `data/histoire_societes/antiquite/europe.yaml`
+- `data/langues/francais.yaml`
+- `data/sciences_techniques/astronomie.yaml`
+
+Group entries by target file for efficient writing.
 
 ### 4. Check for duplicates
 
-For each subject, `grep_search` across `data/*.yaml`:
+For each subject, `grep_search` across `data/**/*.yaml` (the entire data hierarchy):
 
 - If subject + attribute already exists with equivalent value → **skip silently**
 - If subject exists but attribute is new → append after existing entries
-- If subject doesn't exist → append at end of file
+- If subject doesn't exist → **insert in chronological order** in the target file (see step 6)
 
 ### 5. Present for per-attribute approval
 
@@ -83,12 +90,14 @@ Show all proposed entries grouped by subject, with each attribute individually n
 
 ```
 ### 1. Phémios (personne)
-Thème: langue_litterature | Tags: litterature, antiquite
-  1.1. **role**: aède d’Ithaque dans l’Odyssée
+Thème: litterature | Fichier: data/litterature/antiquite/europe.yaml
+Tags: litterature, antiquite, europe, litterature
+  1.1. **role**: aède d'Ithaque dans l'Odyssée
   1.2. **note**: épargné par Ulysse lors du massacre des prétendants
 
 ### 2. aède (concept)
-Thème: langue_litterature | Tags: litterature, antiquite
+Thème: litterature | Fichier: data/litterature/antiquite/europe.yaml
+Tags: litterature, antiquite, europe, litterature
   2.1. **definition**: poète-chanteur de la Grèce antique
   2.2. **etymologie**: du grec aoidós, « chanteur »
 ```
@@ -99,13 +108,15 @@ If the list is ≤ 3 items and the user seems in a hurry (very short input, no r
 
 ### 6. Write approved entries
 
-Append **only user-approved attributes from step 5** to the appropriate `data/<theme>.yaml` files. Format per entry:
+Write **only user-approved attributes from step 5** to the appropriate target files. Format per entry:
 
 ```yaml
-- theme: <theme_key>
-  type: <type_key>
+- type: <type_key>
   tags:
-    - <tag1>
+    - <theme_key>
+    - <sub_category>
+    - <continent>
+    - <semantic_tag1>
   subject: <Subject>
   attribute: <attribute>
   value: <value>
@@ -113,11 +124,15 @@ Append **only user-approved attributes from step 5** to the appropriate `data/<t
 
 Rules:
 
+- **No `theme` field** — the theme is inferred from the first directory level under `data/`
+- **Tags must include**: the theme key + every sub-directory name in the file path (except `_general` filenames) + semantic tags
 - One YAML entry per attribute/value pair
 - Quote numeric-only values: `value: "1494"`
 - Keep values **short** — one sentence or phrase, never a paragraph
 - For words/definitions: give the **single most useful definition**, not multiple senses
+- **Chronological insertion**: insert entries at the correct chronological position in the file. Subjects without dates go at the end, sorted alphabetically.
 - Group entries for the same subject together in the file
+- If the target file doesn't exist yet, create it.
 
 ### 7. Validate once
 
@@ -146,19 +161,19 @@ Fix any errors. Report total entries added.
 
 User: "périple, syncrétisme, apocryphe"
 
-→ Look up on Wiktionary → Write 3 concept entries with short definitions → Done.
+→ Look up on Wiktionary → Write 3 concept entries to `data/langues/francais.yaml` with short definitions → Done.
 
 ### Mixed input
 
 User: "Etna, Marie Curie, catalyse"
 
-→ Look up each → Write to `geographie_territoires.yaml`, `sciences_techniques.yaml`, `sciences_techniques.yaml` → Done.
+→ Look up each → Write to `data/geographie_territoires/europe.yaml`, `data/sciences_techniques/physique.yaml`, `data/sciences_techniques/chimie.yaml` → Done.
 
 ### Single word
 
 User: "étiage"
 
-→ Wiktionary → `langue_litterature` / concept / definition: "niveau le plus bas d'un cours d'eau" → Done.
+→ Wiktionary → `langues` / concept / definition: "niveau le plus bas d'un cours d'eau" → `data/langues/francais.yaml` → Done.
 
 ### With reading context
 
@@ -171,12 +186,14 @@ User: "Reading _Pourquoi lire les classiques_ by Calvino, chapter _Les Odyssées
 
 ```
 ### 1. Phémios (personne)
-Thème: langue_litterature | Tags: litterature, antiquite
-  1.1. **role**: aède d’Ithaque dans l’Odyssée
+Thème: litterature | Fichier: data/litterature/antiquite/europe.yaml
+Tags: litterature, antiquite, europe, litterature
+  1.1. **role**: aède d'Ithaque dans l'Odyssée
   1.2. **note**: épargné par Ulysse lors du massacre des prétendants
 
 ### 2. aède (concept)
-Thème: langue_litterature | Tags: litterature, antiquite
+Thème: litterature | Fichier: data/litterature/antiquite/europe.yaml
+Tags: litterature, antiquite, europe, litterature
   2.1. **definition**: poète-chanteur de la Grèce antique
   2.2. **etymologie**: du grec aoidós, « chanteur »
 ```

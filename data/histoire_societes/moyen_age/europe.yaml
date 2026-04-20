@@ -1,0 +1,99 @@
+- type: personne
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - pouvoir
+  subject: Hugues Capet
+  attribute: role
+  value: roi de France
+- type: personne
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - pouvoir
+  subject: Hugues Capet
+  attribute: couronnement
+  value: "987"
+- type: personne
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - pouvoir
+  subject: Hugues Capet
+  attribute: dynastie
+  value: Capétiens
+- type: entite
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - empire
+  subject: Empire ottoman
+  attribute: definition
+  value: empire turc musulman fondé vers 1299 par Osman Ier
+- type: personne
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - guerre
+  subject: Vlad III
+  attribute: surnom
+  value: Dracul (« diable » ou « dragon » en valaque) et Tepes (« l'empaleur »)
+- type: personne
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - guerre
+  subject: Vlad III
+  attribute: role
+  value: voïvode de Valachie au XVe siècle, a combattu les Ottomans
+- type: personne
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - guerre
+  subject: Vlad III
+  attribute: note
+  value: a inspiré le personnage du comte Dracula de Bram Stoker ; pratiquait le supplice du pal sur ses ennemis
+- type: evenement
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - empire
+  subject: Prise de Constantinople
+  attribute: date
+  value: "1453"
+- type: evenement
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - empire
+  subject: Prise de Constantinople
+  attribute: consequence
+  value: fin de l'Empire byzantin
+- type: entite
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - empire
+  subject: Empire byzantin
+  attribute: definition
+  value: empire romain d'Orient remplacé par l'Empire ottoman en 1453
+- type: concept
+  tags:
+    - histoire_societes
+    - moyen_age
+    - europe
+    - pouvoir
+  subject: Voïvode
+  attribute: definition
+  value: commandant de région militaire, puis titre de noblesse dans les pays slaves et roumains

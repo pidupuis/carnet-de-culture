@@ -1,0 +1,112 @@
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Moldoveanu
+  attribute: altitude
+  value: 2 544 m
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Moldoveanu
+  attribute: titre
+  value: plus haut sommet de Roumanie
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Mont Gerlach
+  attribute: altitude
+  value: 2 655 m
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Mont Gerlach
+  attribute: titre
+  value: point culminant des Carpates
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Moldavie (région)
+  attribute: definition
+  value: ancienne principauté entre Carpates et Dniestr ; Bessarabie cédée à la Russie (1812), partie occidentale unie à la Valachie (1859)
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Carpates méridionales
+  attribute: localisation
+  value: Roumanie
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Carpates méridionales
+  attribute: autre_nom
+  value: Alpes de Transylvanie
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Carpates occidentales
+  attribute: localisation
+  value: République tchèque, Slovaquie, Pologne
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Carpates orientales
+  attribute: localisation
+  value: Slovaquie, Pologne, Ukraine, Roumanie
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Ithaque
+  attribute: localisation
+  value: île ionienne de Grèce
+- type: concept
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Licorne
+  attribute: role
+  value: symbole de l'Écosse
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Rotterdam
+  attribute: titre
+  value: plus grand port d'Europe
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Transylvanie
+  attribute: etymologie
+  value: "\"au-delà des forêts\""
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Transylvanie
+  attribute: autre_nom
+  value: Ardeal
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Transylvanie
+  attribute: localisation
+  value: région historique du centre-ouest de la Roumanie
+- type: lieu
+  tags:
+    - geographie_territoires
+    - europe
+  subject: Valachie
+  attribute: definition
+  value: principauté historique du sud de la Roumanie, au nord du Danube

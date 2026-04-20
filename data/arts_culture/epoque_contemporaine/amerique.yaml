@@ -1,0 +1,16 @@
+- type: oeuvre
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - amerique
+  subject: Monsieur Verdoux
+  attribute: realisateur
+  value: Charlie Chaplin
+- type: oeuvre
+  tags:
+    - arts_culture
+    - epoque_contemporaine
+    - amerique
+  subject: Monsieur Verdoux
+  attribute: inspiration
+  value: inspiré du Barbe-Bleue de Gambais

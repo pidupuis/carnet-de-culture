@@ -1,0 +1,16 @@
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - asie
+  subject: Vâtsyâyana
+  attribute: role
+  value: auteur indien à qui on attribue le Kamasutra
+- type: personne
+  tags:
+    - litterature
+    - antiquite
+    - asie
+  subject: Vâtsyâyana
+  attribute: epoque
+  value: "entre IIe et IIIe siècle (fourchette large : Ier-VIe)"

@@ -1,0 +1,84 @@
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+    - esthetique
+  subject: Lièvre
+  attribute: artiste
+  value: Albrecht Dürer
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+    - esthetique
+  subject: Lièvre
+  attribute: date
+  value: "1502"
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+    - esthetique
+  subject: Lièvre
+  attribute: note
+  value: exemple de réalisme
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+    - esthetique
+  subject: Saint Mathieu
+  attribute: artiste
+  value: Caravage
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+    - esthetique
+  subject: Saint Mathieu
+  attribute: date
+  value: "1602"
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+    - esthetique
+  subject: Saint Mathieu
+  attribute: note
+  value: a dû refaire le tableau car non conventionnel
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+  subject: Éléphant
+  attribute: artiste
+  value: Rembrandt
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+  subject: Éléphant
+  attribute: date
+  value: "1637"
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+  subject: Éléphant
+  attribute: note
+  value: peau ridée via quelques coups de crayon

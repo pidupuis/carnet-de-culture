@@ -1,0 +1,26 @@
+- type: fiction
+  tags:
+    - loisirs_fiction
+    - fiction
+    - culture_pop
+    - moyen_age
+  subject: Robin des Bois
+  attribute: premiere_mention
+  value: "1228 (document judiciaire) ; première œuvre littéraire : Pierre le laboureur de William Langland (1377)"
+- type: fiction
+  tags:
+    - loisirs_fiction
+    - fiction
+    - culture_pop
+    - moyen_age
+  subject: Robin des Bois
+  attribute: note
+  value: « Robin des Bois » est une erreur de traduction (hood = capuche, confondu avec wood = bois) ; à l'origine un brigand violent, anobli à la fin du XVIe siècle
+- type: fiction
+  tags:
+    - loisirs_fiction
+    - fiction
+    - culture_pop
+  subject: Syldavie
+  attribute: definition
+  value: pays imaginaire dans Tintin, inventé par Hergé

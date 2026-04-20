@@ -1,0 +1,384 @@
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Charles Dickens
+  attribute: dates
+  value: 1812-1870
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Charles Dickens
+  attribute: nationalite
+  value: anglais
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Charles Dickens
+  attribute: titre
+  value: plus grand romancier victorien
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Lewis Carroll
+  attribute: vrai_nom
+  value: Charles Lutwidge Dodgson
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Lewis Carroll
+  attribute: dates
+  value: 1832-1898
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Lewis Carroll
+  attribute: nationalite
+  value: britannique
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Oliver Twist
+  attribute: auteur
+  value: Charles Dickens
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Oliver Twist
+  attribute: date
+  value: 1837-1839
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Un chant de Noël
+  attribute: auteur
+  value: Charles Dickens
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Un chant de Noël
+  attribute: date
+  value: "1843"
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Bram Stoker
+  attribute: nationalite
+  value: irlandais
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Bram Stoker
+  attribute: vrai_nom
+  value: Abraham Stoker
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Bram Stoker
+  attribute: dates
+  value: 1847-1912
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Bram Stoker
+  attribute: role
+  value: écrivain irlandais, auteur du roman gothique Dracula
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: David Copperfield
+  attribute: auteur
+  value: Charles Dickens
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: David Copperfield
+  attribute: date
+  value: 1849-1850
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Le Conte de deux cités
+  attribute: auteur
+  value: Charles Dickens
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Le Conte de deux cités
+  attribute: date
+  value: "1859"
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Arthur Conan Doyle
+  attribute: vrai_nom
+  value: Arthur Ignatius Conan Doyle
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Arthur Conan Doyle
+  attribute: dates
+  value: 1859-1930
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Arthur Conan Doyle
+  attribute: nationalite
+  value: écossais
+- type: personne
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Arthur Conan Doyle
+  attribute: titre
+  value: Sir depuis 1902
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Les Grandes Espérances
+  attribute: auteur
+  value: Charles Dickens
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Les Grandes Espérances
+  attribute: date
+  value: 1860-1861
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Les Aventures d'Alice au pays des merveilles
+  attribute: auteur
+  value: Lewis Carroll
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Les Aventures d'Alice au pays des merveilles
+  attribute: date
+  value: "1865"
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: L'Idiot
+  attribute: auteur
+  value: Fiodor Dostoïevski
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: L'Idiot
+  attribute: date
+  value: 1868-1869
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: L'Idiot
+  attribute: citation
+  value: La beauté sauvera le Monde
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: De l'autre côté du miroir
+  attribute: auteur
+  value: Lewis Carroll
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: De l'autre côté du miroir
+  attribute: date
+  value: "1871"
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: De l'autre côté du miroir
+  attribute: note
+  value: suite d'Alice au pays des merveilles
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Carmilla
+  attribute: auteur
+  value: Sheridan Le Fanu
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Carmilla
+  attribute: date
+  value: "1872"
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Carmilla
+  attribute: note
+  value: roman vampirique précurseur de Dracula
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Sherlock Holmes
+  attribute: auteur
+  value: Arthur Conan Doyle
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+  subject: Sherlock Holmes
+  attribute: corpus
+  value: 4 romans et 56 nouvelles entre 1887 et 1930
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Le Château des Carpates
+  attribute: auteur
+  value: Jules Verne
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Le Château des Carpates
+  attribute: date
+  value: "1892"
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Dracula
+  attribute: auteur
+  value: Bram Stoker
+- type: oeuvre
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Dracula
+  attribute: date
+  value: "1897"
+- type: entite
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Prix Goncourt
+  attribute: creation
+  value: "1903"
+- type: entite
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Prix Goncourt
+  attribute: premier_laureat
+  value: John-Antoine Nau, Force ennemie
+- type: entite
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Prix Femina
+  attribute: creation
+  value: "1904"
+- type: entite
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Prix Femina
+  attribute: premiere_laureate
+  value: Myriam Harry, La Conquête de Jérusalem
+- type: entite
+  tags:
+    - litterature
+    - epoque_contemporaine
+    - europe
+    - litterature
+  subject: Prix Femina
+  attribute: note
+  value: créé en réaction au Goncourt 1903, jugé misogyne pour avoir écarté Myriam Harry au profit de Léon Frapié

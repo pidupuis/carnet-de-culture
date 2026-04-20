@@ -1,0 +1,49 @@
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Mer de Marmara
+  attribute: definition
+  value: mer intérieure de Turquie entre mer Égée et mer Noire (11 500 km²)
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Mer de Marmara
+  attribute: autre_nom
+  value: Propontide (gr. pro = avant, pontos = mer)
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Everest
+  attribute: altitude
+  value: 8 848,86 m
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Everest
+  attribute: titre
+  value: plus haute montagne au-dessus du niveau de la mer
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Lac Baïkal
+  attribute: localisation
+  value: Sibérie russe
+- type: lieu
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Lac Baïkal
+  attribute: particularite
+  value: le plus profond de la planète, 1642 m de profondeur
+- type: concept
+  tags:
+    - geographie_territoires
+    - asie
+  subject: Sri Lanka
+  attribute: langues_officielles
+  value: tamoul et singhalais

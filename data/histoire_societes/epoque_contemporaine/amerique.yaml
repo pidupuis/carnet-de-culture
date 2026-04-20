@@ -1,0 +1,18 @@
+- type: personne
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - amerique
+    - technologie
+  subject: Samuel Morse
+  attribute: invention
+  value: code Morse et télégraphe, brevet 1838, premier message 1844
+- type: evenement
+  tags:
+    - histoire_societes
+    - epoque_contemporaine
+    - amerique
+    - technologie
+  subject: Premier vol maîtrisé 1903
+  attribute: description
+  value: frères Wright avec le Wright Flyer
