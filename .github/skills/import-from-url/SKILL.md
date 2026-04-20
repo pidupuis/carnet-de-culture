@@ -34,6 +34,8 @@ During extraction (step 3), **skip any fact that is already recorded** — same 
 
 ### 3. Extract candidate knowledge entries
 
+The fetched article content serves as **implicit reading context** for all extracted facts. Use the article's domain and topic to disambiguate ambiguous terms, select the relevant sense of polysemous words, and choose which attributes are most worth recording.
+
 Analyse the fetched content and extract facts that are worth recording in a general-culture notebook. Focus on:
 
 - **People** — birth/death dates, nationality, notable role, famous works
@@ -62,29 +64,27 @@ Cross-check key facts (dates, names, definitions, attributions) against reliable
 - Drop any fact that cannot be verified and appears dubious.
 - **Use verified sources to refine the wording** — prefer precise, well-established formulations over the article's phrasing. If verification reveals useful additional facts (etymology, synonyms, related concepts), propose them as extra entries.
 
-### 5. Present the list to the user
+### 5. Present for per-attribute approval
 
-Display the extracted facts as a numbered list grouped by subject for the user to review. For each fact, show:
+Display the extracted facts grouped by subject, with each attribute individually numbered for accept/reject:
 
 ```
-### <Subject Name> (<proposed type>)
+### 1. <Subject Name> (<proposed type>)
 Thème: <theme_key> | Tags: <tag1>, <tag2>
+  1.1. **<attribute>**: <value>
+  1.2. **<attribute>**: <value>
 
-1. **<attribute>**: <value>
-2. **<attribute>**: <value>
-...
+### 2. <Subject Name> (<proposed type>)
+Thème: <theme_key> | Tags: <tag1>, <tag2>
+  2.1. **<attribute>**: <value>
+  2.2. **<attribute>**: <value>
 ```
 
-Then ask the user to:
-
-- **Approve all** — proceed with adding everything
-- **Select specific items** — by number, to add only some
-- **Edit** — modify any values before adding
-- **Reject all** — cancel the import
+Then ask: **"Approve all, reject all, or list numbers to accept/reject/edit (e.g. 'accept 1.1, 2.1' or 'reject 1.2' or 'edit 2.2: new value')?"**
 
 ### 6. Add approved entries
 
-For each approved fact, follow the **add-entry** skill procedure (read the full skill at [SKILL.md](../add-entry/SKILL.md)):
+For each **user-approved attribute from step 5**:
 
 1. Open the target `data/<theme_key>.yaml` file
 2. Check if the subject already exists (append after last occurrence if so)
@@ -110,18 +110,17 @@ User shares: `https://en.wikipedia.org/wiki/Marie_Curie`
 → Fetch page → Extract facts → Present:
 
 ```
-### Marie Curie (personne)
+### 1. Marie Curie (personne)
 Thème: sciences_techniques | Tags: science, europe
-
-1. **role**: physicienne et chimiste franco-polonaise, pionnière de la radioactivité
-2. **dates**: 1867-1934
-3. **nationalite**: polonaise, naturalisée française
-4. **lieu_naissance**: Varsovie
-5. **palmares**: première femme à recevoir un prix Nobel ; seule personne à avoir reçu deux prix Nobel dans deux sciences différentes (physique 1903, chimie 1911)
-6. **vrai_nom**: Maria Salomea Skłodowska
+  1.1. **role**: physicienne et chimiste franco-polonaise, pionnière de la radioactivité
+  1.2. **dates**: 1867-1934
+  1.3. **nationalite**: polonaise, naturalisée française
+  1.4. **lieu_naissance**: Varsovie
+  1.5. **palmares**: première femme à recevoir un prix Nobel ; deux Nobel (physique 1903, chimie 1911)
+  1.6. **vrai_nom**: Maria Salomea Skłodowska
 ```
 
-User approves → add-entry for each → `npm run generate`.
+User approves → write approved entries → `npm run generate`.
 
 ## Notes
 

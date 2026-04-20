@@ -1,7 +1,7 @@
 ---
 name: add-entry
-description: "Add a new knowledge entry to the carnet-de-culture. Use when: adding a fact, recording something learned, adding a new piece of general culture knowledge, noting a new definition, person, place, event, or concept."
-argument-hint: "Describe what you learned"
+description: "Add a new knowledge entry to the carnet-de-culture. Use when: adding a fact, recording something learned, adding a new piece of general culture knowledge, noting a new definition, person, place, event, or concept. Also works when the user drops a single word or name discovered while reading."
+argument-hint: "Describe what you learned (optionally mention what you were reading)"
 ---
 
 # Add Knowledge Entry
@@ -24,6 +24,7 @@ Extract:
 
 - **What** is the subject (a person, place, concept, event, work, etc.)
 - **What facts** about it (each fact = one attribute/value pair)
+- **Reading context** (optional) — if the user mentions a book, chapter, article, or author they were reading, note it. The context is **not stored** as an attribute — it is used only to guide research and disambiguation in step 2.
 
 If the user gave **only a word or name**, infer intent:
 
@@ -37,9 +38,11 @@ If the user gave **only a word or name**, infer intent:
 Before recording anything, verify the facts using `fetch_webpage` on reliable sources (Wikipedia, Wiktionary, or other authoritative references):
 
 1. Search for the subject on Wikipedia (fr.wikipedia.org) or Wiktionary (fr.wiktionary.org) depending on the topic.
+   - **If a reading context was provided**: use it to disambiguate the search when the term is ambiguous or polysemous. For example, searching "Phémios" with context "L'Odyssée" → search for "Phémios Odyssée" or go to `fr.wikipedia.org/wiki/Phémios`. For unambiguous terms (e.g. a common French word), search normally — don't force context into every query.
 2. Cross-check each fact the user provided: dates, names, definitions, attributions.
 3. **Use the verified sources to refine the wording** — prefer precise, well-established formulations over the user's casual phrasing. But **keep values concise**: one short sentence or phrase. Do NOT copy long paragraphs.
 4. Only add extra attributes (etymology, synonyms) if they are genuinely interesting or memorable — not systematically.
+   - **If a reading context was provided**: prioritize attributes that relate to the reading context over generic facts. For example, if the user is reading about the Odyssey, Phémios's role in the narrative ("aède épargné par Ulysse") is more relevant than generic biographical trivia.
 5. Report the results to the user:
    - **Confirmed** — fact matches source(s)
    - **Corrected** — source gives a different or more precise value → propose the improved wording

@@ -1,7 +1,7 @@
 ---
 name: add-entries
-description: "Add multiple knowledge entries to the carnet-de-culture in one go. Use when: adding several facts, recording a batch of things learned, adding multiple words/definitions/people/places/events at once. Works with minimal input — even a bare list of words or names is enough."
-argument-hint: "List what you learned (words, facts, names…)"
+description: "Add multiple knowledge entries to the carnet-de-culture in one go. Use when: adding several facts, recording a batch of things learned, adding multiple words/definitions/people/places/events at once. Also works when the user drops words or names discovered while reading — with or without specifying the reading context. Works with minimal input — even a bare list of words or names is enough."
+argument-hint: "List what you learned (words, facts, names… optionally with reading context)"
 ---
 
 # Add Multiple Knowledge Entries (Batch)
@@ -24,11 +24,13 @@ The user provides a list — could be:
 - A numbered list
 - A free-form paragraph with multiple facts
 - A mix of subjects with varying detail
+- **A list of words/names with a reading context**: "Reading _Pourquoi lire les classiques_ by Calvino, chapter _Les Odyssées dans L'Odyssée_. Found: Phémios, aède, Démodokos"
 
 For each item, extract:
 
 - **Subject** — the word, name, or topic
 - **Any details provided** — use them, but don't require them
+- **Reading context** (optional) — if the user mentions a book, chapter, article, or author they were reading, note it. The context is **not stored** as an attribute — it is used only to guide research, disambiguation, and attribute selection in step 2.
 
 If the user gave **only a word or name with no context**, infer the most likely intent:
 
@@ -48,6 +50,15 @@ For each item, do a **quick verification** using `fetch_webpage` (Wikipedia or W
 
 **Do NOT over-enrich.** The goal is a concise memory aid, not an encyclopedia entry. One or two attributes per subject is often enough.
 
+#### When reading context is provided
+
+If the user mentioned a book, chapter, article, or author in step 1, use that context to guide research:
+
+- **Disambiguation**: for ambiguous or polysemous terms, append context keywords to Wikipedia/Wiktionary search queries. For example, "Phémios" with context "L'Odyssée" → search `fr.wikipedia.org/wiki/Phémios` or "Phémios Odyssée". For unambiguous terms (e.g. a common French word like "aède"), search normally — don't force context into every query.
+- **Sense selection**: for polysemous words, prefer the sense relevant to the reading context over the most common sense. For example, "périple" in a maritime/Homeric context → prefer the original nautical meaning.
+- **Tag inference**: use the reading context to help determine appropriate theme, type, and tags. For example, words discovered reading about the Odyssey likely belong to `langue_litterature` with tags like `litterature`, `antiquite`.
+- **Attribute relevance**: prioritize attributes that relate to the reading context over generic facts. For example, if the user is reading about the Odyssey, Phémios's role in the narrative ("aède épargné par Ulysse") matters more than generic biographical trivia.
+
 ### 3. Determine theme, type, tags for each
 
 Use the reference tables from the add-entry skill ([SKILL.md](../add-entry/SKILL.md)):
@@ -66,26 +77,29 @@ For each subject, `grep_search` across `data/*.yaml`:
 - If subject exists but attribute is new → append after existing entries
 - If subject doesn't exist → append at end of file
 
-### 5. Present a compact summary
+### 5. Present for per-attribute approval
 
-Show all proposed entries in a compact table or grouped list:
+Show all proposed entries grouped by subject, with each attribute individually numbered for accept/reject:
 
 ```
-**langue_litterature** — concept
-- **périple**: voyage maritime autour d'une région (gr. periplous) [langage]
-- **résilience**: capacité à se remettre d'un choc [langage, psychologie]
+### 1. Phémios (personne)
+Thème: langue_litterature | Tags: litterature, antiquite
+  1.1. **role**: aède d’Ithaque dans l’Odyssée
+  1.2. **note**: épargné par Ulysse lors du massacre des prétendants
 
-**histoire_societes** — evenement
-- **Traité de Tordesillas**: partage du Nouveau Monde entre Espagne et Portugal (1494) [europe, politique]
+### 2. aède (concept)
+Thème: langue_litterature | Tags: litterature, antiquite
+  2.1. **definition**: poète-chanteur de la Grèce antique
+  2.2. **etymologie**: du grec aoidós, « chanteur »
 ```
 
-Then ask: **approve all, select, or edit?**
+Then ask: **"Approve all, reject all, or list numbers to accept/reject/edit (e.g. 'accept 1.1, 2.1, 2.2' or 'reject 1.2' or 'edit 2.2: new value')?"**
 
-If the list is ≤ 3 items and the user seems in a hurry (very short input), **skip the confirmation and write directly**, just report what was added.
+If the list is ≤ 3 items and the user seems in a hurry (very short input, no reading context), **skip the confirmation and write directly**, just report what was added.
 
-### 6. Write all entries
+### 6. Write approved entries
 
-Append to the appropriate `data/<theme>.yaml` files. Format per entry:
+Append **only user-approved attributes from step 5** to the appropriate `data/<theme>.yaml` files. Format per entry:
 
 ```yaml
 - theme: <theme_key>
@@ -145,3 +159,26 @@ User: "Etna, Marie Curie, catalyse"
 User: "étiage"
 
 → Wiktionary → `langue_litterature` / concept / definition: "niveau le plus bas d'un cours d'eau" → Done.
+
+### With reading context
+
+User: "Reading _Pourquoi lire les classiques_ by Calvino, chapter _Les Odyssées dans L'Odyssée_. Found: Phémios, aède"
+
+→ Note context: Calvino, Odyssey, Greek antiquity.
+→ Search "Phémios" on Wikipedia (disambiguate with "Odyssée") → personne, aède in the Odyssey.
+→ Search "aède" on Wiktionary → concept, poète-chanteur.
+→ Present:
+
+```
+### 1. Phémios (personne)
+Thème: langue_litterature | Tags: litterature, antiquite
+  1.1. **role**: aède d’Ithaque dans l’Odyssée
+  1.2. **note**: épargné par Ulysse lors du massacre des prétendants
+
+### 2. aède (concept)
+Thème: langue_litterature | Tags: litterature, antiquite
+  2.1. **definition**: poète-chanteur de la Grèce antique
+  2.2. **etymologie**: du grec aoidós, « chanteur »
+```
+
+User says "accept 1.1, 2.1, 2.2, reject 1.2" → Write 3 entries, skip 1 → `npm run generate`.
