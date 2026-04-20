@@ -12,6 +12,8 @@
 
 **Jason** — héros de la toison d'or, à la tête des Argonautes · fils d'Éson ; mère selon les sources : Alcimédé ou Polymédé
 
+**Phidippidès** — hémérodrome athénien, à l'origine de la légende du marathon · selon Hérodote, courut ~250 km d'Athènes à Sparte ; selon Plutarque, un messager (Euclès) courut ~42 km de Marathon à Athènes et mourut après avoir annoncé la victoire
+
 **Chirisophe** — général spartiate, commandant en chef des Dix-Mille après l'assassinat de Cléarque · v. 435 – v. 400 av. J.-C.
 
 ### Antiquité · Asie
@@ -307,6 +309,8 @@
 
 **Apocryphe** — authenticité douteuse ou niée
 
+**Hémérodrome** — messager-coureur de la Grèce antique, capable de parcourir de longues distances en un jour · du grec hêmerodrómos : hêméra (jour) + drómos (course)
+
 **In-folio** — format de livre dont la feuille est pliée en deux (4 pages) ; par métonymie, livre de ce format
 
 **Kakémono** — rouleau vertical japonais en papier ou tissu pour afficher peintures, estampes ou calligraphies
@@ -389,9 +393,13 @@
 
 **Lièvre** — Albrecht Dürer · 1502 · exemple de réalisme
 
+**Giuseppe Arcimboldo** — v. 1527 – 1593 · peintre maniériste italien, célèbre pour ses portraits composites de fruits, légumes et objets · Les Quatre Saisons, Vertumne
+
 **Saint Mathieu** — Caravage · 1602 · a dû refaire le tableau car non conventionnel
 
 **Éléphant** — Rembrandt · 1637 · peau ridée via quelques coups de crayon
+
+**Portrait de Marie-Antoinette dit « à la Rose »** — Élisabeth Vigée Le Brun · 1783 · remplace Marie-Antoinette en gaulle, jugé scandaleux au Salon car la reine y paraissait « en chemise »
 
 ### Époque contemporaine · Europe
 
@@ -512,6 +520,8 @@
 **Richard Fosbury** — Dick Fosbury · titre olympique Mexico 1968, initiateur du Fosbury-flop
 
 **Fosbury-flop** — technique du saut en hauteur, rouleau dorsal
+
+**marathon** — course à pied de 42,195 km, créée pour les JO d'Athènes de 1896 · distance fixée à 42,195 km aux JO de Londres 1908, pour relier le château de Windsor à la loge royale du White City Stadium · Kelvin Kiptum, 2 h 0 min 35 s (Chicago, 2023) · Ruth Chepngetich, 2 h 9 min 57 s (Chicago, 2024) · Eliud Kipchoge, premier homme sous les 2 h (1 h 59 min 40 s, Vienne, 2019), non homologué
 
 ### Culture pop
 

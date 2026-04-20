@@ -28,6 +28,33 @@
   subject: Lièvre
   attribute: note
   value: exemple de réalisme
+- type: personne
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+  subject: Giuseppe Arcimboldo
+  attribute: dates
+  value: v. 1527 – 1593
+- type: personne
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+  subject: Giuseppe Arcimboldo
+  attribute: role
+  value: peintre maniériste italien, célèbre pour ses portraits composites de fruits, légumes et objets
+- type: personne
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+  subject: Giuseppe Arcimboldo
+  attribute: oeuvre_notable
+  value: Les Quatre Saisons, Vertumne
 - type: oeuvre
   tags:
     - arts_culture
@@ -82,3 +109,30 @@
   subject: Éléphant
   attribute: note
   value: peau ridée via quelques coups de crayon
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+  subject: Portrait de Marie-Antoinette dit « à la Rose »
+  attribute: artiste
+  value: Élisabeth Vigée Le Brun
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+  subject: Portrait de Marie-Antoinette dit « à la Rose »
+  attribute: date
+  value: "1783"
+- type: oeuvre
+  tags:
+    - arts_culture
+    - temps_modernes
+    - europe
+    - art
+  subject: Portrait de Marie-Antoinette dit « à la Rose »
+  attribute: note
+  value: remplace Marie-Antoinette en gaulle, jugé scandaleux au Salon car la reine y paraissait « en chemise »

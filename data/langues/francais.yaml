@@ -9,6 +9,20 @@
   tags:
     - langues
     - francais
+  subject: Hémérodrome
+  attribute: definition
+  value: messager-coureur de la Grèce antique, capable de parcourir de longues distances en un jour
+- type: concept
+  tags:
+    - langues
+    - francais
+  subject: Hémérodrome
+  attribute: etymologie
+  value: "du grec hêmerodrómos : hêméra (jour) + drómos (course)"
+- type: concept
+  tags:
+    - langues
+    - francais
   subject: In-folio
   attribute: definition
   value: format de livre dont la feuille est pliée en deux (4 pages) ; par métonymie, livre de ce format

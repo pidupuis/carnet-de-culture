@@ -40,6 +40,24 @@
     - antiquite
     - europe
     - guerre
+  subject: Phidippidès
+  attribute: role
+  value: hémérodrome athénien, à l'origine de la légende du marathon
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+    - guerre
+  subject: Phidippidès
+  attribute: note
+  value: "selon Hérodote, courut ~250 km d'Athènes à Sparte ; selon Plutarque, un messager (Euclès) courut ~42 km de Marathon à Athènes et mourut après avoir annoncé la victoire"
+- type: personne
+  tags:
+    - histoire_societes
+    - antiquite
+    - europe
+    - guerre
   subject: Chirisophe
   attribute: role
   value: général spartiate, commandant en chef des Dix-Mille après l'assassinat de Cléarque

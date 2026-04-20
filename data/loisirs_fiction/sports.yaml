@@ -22,3 +22,38 @@
   subject: Fosbury-flop
   attribute: definition
   value: technique du saut en hauteur, rouleau dorsal
+- type: evenement
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: marathon
+  attribute: description
+  value: course à pied de 42,195 km, créée pour les JO d'Athènes de 1896
+- type: evenement
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: marathon
+  attribute: note
+  value: distance fixée à 42,195 km aux JO de Londres 1908, pour relier le château de Windsor à la loge royale du White City Stadium
+- type: evenement
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: marathon
+  attribute: record_monde_hommes
+  value: Kelvin Kiptum, 2 h 0 min 35 s (Chicago, 2023)
+- type: evenement
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: marathon
+  attribute: record_monde_femmes
+  value: Ruth Chepngetich, 2 h 9 min 57 s (Chicago, 2024)
+- type: evenement
+  tags:
+    - loisirs_fiction
+    - sports
+  subject: marathon
+  attribute: note_sub2h
+  value: Eliud Kipchoge, premier homme sous les 2 h (1 h 59 min 40 s, Vienne, 2019), non homologué

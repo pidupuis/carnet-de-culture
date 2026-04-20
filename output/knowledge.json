@@ -70,6 +70,32 @@
       "europe",
       "guerre"
     ],
+    "subject": "Phidippidès",
+    "attribute": "role",
+    "value": "hémérodrome athénien, à l'origine de la légende du marathon",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
+    "subject": "Phidippidès",
+    "attribute": "note",
+    "value": "selon Hérodote, courut ~250 km d'Athènes à Sparte ; selon Plutarque, un messager (Euclès) courut ~42 km de Marathon à Athènes et mourut après avoir annoncé la victoire",
+    "theme": "histoire_societes"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "histoire_societes",
+      "antiquite",
+      "europe",
+      "guerre"
+    ],
     "subject": "Chirisophe",
     "attribute": "role",
     "value": "général spartiate, commandant en chef des Dix-Mille après l'assassinat de Cléarque",
@@ -2719,6 +2745,28 @@
       "langues",
       "francais"
     ],
+    "subject": "Hémérodrome",
+    "attribute": "definition",
+    "value": "messager-coureur de la Grèce antique, capable de parcourir de longues distances en un jour",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais"
+    ],
+    "subject": "Hémérodrome",
+    "attribute": "etymologie",
+    "value": "du grec hêmerodrómos : hêméra (jour) + drómos (course)",
+    "theme": "langues"
+  },
+  {
+    "type": "concept",
+    "tags": [
+      "langues",
+      "francais"
+    ],
     "subject": "In-folio",
     "attribute": "definition",
     "value": "format de livre dont la feuille est pliée en deux (4 pages) ; par métonymie, livre de ce format",
@@ -3280,6 +3328,45 @@
     "theme": "arts_culture"
   },
   {
+    "type": "personne",
+    "tags": [
+      "arts_culture",
+      "temps_modernes",
+      "europe",
+      "art"
+    ],
+    "subject": "Giuseppe Arcimboldo",
+    "attribute": "dates",
+    "value": "v. 1527 – 1593",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "arts_culture",
+      "temps_modernes",
+      "europe",
+      "art"
+    ],
+    "subject": "Giuseppe Arcimboldo",
+    "attribute": "role",
+    "value": "peintre maniériste italien, célèbre pour ses portraits composites de fruits, légumes et objets",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "personne",
+    "tags": [
+      "arts_culture",
+      "temps_modernes",
+      "europe",
+      "art"
+    ],
+    "subject": "Giuseppe Arcimboldo",
+    "attribute": "oeuvre_notable",
+    "value": "Les Quatre Saisons, Vertumne",
+    "theme": "arts_culture"
+  },
+  {
     "type": "oeuvre",
     "tags": [
       "arts_culture",
@@ -3355,6 +3442,45 @@
     "subject": "Éléphant",
     "attribute": "note",
     "value": "peau ridée via quelques coups de crayon",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "temps_modernes",
+      "europe",
+      "art"
+    ],
+    "subject": "Portrait de Marie-Antoinette dit « à la Rose »",
+    "attribute": "artiste",
+    "value": "Élisabeth Vigée Le Brun",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "temps_modernes",
+      "europe",
+      "art"
+    ],
+    "subject": "Portrait de Marie-Antoinette dit « à la Rose »",
+    "attribute": "date",
+    "value": "1783",
+    "theme": "arts_culture"
+  },
+  {
+    "type": "oeuvre",
+    "tags": [
+      "arts_culture",
+      "temps_modernes",
+      "europe",
+      "art"
+    ],
+    "subject": "Portrait de Marie-Antoinette dit « à la Rose »",
+    "attribute": "note",
+    "value": "remplace Marie-Antoinette en gaulle, jugé scandaleux au Salon car la reine y paraissait « en chemise »",
     "theme": "arts_culture"
   },
   {
@@ -4077,6 +4203,61 @@
     "subject": "Fosbury-flop",
     "attribute": "definition",
     "value": "technique du saut en hauteur, rouleau dorsal",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "marathon",
+    "attribute": "description",
+    "value": "course à pied de 42,195 km, créée pour les JO d'Athènes de 1896",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "marathon",
+    "attribute": "note",
+    "value": "distance fixée à 42,195 km aux JO de Londres 1908, pour relier le château de Windsor à la loge royale du White City Stadium",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "marathon",
+    "attribute": "record_monde_hommes",
+    "value": "Kelvin Kiptum, 2 h 0 min 35 s (Chicago, 2023)",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "marathon",
+    "attribute": "record_monde_femmes",
+    "value": "Ruth Chepngetich, 2 h 9 min 57 s (Chicago, 2024)",
+    "theme": "loisirs_fiction"
+  },
+  {
+    "type": "evenement",
+    "tags": [
+      "loisirs_fiction",
+      "sports"
+    ],
+    "subject": "marathon",
+    "attribute": "note_sub2h",
+    "value": "Eliud Kipchoge, premier homme sous les 2 h (1 h 59 min 40 s, Vienne, 2019), non homologué",
     "theme": "loisirs_fiction"
   },
   {
